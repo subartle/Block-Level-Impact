@@ -1,817 +1,817 @@
-CBG,Count,Label,CBG
-8,40,Average Days To Close a Code Violation,8.003
-12,41,Average Days To Close a Code Violation,12.002
-118.05,43,Average Days To Close a Code Violation,118.052
-8,49,Average Days To Close a Code Violation,8.002
-2,50,Average Days To Close a Code Violation,2.001
-3,52,Average Days To Close a Code Violation,3.001
-7,52,Average Days To Close a Code Violation,7.001
-3,53,Average Days To Close a Code Violation,3.002
-12,53,Average Days To Close a Code Violation,12.003
-12,54,Average Days To Close a Code Violation,12.004
-3,55,Average Days To Close a Code Violation,3.004
-12,56,Average Days To Close a Code Violation,12.001
-14,56,Average Days To Close a Code Violation,14.004
-2,57,Average Days To Close a Code Violation,2.002
-147,58,Average Days To Close a Code Violation,147.002
-147,58,Average Days To Close a Code Violation,147.003
-8,59,Average Days To Close a Code Violation,8.001
-147,59,Average Days To Close a Code Violation,147.001
-9,61,Average Days To Close a Code Violation,9.001
-5,62,Average Days To Close a Code Violation,5.002
-4,63,Average Days To Close a Code Violation,4.002
-4,64,Average Days To Close a Code Violation,4.003
-7,64,Average Days To Close a Code Violation,7.003
-11,64,Average Days To Close a Code Violation,11.003
-4,65,Average Days To Close a Code Violation,4.001
-7,65,Average Days To Close a Code Violation,7.002
-11,66,Average Days To Close a Code Violation,11.002
-3,67,Average Days To Close a Code Violation,3.003
-9,67,Average Days To Close a Code Violation,9.002
-11,67,Average Days To Close a Code Violation,11.001
-5,68,Average Days To Close a Code Violation,5.003
-9,68,Average Days To Close a Code Violation,9.004
-10,68,Average Days To Close a Code Violation,10.002
-14,69,Average Days To Close a Code Violation,14.001
-1,72,Average Days To Close a Code Violation,1.001
-10,72,Average Days To Close a Code Violation,10.003
-9,73,Average Days To Close a Code Violation,9.003
-10,73,Average Days To Close a Code Violation,10.004
-10,74,Average Days To Close a Code Violation,10.001
-14,76,Average Days To Close a Code Violation,14.002
-1,78,Average Days To Close a Code Violation,1.003
-14,78,Average Days To Close a Code Violation,14.003
-6,84,Average Days To Close a Code Violation,6.003
-5,88,Average Days To Close a Code Violation,5.001
-8,89,Average Days To Close a Code Violation,8.004
-5,90,Average Days To Close a Code Violation,5.004
-6,95,Average Days To Close a Code Violation,6.002
-6,95,Average Days To Close a Code Violation,6.004
-1,96,Average Days To Close a Code Violation,1.002
-6,96,Average Days To Close a Code Violation,6.001
-4,100,Average Days To Close a Code Violation,4.004
-1,43000,Average Sale Price 2007,1.003
-147,45518,Average Sale Price 2007,147.003
-14,46952,Average Sale Price 2007,14.002
-14,49437,Average Sale Price 2007,14.001
-6,55192,Average Sale Price 2007,6.002
-10,56050,Average Sale Price 2007,10.001
-9,58000,Average Sale Price 2007,9.003
-9,61514,Average Sale Price 2007,9.001
-118.05,62450,Average Sale Price 2007,118.052
-8,63250,Average Sale Price 2007,8.001
-14,65024,Average Sale Price 2007,14.003
-10,66275,Average Sale Price 2007,10.002
-10,68408,Average Sale Price 2007,10.004
-8,68738,Average Sale Price 2007,8.003
-8,72090,Average Sale Price 2007,8.002
-14,72831,Average Sale Price 2007,14.004
-11,73421,Average Sale Price 2007,11.001
-8,75000,Average Sale Price 2007,8.004
-10,77038,Average Sale Price 2007,10.003
-4,81883,Average Sale Price 2007,4.002
-2,82225,Average Sale Price 2007,2.002
-3,85265,Average Sale Price 2007,3.002
-12,86044,Average Sale Price 2007,12.004
-147,86258,Average Sale Price 2007,147.001
-11,86459,Average Sale Price 2007,11.003
-11,88177,Average Sale Price 2007,11.002
-4,90177,Average Sale Price 2007,4.003
-12,91599,Average Sale Price 2007,12.001
-3,92311,Average Sale Price 2007,3.004
-5,93271,Average Sale Price 2007,5.001
-2,93287,Average Sale Price 2007,2.001
-9,95401,Average Sale Price 2007,9.002
-7,96255,Average Sale Price 2007,7.001
-9,97715,Average Sale Price 2007,9.004
-3,97996,Average Sale Price 2007,3.003
-3,100218,Average Sale Price 2007,3.001
-12,101369,Average Sale Price 2007,12.003
-4,102740,Average Sale Price 2007,4.004
-12,105353,Average Sale Price 2007,12.002
-5,107886,Average Sale Price 2007,5.003
-147,112544,Average Sale Price 2007,147.002
-4,122260,Average Sale Price 2007,4.001
-5,124818,Average Sale Price 2007,5.002
-7,151600,Average Sale Price 2007,7.002
-7,172467,Average Sale Price 2007,7.003
-5,180000,Average Sale Price 2007,5.004
-6,197488,Average Sale Price 2007,6.003
-6,218583,Average Sale Price 2007,6.001
-6,220188,Average Sale Price 2007,6.004
-1,NA,Average Sale Price 2007,1.001
-1,NA,Average Sale Price 2007,1.002
-147,47281,Average Sale Price 2017,147.001
-10,53946,Average Sale Price 2017,10.001
-147,55938,Average Sale Price 2017,147.002
-14,57616,Average Sale Price 2017,14.001
-8,61186,Average Sale Price 2017,8.003
-9,62366,Average Sale Price 2017,9.002
-14,62683,Average Sale Price 2017,14.002
-147,65589,Average Sale Price 2017,147.003
-9,66944,Average Sale Price 2017,9.001
-10,70770,Average Sale Price 2017,10.004
-8,74143,Average Sale Price 2017,8.002
-8,84200,Average Sale Price 2017,8.004
-12,87022,Average Sale Price 2017,12.001
-11,88541,Average Sale Price 2017,11.003
-10,88924,Average Sale Price 2017,10.002
-14,89154,Average Sale Price 2017,14.004
-11,89380,Average Sale Price 2017,11.002
-2,89904,Average Sale Price 2017,2.001
-11,91972,Average Sale Price 2017,11.001
-14,93684,Average Sale Price 2017,14.003
-10,93978,Average Sale Price 2017,10.003
-4,94714,Average Sale Price 2017,4.002
-8,95367,Average Sale Price 2017,8.001
-3,102646,Average Sale Price 2017,3.002
-9,109900,Average Sale Price 2017,9.003
-12,110300,Average Sale Price 2017,12.003
-6,112919,Average Sale Price 2017,6.002
-12,113507,Average Sale Price 2017,12.004
-12,115197,Average Sale Price 2017,12.002
-9,117058,Average Sale Price 2017,9.004
-7,118279,Average Sale Price 2017,7.001
-3,121447,Average Sale Price 2017,3.001
-4,122132,Average Sale Price 2017,4.001
-2,123253,Average Sale Price 2017,2.002
-5,133705,Average Sale Price 2017,5.002
-3,140005,Average Sale Price 2017,3.004
-7,141384,Average Sale Price 2017,7.002
-3,141928,Average Sale Price 2017,3.003
-5,145145,Average Sale Price 2017,5.001
-7,148226,Average Sale Price 2017,7.003
-5,156109,Average Sale Price 2017,5.003
-4,159117,Average Sale Price 2017,4.003
-1,162500,Average Sale Price 2017,1.002
-6,167600,Average Sale Price 2017,6.004
-4,168750,Average Sale Price 2017,4.004
-6,194623,Average Sale Price 2017,6.001
-6,196727,Average Sale Price 2017,6.003
-1,200167,Average Sale Price 2017,1.003
-5,240475,Average Sale Price 2017,5.004
-1,275000,Average Sale Price 2017,1.001
-118.05,NA,Average Sale Price 2017,118.052
-147,-56605,Change in Sale Price 2007 - 2017,147.002
-6,-52588,Change in Sale Price 2007 - 2017,6.004
-147,-38978,Change in Sale Price 2007 - 2017,147.001
-9,-33035,Change in Sale Price 2007 - 2017,9.002
-7,-24240,Change in Sale Price 2007 - 2017,7.003
-6,-23961,Change in Sale Price 2007 - 2017,6.001
-7,-10216,Change in Sale Price 2007 - 2017,7.002
-8,-7552,Change in Sale Price 2007 - 2017,8.003
-12,-4577,Change in Sale Price 2007 - 2017,12.001
-2,-3383,Change in Sale Price 2007 - 2017,2.001
-10,-2104,Change in Sale Price 2007 - 2017,10.001
-6,-761,Change in Sale Price 2007 - 2017,6.003
-4,-128,Change in Sale Price 2007 - 2017,4.001
-11,1203,Change in Sale Price 2007 - 2017,11.002
-8,2053,Change in Sale Price 2007 - 2017,8.002
-11,2082,Change in Sale Price 2007 - 2017,11.003
-10,2362,Change in Sale Price 2007 - 2017,10.004
-9,5430,Change in Sale Price 2007 - 2017,9.001
-14,8179,Change in Sale Price 2007 - 2017,14.001
-5,8888,Change in Sale Price 2007 - 2017,5.002
-12,8931,Change in Sale Price 2007 - 2017,12.003
-8,9200,Change in Sale Price 2007 - 2017,8.004
-12,9844,Change in Sale Price 2007 - 2017,12.002
-4,12831,Change in Sale Price 2007 - 2017,4.002
-14,15731,Change in Sale Price 2007 - 2017,14.002
-14,16324,Change in Sale Price 2007 - 2017,14.004
-10,16940,Change in Sale Price 2007 - 2017,10.003
-3,17381,Change in Sale Price 2007 - 2017,3.002
-11,18551,Change in Sale Price 2007 - 2017,11.001
-9,19342,Change in Sale Price 2007 - 2017,9.004
-147,20070,Change in Sale Price 2007 - 2017,147.003
-3,21229,Change in Sale Price 2007 - 2017,3.001
-7,22025,Change in Sale Price 2007 - 2017,7.001
-10,22649,Change in Sale Price 2007 - 2017,10.002
-12,27463,Change in Sale Price 2007 - 2017,12.004
-14,28660,Change in Sale Price 2007 - 2017,14.003
-8,32117,Change in Sale Price 2007 - 2017,8.001
-2,41028,Change in Sale Price 2007 - 2017,2.002
-3,43931,Change in Sale Price 2007 - 2017,3.003
-3,47694,Change in Sale Price 2007 - 2017,3.004
-5,48224,Change in Sale Price 2007 - 2017,5.003
-5,51874,Change in Sale Price 2007 - 2017,5.001
-9,51900,Change in Sale Price 2007 - 2017,9.003
-6,57727,Change in Sale Price 2007 - 2017,6.002
-5,60475,Change in Sale Price 2007 - 2017,5.004
-4,66010,Change in Sale Price 2007 - 2017,4.004
-4,68939,Change in Sale Price 2007 - 2017,4.003
-1,157167,Change in Sale Price 2007 - 2017,1.003
-1,NA,Change in Sale Price 2007 - 2017,1.001
-1,NA,Change in Sale Price 2007 - 2017,1.002
-118.05,NA,Change in Sale Price 2007 - 2017,118.052
-9,75,Count of All Parcels,9.003
-8,94,Count of All Parcels,8.004
-118.05,142,Count of All Parcels,118.052
-9,160,Count of All Parcels,9.001
-5,189,Count of All Parcels,5.004
-8,196,Count of All Parcels,8.003
-9,225,Count of All Parcels,9.002
-1,226,Count of All Parcels,1.001
-4,236,Count of All Parcels,4.004
-8,246,Count of All Parcels,8.001
-8,247,Count of All Parcels,8.002
-7,257,Count of All Parcels,7.002
-6,259,Count of All Parcels,6.002
-4,261,Count of All Parcels,4.002
-10,266,Count of All Parcels,10.004
-7,271,Count of All Parcels,7.001
-147,272,Count of All Parcels,147.002
-10,274,Count of All Parcels,10.002
-6,276,Count of All Parcels,6.001
-1,281,Count of All Parcels,1.002
-14,289,Count of All Parcels,14.001
-7,310,Count of All Parcels,7.003
-10,312,Count of All Parcels,10.001
-5,323,Count of All Parcels,5.003
-6,324,Count of All Parcels,6.003
-10,335,Count of All Parcels,10.003
-5,338,Count of All Parcels,5.001
-11,356,Count of All Parcels,11.003
-4,373,Count of All Parcels,4.003
-12,373,Count of All Parcels,12.004
-6,377,Count of All Parcels,6.004
-14,387,Count of All Parcels,14.004
-3,391,Count of All Parcels,3.001
-147,396,Count of All Parcels,147.003
-1,399,Count of All Parcels,1.003
-4,400,Count of All Parcels,4.001
-5,401,Count of All Parcels,5.002
-11,414,Count of All Parcels,11.001
-3,415,Count of All Parcels,3.002
-3,418,Count of All Parcels,3.004
-9,422,Count of All Parcels,9.004
-12,431,Count of All Parcels,12.003
-3,438,Count of All Parcels,3.003
-12,449,Count of All Parcels,12.001
-14,456,Count of All Parcels,14.003
-11,463,Count of All Parcels,11.002
-14,475,Count of All Parcels,14.002
-147,482,Count of All Parcels,147.001
-2,487,Count of All Parcels,2.002
-2,541,Count of All Parcels,2.001
-12,718,Count of All Parcels,12.002
-5,45,Count of all Rental Properties,5.004
-9,50,Count of all Rental Properties,9.003
-8,57,Count of all Rental Properties,8.004
-8,75,Count of all Rental Properties,8.002
-8,78,Count of all Rental Properties,8.003
-12,82,Count of all Rental Properties,12.003
-9,98,Count of all Rental Properties,9.001
-6,99,Count of all Rental Properties,6.001
-7,101,Count of all Rental Properties,7.002
-3,102,Count of all Rental Properties,3.001
-7,107,Count of all Rental Properties,7.001
-12,111,Count of all Rental Properties,12.002
-118.05,113,Count of all Rental Properties,118.052
-3,128,Count of all Rental Properties,3.002
-12,130,Count of all Rental Properties,12.001
-6,138,Count of all Rental Properties,6.003
-5,140,Count of all Rental Properties,5.003
-1,142,Count of all Rental Properties,1.001
-10,144,Count of all Rental Properties,10.004
-12,145,Count of all Rental Properties,12.004
-8,146,Count of all Rental Properties,8.001
-147,148,Count of all Rental Properties,147.002
-4,149,Count of all Rental Properties,4.004
-11,158,Count of all Rental Properties,11.002
-9,162,Count of all Rental Properties,9.002
-2,166,Count of all Rental Properties,2.001
-6,166,Count of all Rental Properties,6.002
-3,168,Count of all Rental Properties,3.004
-11,168,Count of all Rental Properties,11.003
-10,173,Count of all Rental Properties,10.003
-6,174,Count of all Rental Properties,6.004
-7,177,Count of all Rental Properties,7.003
-5,182,Count of all Rental Properties,5.001
-4,188,Count of all Rental Properties,4.001
-2,190,Count of all Rental Properties,2.002
-4,190,Count of all Rental Properties,4.002
-14,191,Count of all Rental Properties,14.001
-147,201,Count of all Rental Properties,147.003
-14,205,Count of all Rental Properties,14.004
-10,206,Count of all Rental Properties,10.001
-10,206,Count of all Rental Properties,10.002
-1,207,Count of all Rental Properties,1.002
-3,216,Count of all Rental Properties,3.003
-14,216,Count of all Rental Properties,14.003
-11,219,Count of all Rental Properties,11.001
-5,227,Count of all Rental Properties,5.002
-9,230,Count of all Rental Properties,9.004
-4,232,Count of all Rental Properties,4.003
-147,269,Count of all Rental Properties,147.001
-1,307,Count of all Rental Properties,1.003
-14,322,Count of all Rental Properties,14.002
-1,0,Count of Condemnations 2007 - 2017,1.001
-1,0,Count of Condemnations 2007 - 2017,1.002
-1,0,Count of Condemnations 2007 - 2017,1.003
-3,0,Count of Condemnations 2007 - 2017,3.001
-4,0,Count of Condemnations 2007 - 2017,4.001
-4,0,Count of Condemnations 2007 - 2017,4.003
-5,0,Count of Condemnations 2007 - 2017,5.003
-5,0,Count of Condemnations 2007 - 2017,5.004
-6,0,Count of Condemnations 2007 - 2017,6.001
-8,0,Count of Condemnations 2007 - 2017,8.003
-12,0,Count of Condemnations 2007 - 2017,12.001
-12,0,Count of Condemnations 2007 - 2017,12.003
-12,0,Count of Condemnations 2007 - 2017,12.004
-118.05,0,Count of Condemnations 2007 - 2017,118.052
-4,1,Count of Condemnations 2007 - 2017,4.002
-4,1,Count of Condemnations 2007 - 2017,4.004
-5,1,Count of Condemnations 2007 - 2017,5.001
-6,1,Count of Condemnations 2007 - 2017,6.002
-6,1,Count of Condemnations 2007 - 2017,6.003
-6,1,Count of Condemnations 2007 - 2017,6.004
-7,1,Count of Condemnations 2007 - 2017,7.002
-8,1,Count of Condemnations 2007 - 2017,8.001
-9,1,Count of Condemnations 2007 - 2017,9.002
-9,1,Count of Condemnations 2007 - 2017,9.003
-12,1,Count of Condemnations 2007 - 2017,12.002
-147,1,Count of Condemnations 2007 - 2017,147.002
-3,2,Count of Condemnations 2007 - 2017,3.002
-3,2,Count of Condemnations 2007 - 2017,3.004
-7,2,Count of Condemnations 2007 - 2017,7.003
-10,2,Count of Condemnations 2007 - 2017,10.004
-11,2,Count of Condemnations 2007 - 2017,11.002
-11,2,Count of Condemnations 2007 - 2017,11.003
-5,3,Count of Condemnations 2007 - 2017,5.002
-8,3,Count of Condemnations 2007 - 2017,8.002
-9,3,Count of Condemnations 2007 - 2017,9.001
-10,3,Count of Condemnations 2007 - 2017,10.003
-14,3,Count of Condemnations 2007 - 2017,14.004
-2,4,Count of Condemnations 2007 - 2017,2.001
-7,4,Count of Condemnations 2007 - 2017,7.001
-11,4,Count of Condemnations 2007 - 2017,11.001
-8,5,Count of Condemnations 2007 - 2017,8.004
-14,5,Count of Condemnations 2007 - 2017,14.001
-3,6,Count of Condemnations 2007 - 2017,3.003
-10,6,Count of Condemnations 2007 - 2017,10.001
-10,6,Count of Condemnations 2007 - 2017,10.002
-2,7,Count of Condemnations 2007 - 2017,2.002
-9,8,Count of Condemnations 2007 - 2017,9.004
-147,8,Count of Condemnations 2007 - 2017,147.003
-14,10,Count of Condemnations 2007 - 2017,14.002
-147,10,Count of Condemnations 2007 - 2017,147.001
-14,11,Count of Condemnations 2007 - 2017,14.003
-9,59,Count of Parcels owned by a City Resident,9.003
-8,75,Count of Parcels owned by a City Resident,8.004
-9,129,Count of Parcels owned by a City Resident,9.001
-118.05,133,Count of Parcels owned by a City Resident,118.052
-9,154,Count of Parcels owned by a City Resident,9.002
-8,175,Count of Parcels owned by a City Resident,8.003
-5,179,Count of Parcels owned by a City Resident,5.004
-6,180,Count of Parcels owned by a City Resident,6.002
-1,181,Count of Parcels owned by a City Resident,1.001
-4,185,Count of Parcels owned by a City Resident,4.002
-8,193,Count of Parcels owned by a City Resident,8.001
-10,197,Count of Parcels owned by a City Resident,10.002
-10,198,Count of Parcels owned by a City Resident,10.004
-4,204,Count of Parcels owned by a City Resident,4.004
-10,212,Count of Parcels owned by a City Resident,10.001
-7,214,Count of Parcels owned by a City Resident,7.002
-14,214,Count of Parcels owned by a City Resident,14.001
-7,224,Count of Parcels owned by a City Resident,7.001
-8,226,Count of Parcels owned by a City Resident,8.002
-1,228,Count of Parcels owned by a City Resident,1.002
-147,229,Count of Parcels owned by a City Resident,147.002
-6,249,Count of Parcels owned by a City Resident,6.001
-7,252,Count of Parcels owned by a City Resident,7.003
-10,253,Count of Parcels owned by a City Resident,10.003
-5,265,Count of Parcels owned by a City Resident,5.003
-6,271,Count of Parcels owned by a City Resident,6.003
-5,281,Count of Parcels owned by a City Resident,5.001
-11,289,Count of Parcels owned by a City Resident,11.003
-6,290,Count of Parcels owned by a City Resident,6.004
-4,298,Count of Parcels owned by a City Resident,4.003
-14,303,Count of Parcels owned by a City Resident,14.004
-5,318,Count of Parcels owned by a City Resident,5.002
-14,319,Count of Parcels owned by a City Resident,14.002
-12,321,Count of Parcels owned by a City Resident,12.004
-4,322,Count of Parcels owned by a City Resident,4.001
-147,330,Count of Parcels owned by a City Resident,147.003
-1,337,Count of Parcels owned by a City Resident,1.003
-3,344,Count of Parcels owned by a City Resident,3.004
-11,344,Count of Parcels owned by a City Resident,11.001
-3,348,Count of Parcels owned by a City Resident,3.003
-9,348,Count of Parcels owned by a City Resident,9.004
-3,355,Count of Parcels owned by a City Resident,3.001
-3,362,Count of Parcels owned by a City Resident,3.002
-14,383,Count of Parcels owned by a City Resident,14.003
-147,387,Count of Parcels owned by a City Resident,147.001
-12,399,Count of Parcels owned by a City Resident,12.001
-12,400,Count of Parcels owned by a City Resident,12.003
-11,405,Count of Parcels owned by a City Resident,11.002
-2,410,Count of Parcels owned by a City Resident,2.002
-2,479,Count of Parcels owned by a City Resident,2.001
-12,680,Count of Parcels owned by a City Resident,12.002
-118.05,2,Count of Parcels owned by a County Resident,118.052
-5,3,Count of Parcels owned by a County Resident,5.004
-9,9,Count of Parcels owned by a County Resident,9.003
-8,13,Count of Parcels owned by a County Resident,8.004
-8,16,Count of Parcels owned by a County Resident,8.002
-8,16,Count of Parcels owned by a County Resident,8.003
-6,17,Count of Parcels owned by a County Resident,6.001
-4,19,Count of Parcels owned by a County Resident,4.004
-12,19,Count of Parcels owned by a County Resident,12.003
-9,22,Count of Parcels owned by a County Resident,9.001
-1,23,Count of Parcels owned by a County Resident,1.001
-3,28,Count of Parcels owned by a County Resident,3.001
-12,28,Count of Parcels owned by a County Resident,12.002
-7,29,Count of Parcels owned by a County Resident,7.002
-7,30,Count of Parcels owned by a County Resident,7.003
-147,30,Count of Parcels owned by a County Resident,147.002
-5,32,Count of Parcels owned by a County Resident,5.001
-1,33,Count of Parcels owned by a County Resident,1.003
-6,33,Count of Parcels owned by a County Resident,6.003
-11,33,Count of Parcels owned by a County Resident,11.002
-1,34,Count of Parcels owned by a County Resident,1.002
-8,34,Count of Parcels owned by a County Resident,8.001
-12,34,Count of Parcels owned by a County Resident,12.001
-147,37,Count of Parcels owned by a County Resident,147.003
-5,38,Count of Parcels owned by a County Resident,5.002
-7,38,Count of Parcels owned by a County Resident,7.001
-2,39,Count of Parcels owned by a County Resident,2.001
-3,39,Count of Parcels owned by a County Resident,3.002
-5,40,Count of Parcels owned by a County Resident,5.003
-9,40,Count of Parcels owned by a County Resident,9.002
-12,41,Count of Parcels owned by a County Resident,12.004
-4,47,Count of Parcels owned by a County Resident,4.003
-2,48,Count of Parcels owned by a County Resident,2.002
-6,48,Count of Parcels owned by a County Resident,6.004
-10,50,Count of Parcels owned by a County Resident,10.004
-11,50,Count of Parcels owned by a County Resident,11.001
-3,52,Count of Parcels owned by a County Resident,3.004
-4,53,Count of Parcels owned by a County Resident,4.001
-14,53,Count of Parcels owned by a County Resident,14.003
-9,54,Count of Parcels owned by a County Resident,9.004
-10,54,Count of Parcels owned by a County Resident,10.003
-11,54,Count of Parcels owned by a County Resident,11.003
-14,57,Count of Parcels owned by a County Resident,14.001
-6,58,Count of Parcels owned by a County Resident,6.002
-4,59,Count of Parcels owned by a County Resident,4.002
-10,59,Count of Parcels owned by a County Resident,10.002
-14,61,Count of Parcels owned by a County Resident,14.004
-3,65,Count of Parcels owned by a County Resident,3.003
-147,71,Count of Parcels owned by a County Resident,147.001
-10,75,Count of Parcels owned by a County Resident,10.001
-14,118,Count of Parcels owned by a County Resident,14.002
-8,0,Count of Parcels owned by a State Resident,8.004
-118.05,1,Count of Parcels owned by a State Resident,118.052
-5,2,Count of Parcels owned by a State Resident,5.004
-8,2,Count of Parcels owned by a State Resident,8.002
-9,2,Count of Parcels owned by a State Resident,9.003
-147,2,Count of Parcels owned by a State Resident,147.002
-8,3,Count of Parcels owned by a State Resident,8.003
-12,3,Count of Parcels owned by a State Resident,12.003
-3,4,Count of Parcels owned by a State Resident,3.001
-6,4,Count of Parcels owned by a State Resident,6.001
-12,4,Count of Parcels owned by a State Resident,12.004
-7,5,Count of Parcels owned by a State Resident,7.001
-12,5,Count of Parcels owned by a State Resident,12.002
-9,6,Count of Parcels owned by a State Resident,9.001
-11,6,Count of Parcels owned by a State Resident,11.003
-4,7,Count of Parcels owned by a State Resident,4.004
-5,7,Count of Parcels owned by a State Resident,5.003
-7,7,Count of Parcels owned by a State Resident,7.002
-10,7,Count of Parcels owned by a State Resident,10.002
-10,8,Count of Parcels owned by a State Resident,10.001
-10,8,Count of Parcels owned by a State Resident,10.004
-12,8,Count of Parcels owned by a State Resident,12.001
-14,8,Count of Parcels owned by a State Resident,14.003
-11,9,Count of Parcels owned by a State Resident,11.001
-14,9,Count of Parcels owned by a State Resident,14.001
-147,9,Count of Parcels owned by a State Resident,147.001
-147,9,Count of Parcels owned by a State Resident,147.003
-6,10,Count of Parcels owned by a State Resident,6.002
-8,10,Count of Parcels owned by a State Resident,8.001
-11,10,Count of Parcels owned by a State Resident,11.002
-14,10,Count of Parcels owned by a State Resident,14.004
-1,11,Count of Parcels owned by a State Resident,1.003
-2,11,Count of Parcels owned by a State Resident,2.001
-3,11,Count of Parcels owned by a State Resident,3.002
-3,11,Count of Parcels owned by a State Resident,3.004
-4,11,Count of Parcels owned by a State Resident,4.001
-6,11,Count of Parcels owned by a State Resident,6.003
-7,11,Count of Parcels owned by a State Resident,7.003
-1,12,Count of Parcels owned by a State Resident,1.002
-2,12,Count of Parcels owned by a State Resident,2.002
-4,12,Count of Parcels owned by a State Resident,4.002
-9,12,Count of Parcels owned by a State Resident,9.004
-4,14,Count of Parcels owned by a State Resident,4.003
-10,14,Count of Parcels owned by a State Resident,10.003
-1,16,Count of Parcels owned by a State Resident,1.001
-5,16,Count of Parcels owned by a State Resident,5.001
-9,16,Count of Parcels owned by a State Resident,9.002
-3,17,Count of Parcels owned by a State Resident,3.003
-14,17,Count of Parcels owned by a State Resident,14.002
-6,19,Count of Parcels owned by a State Resident,6.004
-5,30,Count of Parcels owned by a State Resident,5.002
-8,2,Count of Parcels owned by a US Resident (not PA),8.003
-3,3,Count of Parcels owned by a US Resident (not PA),3.002
-8,3,Count of Parcels owned by a US Resident (not PA),8.002
-9,3,Count of Parcels owned by a US Resident (not PA),9.001
-3,4,Count of Parcels owned by a US Resident (not PA),3.001
-7,4,Count of Parcels owned by a US Resident (not PA),7.001
-4,5,Count of Parcels owned by a US Resident (not PA),4.002
-5,5,Count of Parcels owned by a US Resident (not PA),5.004
-9,5,Count of Parcels owned by a US Resident (not PA),9.003
-12,5,Count of Parcels owned by a US Resident (not PA),12.002
-1,6,Count of Parcels owned by a US Resident (not PA),1.001
-4,6,Count of Parcels owned by a US Resident (not PA),4.004
-6,6,Count of Parcels owned by a US Resident (not PA),6.001
-8,6,Count of Parcels owned by a US Resident (not PA),8.004
-118.05,6,Count of Parcels owned by a US Resident (not PA),118.052
-1,7,Count of Parcels owned by a US Resident (not PA),1.002
-7,7,Count of Parcels owned by a US Resident (not PA),7.002
-11,7,Count of Parcels owned by a US Resident (not PA),11.003
-12,7,Count of Parcels owned by a US Resident (not PA),12.004
-3,8,Count of Parcels owned by a US Resident (not PA),3.003
-9,8,Count of Parcels owned by a US Resident (not PA),9.004
-12,8,Count of Parcels owned by a US Resident (not PA),12.001
-5,9,Count of Parcels owned by a US Resident (not PA),5.001
-6,9,Count of Parcels owned by a US Resident (not PA),6.003
-8,9,Count of Parcels owned by a US Resident (not PA),8.001
-12,9,Count of Parcels owned by a US Resident (not PA),12.003
-14,9,Count of Parcels owned by a US Resident (not PA),14.001
-10,10,Count of Parcels owned by a US Resident (not PA),10.004
-3,11,Count of Parcels owned by a US Resident (not PA),3.004
-5,11,Count of Parcels owned by a US Resident (not PA),5.003
-6,11,Count of Parcels owned by a US Resident (not PA),6.002
-10,11,Count of Parcels owned by a US Resident (not PA),10.002
-11,11,Count of Parcels owned by a US Resident (not PA),11.001
-147,11,Count of Parcels owned by a US Resident (not PA),147.002
-2,12,Count of Parcels owned by a US Resident (not PA),2.001
-14,12,Count of Parcels owned by a US Resident (not PA),14.003
-14,13,Count of Parcels owned by a US Resident (not PA),14.004
-4,14,Count of Parcels owned by a US Resident (not PA),4.001
-4,14,Count of Parcels owned by a US Resident (not PA),4.003
-10,14,Count of Parcels owned by a US Resident (not PA),10.003
-5,15,Count of Parcels owned by a US Resident (not PA),5.002
-9,15,Count of Parcels owned by a US Resident (not PA),9.002
-11,15,Count of Parcels owned by a US Resident (not PA),11.002
-147,15,Count of Parcels owned by a US Resident (not PA),147.001
-2,17,Count of Parcels owned by a US Resident (not PA),2.002
-7,17,Count of Parcels owned by a US Resident (not PA),7.003
-10,17,Count of Parcels owned by a US Resident (not PA),10.001
-1,18,Count of Parcels owned by a US Resident (not PA),1.003
-6,20,Count of Parcels owned by a US Resident (not PA),6.004
-147,20,Count of Parcels owned by a US Resident (not PA),147.003
-14,21,Count of Parcels owned by a US Resident (not PA),14.002
-118.05,16,Count of Single Family Properties,118.052
-1,18,Count of Single Family Properties,1.002
-1,28,Count of Single Family Properties,1.001
-9,54,Count of Single Family Properties,9.003
-8,61,Count of Single Family Properties,8.004
-4,90,Count of Single Family Properties,4.004
-9,104,Count of Single Family Properties,9.001
-1,108,Count of Single Family Properties,1.003
-4,112,Count of Single Family Properties,4.003
-6,135,Count of Single Family Properties,6.004
-4,136,Count of Single Family Properties,4.002
-6,142,Count of Single Family Properties,6.002
-5,149,Count of Single Family Properties,5.004
-8,152,Count of Single Family Properties,8.003
-8,161,Count of Single Family Properties,8.001
-14,170,Count of Single Family Properties,14.001
-9,173,Count of Single Family Properties,9.002
-7,182,Count of Single Family Properties,7.003
-7,183,Count of Single Family Properties,7.002
-6,198,Count of Single Family Properties,6.001
-6,210,Count of Single Family Properties,6.003
-7,211,Count of Single Family Properties,7.001
-10,211,Count of Single Family Properties,10.004
-8,220,Count of Single Family Properties,8.002
-10,220,Count of Single Family Properties,10.002
-5,223,Count of Single Family Properties,5.003
-147,224,Count of Single Family Properties,147.002
-10,230,Count of Single Family Properties,10.001
-5,256,Count of Single Family Properties,5.001
-10,268,Count of Single Family Properties,10.003
-5,271,Count of Single Family Properties,5.002
-4,273,Count of Single Family Properties,4.001
-11,295,Count of Single Family Properties,11.001
-11,305,Count of Single Family Properties,11.003
-12,315,Count of Single Family Properties,12.004
-3,319,Count of Single Family Properties,3.004
-2,323,Count of Single Family Properties,2.002
-14,325,Count of Single Family Properties,14.004
-147,328,Count of Single Family Properties,147.003
-3,331,Count of Single Family Properties,3.003
-9,340,Count of Single Family Properties,9.004
-3,344,Count of Single Family Properties,3.001
-14,356,Count of Single Family Properties,14.003
-3,374,Count of Single Family Properties,3.002
-14,381,Count of Single Family Properties,14.002
-147,403,Count of Single Family Properties,147.001
-12,414,Count of Single Family Properties,12.001
-12,418,Count of Single Family Properties,12.003
-11,435,Count of Single Family Properties,11.002
-2,498,Count of Single Family Properties,2.001
-12,690,Count of Single Family Properties,12.002
-147,-0.50,Percent Change in Sale Price 2007 - 2017,147.002
-147,-0.45,Percent Change in Sale Price 2007 - 2017,147.001
-9,-0.35,Percent Change in Sale Price 2007 - 2017,9.002
-6,-0.24,Percent Change in Sale Price 2007 - 2017,6.004
-7,-0.14,Percent Change in Sale Price 2007 - 2017,7.003
-6,-0.11,Percent Change in Sale Price 2007 - 2017,6.001
-8,-0.11,Percent Change in Sale Price 2007 - 2017,8.003
-7,-0.07,Percent Change in Sale Price 2007 - 2017,7.002
-12,-0.05,Percent Change in Sale Price 2007 - 2017,12.001
-2,-0.04,Percent Change in Sale Price 2007 - 2017,2.001
-10,-0.04,Percent Change in Sale Price 2007 - 2017,10.001
-4,0.00,Percent Change in Sale Price 2007 - 2017,4.001
-6,0.00,Percent Change in Sale Price 2007 - 2017,6.003
-11,0.01,Percent Change in Sale Price 2007 - 2017,11.002
-11,0.02,Percent Change in Sale Price 2007 - 2017,11.003
-8,0.03,Percent Change in Sale Price 2007 - 2017,8.002
-10,0.03,Percent Change in Sale Price 2007 - 2017,10.004
-5,0.07,Percent Change in Sale Price 2007 - 2017,5.002
-9,0.09,Percent Change in Sale Price 2007 - 2017,9.001
-12,0.09,Percent Change in Sale Price 2007 - 2017,12.002
-12,0.09,Percent Change in Sale Price 2007 - 2017,12.003
-8,0.12,Percent Change in Sale Price 2007 - 2017,8.004
-4,0.16,Percent Change in Sale Price 2007 - 2017,4.002
-14,0.17,Percent Change in Sale Price 2007 - 2017,14.001
-3,0.20,Percent Change in Sale Price 2007 - 2017,3.002
-9,0.20,Percent Change in Sale Price 2007 - 2017,9.004
-3,0.21,Percent Change in Sale Price 2007 - 2017,3.001
-10,0.22,Percent Change in Sale Price 2007 - 2017,10.003
-14,0.22,Percent Change in Sale Price 2007 - 2017,14.004
-7,0.23,Percent Change in Sale Price 2007 - 2017,7.001
-11,0.25,Percent Change in Sale Price 2007 - 2017,11.001
-12,0.32,Percent Change in Sale Price 2007 - 2017,12.004
-5,0.34,Percent Change in Sale Price 2007 - 2017,5.004
-10,0.34,Percent Change in Sale Price 2007 - 2017,10.002
-14,0.34,Percent Change in Sale Price 2007 - 2017,14.002
-14,0.44,Percent Change in Sale Price 2007 - 2017,14.003
-147,0.44,Percent Change in Sale Price 2007 - 2017,147.003
-3,0.45,Percent Change in Sale Price 2007 - 2017,3.003
-5,0.45,Percent Change in Sale Price 2007 - 2017,5.003
-2,0.50,Percent Change in Sale Price 2007 - 2017,2.002
-8,0.51,Percent Change in Sale Price 2007 - 2017,8.001
-3,0.52,Percent Change in Sale Price 2007 - 2017,3.004
-5,0.56,Percent Change in Sale Price 2007 - 2017,5.001
-4,0.64,Percent Change in Sale Price 2007 - 2017,4.004
-4,0.76,Percent Change in Sale Price 2007 - 2017,4.003
-9,0.89,Percent Change in Sale Price 2007 - 2017,9.003
-6,1.05,Percent Change in Sale Price 2007 - 2017,6.002
-1,3.66,Percent Change in Sale Price 2007 - 2017,1.003
-1,NA,Percent Change in Sale Price 2007 - 2017,1.001
-1,NA,Percent Change in Sale Price 2007 - 2017,1.002
-118.05,NA,Percent Change in Sale Price 2007 - 2017,118.052
-118.05,60,Total Count of Closed Violations,118.052
-9,303,Total Count of Closed Violations,9.003
-5,416,Total Count of Closed Violations,5.004
-4,494,Total Count of Closed Violations,4.004
-1,608,Total Count of Closed Violations,1.002
-6,610,Total Count of Closed Violations,6.001
-8,644,Total Count of Closed Violations,8.003
-8,693,Total Count of Closed Violations,8.004
-1,763,Total Count of Closed Violations,1.001
-12,790,Total Count of Closed Violations,12.003
-12,890,Total Count of Closed Violations,12.004
-12,930,Total Count of Closed Violations,12.001
-3,964,Total Count of Closed Violations,3.001
-9,994,Total Count of Closed Violations,9.001
-5,1029,Total Count of Closed Violations,5.003
-7,1038,Total Count of Closed Violations,7.002
-6,1064,Total Count of Closed Violations,6.003
-7,1104,Total Count of Closed Violations,7.003
-8,1135,Total Count of Closed Violations,8.002
-6,1155,Total Count of Closed Violations,6.004
-9,1260,Total Count of Closed Violations,9.002
-12,1260,Total Count of Closed Violations,12.002
-11,1280,Total Count of Closed Violations,11.003
-10,1305,Total Count of Closed Violations,10.004
-4,1324,Total Count of Closed Violations,4.002
-7,1349,Total Count of Closed Violations,7.001
-6,1364,Total Count of Closed Violations,6.002
-5,1398,Total Count of Closed Violations,5.001
-147,1401,Total Count of Closed Violations,147.002
-11,1456,Total Count of Closed Violations,11.002
-1,1483,Total Count of Closed Violations,1.003
-3,1512,Total Count of Closed Violations,3.002
-10,1571,Total Count of Closed Violations,10.003
-4,1664,Total Count of Closed Violations,4.003
-2,1724,Total Count of Closed Violations,2.002
-8,1800,Total Count of Closed Violations,8.001
-11,1828,Total Count of Closed Violations,11.001
-4,1896,Total Count of Closed Violations,4.001
-10,1955,Total Count of Closed Violations,10.001
-10,1980,Total Count of Closed Violations,10.002
-9,2013,Total Count of Closed Violations,9.004
-3,2016,Total Count of Closed Violations,3.003
-14,2051,Total Count of Closed Violations,14.001
-14,2060,Total Count of Closed Violations,14.004
-5,2102,Total Count of Closed Violations,5.002
-2,2192,Total Count of Closed Violations,2.001
-3,2362,Total Count of Closed Violations,3.004
-147,2482,Total Count of Closed Violations,147.003
-14,2637,Total Count of Closed Violations,14.003
-147,3014,Total Count of Closed Violations,147.001
-14,3886,Total Count of Closed Violations,14.002
-9,3,Total Count of Open Code Violations,9.003
-8,5,Total Count of Open Code Violations,8.003
-12,5,Total Count of Open Code Violations,12.004
-118.05,5,Total Count of Open Code Violations,118.052
-5,6,Total Count of Open Code Violations,5.004
-8,7,Total Count of Open Code Violations,8.004
-1,11,Total Count of Open Code Violations,1.002
-6,11,Total Count of Open Code Violations,6.001
-6,11,Total Count of Open Code Violations,6.003
-9,11,Total Count of Open Code Violations,9.001
-7,12,Total Count of Open Code Violations,7.002
-8,12,Total Count of Open Code Violations,8.002
-12,12,Total Count of Open Code Violations,12.003
-6,13,Total Count of Open Code Violations,6.002
-8,13,Total Count of Open Code Violations,8.001
-2,16,Total Count of Open Code Violations,2.002
-9,16,Total Count of Open Code Violations,9.002
-147,17,Total Count of Open Code Violations,147.002
-4,18,Total Count of Open Code Violations,4.004
-7,18,Total Count of Open Code Violations,7.003
-5,19,Total Count of Open Code Violations,5.001
-6,19,Total Count of Open Code Violations,6.004
-10,20,Total Count of Open Code Violations,10.004
-147,20,Total Count of Open Code Violations,147.003
-5,21,Total Count of Open Code Violations,5.003
-1,23,Total Count of Open Code Violations,1.003
-11,23,Total Count of Open Code Violations,11.003
-7,24,Total Count of Open Code Violations,7.001
-12,24,Total Count of Open Code Violations,12.002
-1,25,Total Count of Open Code Violations,1.001
-4,27,Total Count of Open Code Violations,4.003
-12,27,Total Count of Open Code Violations,12.001
-4,30,Total Count of Open Code Violations,4.002
-10,31,Total Count of Open Code Violations,10.003
-3,32,Total Count of Open Code Violations,3.001
-11,33,Total Count of Open Code Violations,11.002
-11,37,Total Count of Open Code Violations,11.001
-14,41,Total Count of Open Code Violations,14.003
-5,42,Total Count of Open Code Violations,5.002
-10,42,Total Count of Open Code Violations,10.002
-14,44,Total Count of Open Code Violations,14.004
-3,45,Total Count of Open Code Violations,3.002
-3,45,Total Count of Open Code Violations,3.003
-4,48,Total Count of Open Code Violations,4.001
-2,50,Total Count of Open Code Violations,2.001
-14,50,Total Count of Open Code Violations,14.001
-3,53,Total Count of Open Code Violations,3.004
-14,64,Total Count of Open Code Violations,14.002
-147,64,Total Count of Open Code Violations,147.001
-10,75,Total Count of Open Code Violations,10.001
-9,80,Total Count of Open Code Violations,9.004
-7,0,Total Count of Open Code Violations Older than a Year,7.002
-9,1,Total Count of Open Code Violations Older than a Year,9.003
-2,2,Total Count of Open Code Violations Older than a Year,2.002
-6,2,Total Count of Open Code Violations Older than a Year,6.002
-12,2,Total Count of Open Code Violations Older than a Year,12.004
-7,3,Total Count of Open Code Violations Older than a Year,7.001
-6,4,Total Count of Open Code Violations Older than a Year,6.004
-7,4,Total Count of Open Code Violations Older than a Year,7.003
-8,4,Total Count of Open Code Violations Older than a Year,8.003
-8,4,Total Count of Open Code Violations Older than a Year,8.004
-9,4,Total Count of Open Code Violations Older than a Year,9.001
-10,4,Total Count of Open Code Violations Older than a Year,10.004
-5,5,Total Count of Open Code Violations Older than a Year,5.003
-5,5,Total Count of Open Code Violations Older than a Year,5.004
-6,5,Total Count of Open Code Violations Older than a Year,6.001
-6,5,Total Count of Open Code Violations Older than a Year,6.003
-118.05,5,Total Count of Open Code Violations Older than a Year,118.052
-3,6,Total Count of Open Code Violations Older than a Year,3.001
-12,6,Total Count of Open Code Violations Older than a Year,12.003
-8,7,Total Count of Open Code Violations Older than a Year,8.002
-1,8,Total Count of Open Code Violations Older than a Year,1.001
-8,8,Total Count of Open Code Violations Older than a Year,8.001
-9,8,Total Count of Open Code Violations Older than a Year,9.002
-147,8,Total Count of Open Code Violations Older than a Year,147.002
-147,8,Total Count of Open Code Violations Older than a Year,147.003
-1,9,Total Count of Open Code Violations Older than a Year,1.003
-5,9,Total Count of Open Code Violations Older than a Year,5.001
-3,10,Total Count of Open Code Violations Older than a Year,3.003
-11,10,Total Count of Open Code Violations Older than a Year,11.003
-1,11,Total Count of Open Code Violations Older than a Year,1.002
-3,11,Total Count of Open Code Violations Older than a Year,3.002
-4,11,Total Count of Open Code Violations Older than a Year,4.002
-12,11,Total Count of Open Code Violations Older than a Year,12.002
-12,12,Total Count of Open Code Violations Older than a Year,12.001
-4,13,Total Count of Open Code Violations Older than a Year,4.004
-11,13,Total Count of Open Code Violations Older than a Year,11.001
-14,14,Total Count of Open Code Violations Older than a Year,14.004
-2,16,Total Count of Open Code Violations Older than a Year,2.001
-4,16,Total Count of Open Code Violations Older than a Year,4.003
-5,16,Total Count of Open Code Violations Older than a Year,5.002
-10,16,Total Count of Open Code Violations Older than a Year,10.002
-10,17,Total Count of Open Code Violations Older than a Year,10.001
-11,17,Total Count of Open Code Violations Older than a Year,11.002
-9,18,Total Count of Open Code Violations Older than a Year,9.004
-10,18,Total Count of Open Code Violations Older than a Year,10.003
-14,21,Total Count of Open Code Violations Older than a Year,14.003
-4,23,Total Count of Open Code Violations Older than a Year,4.001
-14,24,Total Count of Open Code Violations Older than a Year,14.001
-3,25,Total Count of Open Code Violations Older than a Year,3.004
-14,26,Total Count of Open Code Violations Older than a Year,14.002
-147,32,Total Count of Open Code Violations Older than a Year,147.001
+Count,Label,CBG,GEOID2,GEOID
+72,Average Days To Close a Code Violation,1.001,4.2071E+11,420710001001
+NA,Average Sale Price 2007,1.001,4.2071E+11,420710001001
+275000,Average Sale Price 2017,1.001,4.2071E+11,420710001001
+NA,Change in Sale Price 2007 - 2017,1.001,4.2071E+11,420710001001
+226,Count of All Parcels,1.001,4.2071E+11,420710001001
+142,Count of all Rental Properties,1.001,4.2071E+11,420710001001
+0,Count of Condemnations 2007 - 2017,1.001,4.2071E+11,420710001001
+181,Count of Parcels owned by a City Resident,1.001,4.2071E+11,420710001001
+23,Count of Parcels owned by a County Resident,1.001,4.2071E+11,420710001001
+16,Count of Parcels owned by a State Resident,1.001,4.2071E+11,420710001001
+6,Count of Parcels owned by a US Resident (not PA),1.001,4.2071E+11,420710001001
+28,Count of Single Family Properties,1.001,4.2071E+11,420710001001
+NA,Percent Change in Sale Price 2007 - 2017,1.001,4.2071E+11,420710001001
+763,Total Count of Closed Violations,1.001,4.2071E+11,420710001001
+25,Total Count of Open Code Violations,1.001,4.2071E+11,420710001001
+8,Total Count of Open Code Violations Older than a Year,1.001,4.2071E+11,420710001001
+96,Average Days To Close a Code Violation,1.002,4.2071E+11,420710001002
+NA,Average Sale Price 2007,1.002,4.2071E+11,420710001002
+162500,Average Sale Price 2017,1.002,4.2071E+11,420710001002
+NA,Change in Sale Price 2007 - 2017,1.002,4.2071E+11,420710001002
+281,Count of All Parcels,1.002,4.2071E+11,420710001002
+207,Count of all Rental Properties,1.002,4.2071E+11,420710001002
+0,Count of Condemnations 2007 - 2017,1.002,4.2071E+11,420710001002
+228,Count of Parcels owned by a City Resident,1.002,4.2071E+11,420710001002
+34,Count of Parcels owned by a County Resident,1.002,4.2071E+11,420710001002
+12,Count of Parcels owned by a State Resident,1.002,4.2071E+11,420710001002
+7,Count of Parcels owned by a US Resident (not PA),1.002,4.2071E+11,420710001002
+18,Count of Single Family Properties,1.002,4.2071E+11,420710001002
+NA,Percent Change in Sale Price 2007 - 2017,1.002,4.2071E+11,420710001002
+608,Total Count of Closed Violations,1.002,4.2071E+11,420710001002
+11,Total Count of Open Code Violations,1.002,4.2071E+11,420710001002
+11,Total Count of Open Code Violations Older than a Year,1.002,4.2071E+11,420710001002
+78,Average Days To Close a Code Violation,1.003,4.2071E+11,420710001003
+43000,Average Sale Price 2007,1.003,4.2071E+11,420710001003
+200167,Average Sale Price 2017,1.003,4.2071E+11,420710001003
+157167,Change in Sale Price 2007 - 2017,1.003,4.2071E+11,420710001003
+399,Count of All Parcels,1.003,4.2071E+11,420710001003
+307,Count of all Rental Properties,1.003,4.2071E+11,420710001003
+0,Count of Condemnations 2007 - 2017,1.003,4.2071E+11,420710001003
+337,Count of Parcels owned by a City Resident,1.003,4.2071E+11,420710001003
+33,Count of Parcels owned by a County Resident,1.003,4.2071E+11,420710001003
+11,Count of Parcels owned by a State Resident,1.003,4.2071E+11,420710001003
+18,Count of Parcels owned by a US Resident (not PA),1.003,4.2071E+11,420710001003
+108,Count of Single Family Properties,1.003,4.2071E+11,420710001003
+3.66,Percent Change in Sale Price 2007 - 2017,1.003,4.2071E+11,420710001003
+1483,Total Count of Closed Violations,1.003,4.2071E+11,420710001003
+23,Total Count of Open Code Violations,1.003,4.2071E+11,420710001003
+9,Total Count of Open Code Violations Older than a Year,1.003,4.2071E+11,420710001003
+50,Average Days To Close a Code Violation,2.001,4.2071E+11,420710002001
+93287,Average Sale Price 2007,2.001,4.2071E+11,420710002001
+89904,Average Sale Price 2017,2.001,4.2071E+11,420710002001
+-3383,Change in Sale Price 2007 - 2017,2.001,4.2071E+11,420710002001
+541,Count of All Parcels,2.001,4.2071E+11,420710002001
+166,Count of all Rental Properties,2.001,4.2071E+11,420710002001
+4,Count of Condemnations 2007 - 2017,2.001,4.2071E+11,420710002001
+479,Count of Parcels owned by a City Resident,2.001,4.2071E+11,420710002001
+39,Count of Parcels owned by a County Resident,2.001,4.2071E+11,420710002001
+11,Count of Parcels owned by a State Resident,2.001,4.2071E+11,420710002001
+12,Count of Parcels owned by a US Resident (not PA),2.001,4.2071E+11,420710002001
+498,Count of Single Family Properties,2.001,4.2071E+11,420710002001
+-0.04,Percent Change in Sale Price 2007 - 2017,2.001,4.2071E+11,420710002001
+2192,Total Count of Closed Violations,2.001,4.2071E+11,420710002001
+50,Total Count of Open Code Violations,2.001,4.2071E+11,420710002001
+16,Total Count of Open Code Violations Older than a Year,2.001,4.2071E+11,420710002001
+57,Average Days To Close a Code Violation,2.002,4.2071E+11,420710002002
+82225,Average Sale Price 2007,2.002,4.2071E+11,420710002002
+123253,Average Sale Price 2017,2.002,4.2071E+11,420710002002
+41028,Change in Sale Price 2007 - 2017,2.002,4.2071E+11,420710002002
+487,Count of All Parcels,2.002,4.2071E+11,420710002002
+190,Count of all Rental Properties,2.002,4.2071E+11,420710002002
+7,Count of Condemnations 2007 - 2017,2.002,4.2071E+11,420710002002
+410,Count of Parcels owned by a City Resident,2.002,4.2071E+11,420710002002
+48,Count of Parcels owned by a County Resident,2.002,4.2071E+11,420710002002
+12,Count of Parcels owned by a State Resident,2.002,4.2071E+11,420710002002
+17,Count of Parcels owned by a US Resident (not PA),2.002,4.2071E+11,420710002002
+323,Count of Single Family Properties,2.002,4.2071E+11,420710002002
+0.5,Percent Change in Sale Price 2007 - 2017,2.002,4.2071E+11,420710002002
+1724,Total Count of Closed Violations,2.002,4.2071E+11,420710002002
+16,Total Count of Open Code Violations,2.002,4.2071E+11,420710002002
+2,Total Count of Open Code Violations Older than a Year,2.002,4.2071E+11,420710002002
+52,Average Days To Close a Code Violation,3.001,4.2071E+11,420710003001
+100218,Average Sale Price 2007,3.001,4.2071E+11,420710003001
+121447,Average Sale Price 2017,3.001,4.2071E+11,420710003001
+21229,Change in Sale Price 2007 - 2017,3.001,4.2071E+11,420710003001
+391,Count of All Parcels,3.001,4.2071E+11,420710003001
+102,Count of all Rental Properties,3.001,4.2071E+11,420710003001
+0,Count of Condemnations 2007 - 2017,3.001,4.2071E+11,420710003001
+355,Count of Parcels owned by a City Resident,3.001,4.2071E+11,420710003001
+28,Count of Parcels owned by a County Resident,3.001,4.2071E+11,420710003001
+4,Count of Parcels owned by a State Resident,3.001,4.2071E+11,420710003001
+4,Count of Parcels owned by a US Resident (not PA),3.001,4.2071E+11,420710003001
+344,Count of Single Family Properties,3.001,4.2071E+11,420710003001
+0.21,Percent Change in Sale Price 2007 - 2017,3.001,4.2071E+11,420710003001
+964,Total Count of Closed Violations,3.001,4.2071E+11,420710003001
+32,Total Count of Open Code Violations,3.001,4.2071E+11,420710003001
+6,Total Count of Open Code Violations Older than a Year,3.001,4.2071E+11,420710003001
+53,Average Days To Close a Code Violation,3.002,4.2071E+11,420710003002
+85265,Average Sale Price 2007,3.002,4.2071E+11,420710003002
+102646,Average Sale Price 2017,3.002,4.2071E+11,420710003002
+17381,Change in Sale Price 2007 - 2017,3.002,4.2071E+11,420710003002
+415,Count of All Parcels,3.002,4.2071E+11,420710003002
+128,Count of all Rental Properties,3.002,4.2071E+11,420710003002
+2,Count of Condemnations 2007 - 2017,3.002,4.2071E+11,420710003002
+362,Count of Parcels owned by a City Resident,3.002,4.2071E+11,420710003002
+39,Count of Parcels owned by a County Resident,3.002,4.2071E+11,420710003002
+11,Count of Parcels owned by a State Resident,3.002,4.2071E+11,420710003002
+3,Count of Parcels owned by a US Resident (not PA),3.002,4.2071E+11,420710003002
+374,Count of Single Family Properties,3.002,4.2071E+11,420710003002
+0.2,Percent Change in Sale Price 2007 - 2017,3.002,4.2071E+11,420710003002
+1512,Total Count of Closed Violations,3.002,4.2071E+11,420710003002
+45,Total Count of Open Code Violations,3.002,4.2071E+11,420710003002
+11,Total Count of Open Code Violations Older than a Year,3.002,4.2071E+11,420710003002
+67,Average Days To Close a Code Violation,3.003,4.2071E+11,420710003003
+97996,Average Sale Price 2007,3.003,4.2071E+11,420710003003
+141928,Average Sale Price 2017,3.003,4.2071E+11,420710003003
+43931,Change in Sale Price 2007 - 2017,3.003,4.2071E+11,420710003003
+438,Count of All Parcels,3.003,4.2071E+11,420710003003
+216,Count of all Rental Properties,3.003,4.2071E+11,420710003003
+6,Count of Condemnations 2007 - 2017,3.003,4.2071E+11,420710003003
+348,Count of Parcels owned by a City Resident,3.003,4.2071E+11,420710003003
+65,Count of Parcels owned by a County Resident,3.003,4.2071E+11,420710003003
+17,Count of Parcels owned by a State Resident,3.003,4.2071E+11,420710003003
+8,Count of Parcels owned by a US Resident (not PA),3.003,4.2071E+11,420710003003
+331,Count of Single Family Properties,3.003,4.2071E+11,420710003003
+0.45,Percent Change in Sale Price 2007 - 2017,3.003,4.2071E+11,420710003003
+2016,Total Count of Closed Violations,3.003,4.2071E+11,420710003003
+45,Total Count of Open Code Violations,3.003,4.2071E+11,420710003003
+10,Total Count of Open Code Violations Older than a Year,3.003,4.2071E+11,420710003003
+55,Average Days To Close a Code Violation,3.004,4.2071E+11,420710003004
+92311,Average Sale Price 2007,3.004,4.2071E+11,420710003004
+140005,Average Sale Price 2017,3.004,4.2071E+11,420710003004
+47694,Change in Sale Price 2007 - 2017,3.004,4.2071E+11,420710003004
+418,Count of All Parcels,3.004,4.2071E+11,420710003004
+168,Count of all Rental Properties,3.004,4.2071E+11,420710003004
+2,Count of Condemnations 2007 - 2017,3.004,4.2071E+11,420710003004
+344,Count of Parcels owned by a City Resident,3.004,4.2071E+11,420710003004
+52,Count of Parcels owned by a County Resident,3.004,4.2071E+11,420710003004
+11,Count of Parcels owned by a State Resident,3.004,4.2071E+11,420710003004
+11,Count of Parcels owned by a US Resident (not PA),3.004,4.2071E+11,420710003004
+319,Count of Single Family Properties,3.004,4.2071E+11,420710003004
+0.52,Percent Change in Sale Price 2007 - 2017,3.004,4.2071E+11,420710003004
+2362,Total Count of Closed Violations,3.004,4.2071E+11,420710003004
+53,Total Count of Open Code Violations,3.004,4.2071E+11,420710003004
+25,Total Count of Open Code Violations Older than a Year,3.004,4.2071E+11,420710003004
+65,Average Days To Close a Code Violation,4.001,4.2071E+11,420710004001
+122260,Average Sale Price 2007,4.001,4.2071E+11,420710004001
+122132,Average Sale Price 2017,4.001,4.2071E+11,420710004001
+-128,Change in Sale Price 2007 - 2017,4.001,4.2071E+11,420710004001
+400,Count of All Parcels,4.001,4.2071E+11,420710004001
+188,Count of all Rental Properties,4.001,4.2071E+11,420710004001
+0,Count of Condemnations 2007 - 2017,4.001,4.2071E+11,420710004001
+322,Count of Parcels owned by a City Resident,4.001,4.2071E+11,420710004001
+53,Count of Parcels owned by a County Resident,4.001,4.2071E+11,420710004001
+11,Count of Parcels owned by a State Resident,4.001,4.2071E+11,420710004001
+14,Count of Parcels owned by a US Resident (not PA),4.001,4.2071E+11,420710004001
+273,Count of Single Family Properties,4.001,4.2071E+11,420710004001
+0,Percent Change in Sale Price 2007 - 2017,4.001,4.2071E+11,420710004001
+1896,Total Count of Closed Violations,4.001,4.2071E+11,420710004001
+48,Total Count of Open Code Violations,4.001,4.2071E+11,420710004001
+23,Total Count of Open Code Violations Older than a Year,4.001,4.2071E+11,420710004001
+63,Average Days To Close a Code Violation,4.002,4.2071E+11,420710004002
+81883,Average Sale Price 2007,4.002,4.2071E+11,420710004002
+94714,Average Sale Price 2017,4.002,4.2071E+11,420710004002
+12831,Change in Sale Price 2007 - 2017,4.002,4.2071E+11,420710004002
+261,Count of All Parcels,4.002,4.2071E+11,420710004002
+190,Count of all Rental Properties,4.002,4.2071E+11,420710004002
+1,Count of Condemnations 2007 - 2017,4.002,4.2071E+11,420710004002
+185,Count of Parcels owned by a City Resident,4.002,4.2071E+11,420710004002
+59,Count of Parcels owned by a County Resident,4.002,4.2071E+11,420710004002
+12,Count of Parcels owned by a State Resident,4.002,4.2071E+11,420710004002
+5,Count of Parcels owned by a US Resident (not PA),4.002,4.2071E+11,420710004002
+136,Count of Single Family Properties,4.002,4.2071E+11,420710004002
+0.16,Percent Change in Sale Price 2007 - 2017,4.002,4.2071E+11,420710004002
+1324,Total Count of Closed Violations,4.002,4.2071E+11,420710004002
+30,Total Count of Open Code Violations,4.002,4.2071E+11,420710004002
+11,Total Count of Open Code Violations Older than a Year,4.002,4.2071E+11,420710004002
+64,Average Days To Close a Code Violation,4.003,4.2071E+11,420710004003
+90177,Average Sale Price 2007,4.003,4.2071E+11,420710004003
+159117,Average Sale Price 2017,4.003,4.2071E+11,420710004003
+68939,Change in Sale Price 2007 - 2017,4.003,4.2071E+11,420710004003
+373,Count of All Parcels,4.003,4.2071E+11,420710004003
+232,Count of all Rental Properties,4.003,4.2071E+11,420710004003
+0,Count of Condemnations 2007 - 2017,4.003,4.2071E+11,420710004003
+298,Count of Parcels owned by a City Resident,4.003,4.2071E+11,420710004003
+47,Count of Parcels owned by a County Resident,4.003,4.2071E+11,420710004003
+14,Count of Parcels owned by a State Resident,4.003,4.2071E+11,420710004003
+14,Count of Parcels owned by a US Resident (not PA),4.003,4.2071E+11,420710004003
+112,Count of Single Family Properties,4.003,4.2071E+11,420710004003
+0.76,Percent Change in Sale Price 2007 - 2017,4.003,4.2071E+11,420710004003
+1664,Total Count of Closed Violations,4.003,4.2071E+11,420710004003
+27,Total Count of Open Code Violations,4.003,4.2071E+11,420710004003
+16,Total Count of Open Code Violations Older than a Year,4.003,4.2071E+11,420710004003
+100,Average Days To Close a Code Violation,4.004,4.2071E+11,420710004004
+102740,Average Sale Price 2007,4.004,4.2071E+11,420710004004
+168750,Average Sale Price 2017,4.004,4.2071E+11,420710004004
+66010,Change in Sale Price 2007 - 2017,4.004,4.2071E+11,420710004004
+236,Count of All Parcels,4.004,4.2071E+11,420710004004
+149,Count of all Rental Properties,4.004,4.2071E+11,420710004004
+1,Count of Condemnations 2007 - 2017,4.004,4.2071E+11,420710004004
+204,Count of Parcels owned by a City Resident,4.004,4.2071E+11,420710004004
+19,Count of Parcels owned by a County Resident,4.004,4.2071E+11,420710004004
+7,Count of Parcels owned by a State Resident,4.004,4.2071E+11,420710004004
+6,Count of Parcels owned by a US Resident (not PA),4.004,4.2071E+11,420710004004
+90,Count of Single Family Properties,4.004,4.2071E+11,420710004004
+0.64,Percent Change in Sale Price 2007 - 2017,4.004,4.2071E+11,420710004004
+494,Total Count of Closed Violations,4.004,4.2071E+11,420710004004
+18,Total Count of Open Code Violations,4.004,4.2071E+11,420710004004
+13,Total Count of Open Code Violations Older than a Year,4.004,4.2071E+11,420710004004
+88,Average Days To Close a Code Violation,5.001,4.2071E+11,420710005001
+93271,Average Sale Price 2007,5.001,4.2071E+11,420710005001
+145145,Average Sale Price 2017,5.001,4.2071E+11,420710005001
+51874,Change in Sale Price 2007 - 2017,5.001,4.2071E+11,420710005001
+338,Count of All Parcels,5.001,4.2071E+11,420710005001
+182,Count of all Rental Properties,5.001,4.2071E+11,420710005001
+1,Count of Condemnations 2007 - 2017,5.001,4.2071E+11,420710005001
+281,Count of Parcels owned by a City Resident,5.001,4.2071E+11,420710005001
+32,Count of Parcels owned by a County Resident,5.001,4.2071E+11,420710005001
+16,Count of Parcels owned by a State Resident,5.001,4.2071E+11,420710005001
+9,Count of Parcels owned by a US Resident (not PA),5.001,4.2071E+11,420710005001
+256,Count of Single Family Properties,5.001,4.2071E+11,420710005001
+0.56,Percent Change in Sale Price 2007 - 2017,5.001,4.2071E+11,420710005001
+1398,Total Count of Closed Violations,5.001,4.2071E+11,420710005001
+19,Total Count of Open Code Violations,5.001,4.2071E+11,420710005001
+9,Total Count of Open Code Violations Older than a Year,5.001,4.2071E+11,420710005001
+62,Average Days To Close a Code Violation,5.002,4.2071E+11,420710005002
+124818,Average Sale Price 2007,5.002,4.2071E+11,420710005002
+133705,Average Sale Price 2017,5.002,4.2071E+11,420710005002
+8888,Change in Sale Price 2007 - 2017,5.002,4.2071E+11,420710005002
+401,Count of All Parcels,5.002,4.2071E+11,420710005002
+227,Count of all Rental Properties,5.002,4.2071E+11,420710005002
+3,Count of Condemnations 2007 - 2017,5.002,4.2071E+11,420710005002
+318,Count of Parcels owned by a City Resident,5.002,4.2071E+11,420710005002
+38,Count of Parcels owned by a County Resident,5.002,4.2071E+11,420710005002
+30,Count of Parcels owned by a State Resident,5.002,4.2071E+11,420710005002
+15,Count of Parcels owned by a US Resident (not PA),5.002,4.2071E+11,420710005002
+271,Count of Single Family Properties,5.002,4.2071E+11,420710005002
+0.07,Percent Change in Sale Price 2007 - 2017,5.002,4.2071E+11,420710005002
+2102,Total Count of Closed Violations,5.002,4.2071E+11,420710005002
+42,Total Count of Open Code Violations,5.002,4.2071E+11,420710005002
+16,Total Count of Open Code Violations Older than a Year,5.002,4.2071E+11,420710005002
+68,Average Days To Close a Code Violation,5.003,4.2071E+11,420710005003
+107886,Average Sale Price 2007,5.003,4.2071E+11,420710005003
+156109,Average Sale Price 2017,5.003,4.2071E+11,420710005003
+48224,Change in Sale Price 2007 - 2017,5.003,4.2071E+11,420710005003
+323,Count of All Parcels,5.003,4.2071E+11,420710005003
+140,Count of all Rental Properties,5.003,4.2071E+11,420710005003
+0,Count of Condemnations 2007 - 2017,5.003,4.2071E+11,420710005003
+265,Count of Parcels owned by a City Resident,5.003,4.2071E+11,420710005003
+40,Count of Parcels owned by a County Resident,5.003,4.2071E+11,420710005003
+7,Count of Parcels owned by a State Resident,5.003,4.2071E+11,420710005003
+11,Count of Parcels owned by a US Resident (not PA),5.003,4.2071E+11,420710005003
+223,Count of Single Family Properties,5.003,4.2071E+11,420710005003
+0.45,Percent Change in Sale Price 2007 - 2017,5.003,4.2071E+11,420710005003
+1029,Total Count of Closed Violations,5.003,4.2071E+11,420710005003
+21,Total Count of Open Code Violations,5.003,4.2071E+11,420710005003
+5,Total Count of Open Code Violations Older than a Year,5.003,4.2071E+11,420710005003
+90,Average Days To Close a Code Violation,5.004,4.2071E+11,420710005004
+180000,Average Sale Price 2007,5.004,4.2071E+11,420710005004
+240475,Average Sale Price 2017,5.004,4.2071E+11,420710005004
+60475,Change in Sale Price 2007 - 2017,5.004,4.2071E+11,420710005004
+189,Count of All Parcels,5.004,4.2071E+11,420710005004
+45,Count of all Rental Properties,5.004,4.2071E+11,420710005004
+0,Count of Condemnations 2007 - 2017,5.004,4.2071E+11,420710005004
+179,Count of Parcels owned by a City Resident,5.004,4.2071E+11,420710005004
+3,Count of Parcels owned by a County Resident,5.004,4.2071E+11,420710005004
+2,Count of Parcels owned by a State Resident,5.004,4.2071E+11,420710005004
+5,Count of Parcels owned by a US Resident (not PA),5.004,4.2071E+11,420710005004
+149,Count of Single Family Properties,5.004,4.2071E+11,420710005004
+0.34,Percent Change in Sale Price 2007 - 2017,5.004,4.2071E+11,420710005004
+416,Total Count of Closed Violations,5.004,4.2071E+11,420710005004
+6,Total Count of Open Code Violations,5.004,4.2071E+11,420710005004
+5,Total Count of Open Code Violations Older than a Year,5.004,4.2071E+11,420710005004
+96,Average Days To Close a Code Violation,6.001,4.2071E+11,420710006001
+218583,Average Sale Price 2007,6.001,4.2071E+11,420710006001
+194623,Average Sale Price 2017,6.001,4.2071E+11,420710006001
+-23961,Change in Sale Price 2007 - 2017,6.001,4.2071E+11,420710006001
+276,Count of All Parcels,6.001,4.2071E+11,420710006001
+99,Count of all Rental Properties,6.001,4.2071E+11,420710006001
+0,Count of Condemnations 2007 - 2017,6.001,4.2071E+11,420710006001
+249,Count of Parcels owned by a City Resident,6.001,4.2071E+11,420710006001
+17,Count of Parcels owned by a County Resident,6.001,4.2071E+11,420710006001
+4,Count of Parcels owned by a State Resident,6.001,4.2071E+11,420710006001
+6,Count of Parcels owned by a US Resident (not PA),6.001,4.2071E+11,420710006001
+198,Count of Single Family Properties,6.001,4.2071E+11,420710006001
+-0.11,Percent Change in Sale Price 2007 - 2017,6.001,4.2071E+11,420710006001
+610,Total Count of Closed Violations,6.001,4.2071E+11,420710006001
+11,Total Count of Open Code Violations,6.001,4.2071E+11,420710006001
+5,Total Count of Open Code Violations Older than a Year,6.001,4.2071E+11,420710006001
+95,Average Days To Close a Code Violation,6.002,4.2071E+11,420710006002
+55192,Average Sale Price 2007,6.002,4.2071E+11,420710006002
+112919,Average Sale Price 2017,6.002,4.2071E+11,420710006002
+57727,Change in Sale Price 2007 - 2017,6.002,4.2071E+11,420710006002
+259,Count of All Parcels,6.002,4.2071E+11,420710006002
+166,Count of all Rental Properties,6.002,4.2071E+11,420710006002
+1,Count of Condemnations 2007 - 2017,6.002,4.2071E+11,420710006002
+180,Count of Parcels owned by a City Resident,6.002,4.2071E+11,420710006002
+58,Count of Parcels owned by a County Resident,6.002,4.2071E+11,420710006002
+10,Count of Parcels owned by a State Resident,6.002,4.2071E+11,420710006002
+11,Count of Parcels owned by a US Resident (not PA),6.002,4.2071E+11,420710006002
+142,Count of Single Family Properties,6.002,4.2071E+11,420710006002
+1.05,Percent Change in Sale Price 2007 - 2017,6.002,4.2071E+11,420710006002
+1364,Total Count of Closed Violations,6.002,4.2071E+11,420710006002
+13,Total Count of Open Code Violations,6.002,4.2071E+11,420710006002
+2,Total Count of Open Code Violations Older than a Year,6.002,4.2071E+11,420710006002
+84,Average Days To Close a Code Violation,6.003,4.2071E+11,420710006003
+197488,Average Sale Price 2007,6.003,4.2071E+11,420710006003
+196727,Average Sale Price 2017,6.003,4.2071E+11,420710006003
+-761,Change in Sale Price 2007 - 2017,6.003,4.2071E+11,420710006003
+324,Count of All Parcels,6.003,4.2071E+11,420710006003
+138,Count of all Rental Properties,6.003,4.2071E+11,420710006003
+1,Count of Condemnations 2007 - 2017,6.003,4.2071E+11,420710006003
+271,Count of Parcels owned by a City Resident,6.003,4.2071E+11,420710006003
+33,Count of Parcels owned by a County Resident,6.003,4.2071E+11,420710006003
+11,Count of Parcels owned by a State Resident,6.003,4.2071E+11,420710006003
+9,Count of Parcels owned by a US Resident (not PA),6.003,4.2071E+11,420710006003
+210,Count of Single Family Properties,6.003,4.2071E+11,420710006003
+0,Percent Change in Sale Price 2007 - 2017,6.003,4.2071E+11,420710006003
+1064,Total Count of Closed Violations,6.003,4.2071E+11,420710006003
+11,Total Count of Open Code Violations,6.003,4.2071E+11,420710006003
+5,Total Count of Open Code Violations Older than a Year,6.003,4.2071E+11,420710006003
+95,Average Days To Close a Code Violation,6.004,4.2071E+11,420710006004
+220188,Average Sale Price 2007,6.004,4.2071E+11,420710006004
+167600,Average Sale Price 2017,6.004,4.2071E+11,420710006004
+-52588,Change in Sale Price 2007 - 2017,6.004,4.2071E+11,420710006004
+377,Count of All Parcels,6.004,4.2071E+11,420710006004
+174,Count of all Rental Properties,6.004,4.2071E+11,420710006004
+1,Count of Condemnations 2007 - 2017,6.004,4.2071E+11,420710006004
+290,Count of Parcels owned by a City Resident,6.004,4.2071E+11,420710006004
+48,Count of Parcels owned by a County Resident,6.004,4.2071E+11,420710006004
+19,Count of Parcels owned by a State Resident,6.004,4.2071E+11,420710006004
+20,Count of Parcels owned by a US Resident (not PA),6.004,4.2071E+11,420710006004
+135,Count of Single Family Properties,6.004,4.2071E+11,420710006004
+-0.24,Percent Change in Sale Price 2007 - 2017,6.004,4.2071E+11,420710006004
+1155,Total Count of Closed Violations,6.004,4.2071E+11,420710006004
+19,Total Count of Open Code Violations,6.004,4.2071E+11,420710006004
+4,Total Count of Open Code Violations Older than a Year,6.004,4.2071E+11,420710006004
+52,Average Days To Close a Code Violation,7.001,4.2071E+11,420710007001
+96255,Average Sale Price 2007,7.001,4.2071E+11,420710007001
+118279,Average Sale Price 2017,7.001,4.2071E+11,420710007001
+22025,Change in Sale Price 2007 - 2017,7.001,4.2071E+11,420710007001
+271,Count of All Parcels,7.001,4.2071E+11,420710007001
+107,Count of all Rental Properties,7.001,4.2071E+11,420710007001
+4,Count of Condemnations 2007 - 2017,7.001,4.2071E+11,420710007001
+224,Count of Parcels owned by a City Resident,7.001,4.2071E+11,420710007001
+38,Count of Parcels owned by a County Resident,7.001,4.2071E+11,420710007001
+5,Count of Parcels owned by a State Resident,7.001,4.2071E+11,420710007001
+4,Count of Parcels owned by a US Resident (not PA),7.001,4.2071E+11,420710007001
+211,Count of Single Family Properties,7.001,4.2071E+11,420710007001
+0.23,Percent Change in Sale Price 2007 - 2017,7.001,4.2071E+11,420710007001
+1349,Total Count of Closed Violations,7.001,4.2071E+11,420710007001
+24,Total Count of Open Code Violations,7.001,4.2071E+11,420710007001
+3,Total Count of Open Code Violations Older than a Year,7.001,4.2071E+11,420710007001
+65,Average Days To Close a Code Violation,7.002,4.2071E+11,420710007002
+151600,Average Sale Price 2007,7.002,4.2071E+11,420710007002
+141384,Average Sale Price 2017,7.002,4.2071E+11,420710007002
+-10216,Change in Sale Price 2007 - 2017,7.002,4.2071E+11,420710007002
+257,Count of All Parcels,7.002,4.2071E+11,420710007002
+101,Count of all Rental Properties,7.002,4.2071E+11,420710007002
+1,Count of Condemnations 2007 - 2017,7.002,4.2071E+11,420710007002
+214,Count of Parcels owned by a City Resident,7.002,4.2071E+11,420710007002
+29,Count of Parcels owned by a County Resident,7.002,4.2071E+11,420710007002
+7,Count of Parcels owned by a State Resident,7.002,4.2071E+11,420710007002
+7,Count of Parcels owned by a US Resident (not PA),7.002,4.2071E+11,420710007002
+183,Count of Single Family Properties,7.002,4.2071E+11,420710007002
+-0.07,Percent Change in Sale Price 2007 - 2017,7.002,4.2071E+11,420710007002
+1038,Total Count of Closed Violations,7.002,4.2071E+11,420710007002
+12,Total Count of Open Code Violations,7.002,4.2071E+11,420710007002
+0,Total Count of Open Code Violations Older than a Year,7.002,4.2071E+11,420710007002
+64,Average Days To Close a Code Violation,7.003,4.2071E+11,420710007003
+172467,Average Sale Price 2007,7.003,4.2071E+11,420710007003
+148226,Average Sale Price 2017,7.003,4.2071E+11,420710007003
+-24240,Change in Sale Price 2007 - 2017,7.003,4.2071E+11,420710007003
+310,Count of All Parcels,7.003,4.2071E+11,420710007003
+177,Count of all Rental Properties,7.003,4.2071E+11,420710007003
+2,Count of Condemnations 2007 - 2017,7.003,4.2071E+11,420710007003
+252,Count of Parcels owned by a City Resident,7.003,4.2071E+11,420710007003
+30,Count of Parcels owned by a County Resident,7.003,4.2071E+11,420710007003
+11,Count of Parcels owned by a State Resident,7.003,4.2071E+11,420710007003
+17,Count of Parcels owned by a US Resident (not PA),7.003,4.2071E+11,420710007003
+182,Count of Single Family Properties,7.003,4.2071E+11,420710007003
+-0.14,Percent Change in Sale Price 2007 - 2017,7.003,4.2071E+11,420710007003
+1104,Total Count of Closed Violations,7.003,4.2071E+11,420710007003
+18,Total Count of Open Code Violations,7.003,4.2071E+11,420710007003
+4,Total Count of Open Code Violations Older than a Year,7.003,4.2071E+11,420710007003
+59,Average Days To Close a Code Violation,8.001,4.2071E+11,420710008001
+63250,Average Sale Price 2007,8.001,4.2071E+11,420710008001
+95367,Average Sale Price 2017,8.001,4.2071E+11,420710008001
+32117,Change in Sale Price 2007 - 2017,8.001,4.2071E+11,420710008001
+246,Count of All Parcels,8.001,4.2071E+11,420710008001
+146,Count of all Rental Properties,8.001,4.2071E+11,420710008001
+1,Count of Condemnations 2007 - 2017,8.001,4.2071E+11,420710008001
+193,Count of Parcels owned by a City Resident,8.001,4.2071E+11,420710008001
+34,Count of Parcels owned by a County Resident,8.001,4.2071E+11,420710008001
+10,Count of Parcels owned by a State Resident,8.001,4.2071E+11,420710008001
+9,Count of Parcels owned by a US Resident (not PA),8.001,4.2071E+11,420710008001
+161,Count of Single Family Properties,8.001,4.2071E+11,420710008001
+0.51,Percent Change in Sale Price 2007 - 2017,8.001,4.2071E+11,420710008001
+1800,Total Count of Closed Violations,8.001,4.2071E+11,420710008001
+13,Total Count of Open Code Violations,8.001,4.2071E+11,420710008001
+8,Total Count of Open Code Violations Older than a Year,8.001,4.2071E+11,420710008001
+49,Average Days To Close a Code Violation,8.002,4.2071E+11,420710008002
+72090,Average Sale Price 2007,8.002,4.2071E+11,420710008002
+74143,Average Sale Price 2017,8.002,4.2071E+11,420710008002
+2053,Change in Sale Price 2007 - 2017,8.002,4.2071E+11,420710008002
+247,Count of All Parcels,8.002,4.2071E+11,420710008002
+75,Count of all Rental Properties,8.002,4.2071E+11,420710008002
+3,Count of Condemnations 2007 - 2017,8.002,4.2071E+11,420710008002
+226,Count of Parcels owned by a City Resident,8.002,4.2071E+11,420710008002
+16,Count of Parcels owned by a County Resident,8.002,4.2071E+11,420710008002
+2,Count of Parcels owned by a State Resident,8.002,4.2071E+11,420710008002
+3,Count of Parcels owned by a US Resident (not PA),8.002,4.2071E+11,420710008002
+220,Count of Single Family Properties,8.002,4.2071E+11,420710008002
+0.03,Percent Change in Sale Price 2007 - 2017,8.002,4.2071E+11,420710008002
+1135,Total Count of Closed Violations,8.002,4.2071E+11,420710008002
+12,Total Count of Open Code Violations,8.002,4.2071E+11,420710008002
+7,Total Count of Open Code Violations Older than a Year,8.002,4.2071E+11,420710008002
+40,Average Days To Close a Code Violation,8.003,4.2071E+11,420710008003
+68738,Average Sale Price 2007,8.003,4.2071E+11,420710008003
+61186,Average Sale Price 2017,8.003,4.2071E+11,420710008003
+-7552,Change in Sale Price 2007 - 2017,8.003,4.2071E+11,420710008003
+196,Count of All Parcels,8.003,4.2071E+11,420710008003
+78,Count of all Rental Properties,8.003,4.2071E+11,420710008003
+0,Count of Condemnations 2007 - 2017,8.003,4.2071E+11,420710008003
+175,Count of Parcels owned by a City Resident,8.003,4.2071E+11,420710008003
+16,Count of Parcels owned by a County Resident,8.003,4.2071E+11,420710008003
+3,Count of Parcels owned by a State Resident,8.003,4.2071E+11,420710008003
+2,Count of Parcels owned by a US Resident (not PA),8.003,4.2071E+11,420710008003
+152,Count of Single Family Properties,8.003,4.2071E+11,420710008003
+-0.11,Percent Change in Sale Price 2007 - 2017,8.003,4.2071E+11,420710008003
+644,Total Count of Closed Violations,8.003,4.2071E+11,420710008003
+5,Total Count of Open Code Violations,8.003,4.2071E+11,420710008003
+4,Total Count of Open Code Violations Older than a Year,8.003,4.2071E+11,420710008003
+89,Average Days To Close a Code Violation,8.004,4.2071E+11,420710008004
+75000,Average Sale Price 2007,8.004,4.2071E+11,420710008004
+84200,Average Sale Price 2017,8.004,4.2071E+11,420710008004
+9200,Change in Sale Price 2007 - 2017,8.004,4.2071E+11,420710008004
+94,Count of All Parcels,8.004,4.2071E+11,420710008004
+57,Count of all Rental Properties,8.004,4.2071E+11,420710008004
+5,Count of Condemnations 2007 - 2017,8.004,4.2071E+11,420710008004
+75,Count of Parcels owned by a City Resident,8.004,4.2071E+11,420710008004
+13,Count of Parcels owned by a County Resident,8.004,4.2071E+11,420710008004
+0,Count of Parcels owned by a State Resident,8.004,4.2071E+11,420710008004
+6,Count of Parcels owned by a US Resident (not PA),8.004,4.2071E+11,420710008004
+61,Count of Single Family Properties,8.004,4.2071E+11,420710008004
+0.12,Percent Change in Sale Price 2007 - 2017,8.004,4.2071E+11,420710008004
+693,Total Count of Closed Violations,8.004,4.2071E+11,420710008004
+7,Total Count of Open Code Violations,8.004,4.2071E+11,420710008004
+4,Total Count of Open Code Violations Older than a Year,8.004,4.2071E+11,420710008004
+61,Average Days To Close a Code Violation,9.001,4.2071E+11,420710009001
+61514,Average Sale Price 2007,9.001,4.2071E+11,420710009001
+66944,Average Sale Price 2017,9.001,4.2071E+11,420710009001
+5430,Change in Sale Price 2007 - 2017,9.001,4.2071E+11,420710009001
+160,Count of All Parcels,9.001,4.2071E+11,420710009001
+98,Count of all Rental Properties,9.001,4.2071E+11,420710009001
+3,Count of Condemnations 2007 - 2017,9.001,4.2071E+11,420710009001
+129,Count of Parcels owned by a City Resident,9.001,4.2071E+11,420710009001
+22,Count of Parcels owned by a County Resident,9.001,4.2071E+11,420710009001
+6,Count of Parcels owned by a State Resident,9.001,4.2071E+11,420710009001
+3,Count of Parcels owned by a US Resident (not PA),9.001,4.2071E+11,420710009001
+104,Count of Single Family Properties,9.001,4.2071E+11,420710009001
+0.09,Percent Change in Sale Price 2007 - 2017,9.001,4.2071E+11,420710009001
+994,Total Count of Closed Violations,9.001,4.2071E+11,420710009001
+11,Total Count of Open Code Violations,9.001,4.2071E+11,420710009001
+4,Total Count of Open Code Violations Older than a Year,9.001,4.2071E+11,420710009001
+67,Average Days To Close a Code Violation,9.002,4.2071E+11,420710009002
+95401,Average Sale Price 2007,9.002,4.2071E+11,420710009002
+62366,Average Sale Price 2017,9.002,4.2071E+11,420710009002
+-33035,Change in Sale Price 2007 - 2017,9.002,4.2071E+11,420710009002
+225,Count of All Parcels,9.002,4.2071E+11,420710009002
+162,Count of all Rental Properties,9.002,4.2071E+11,420710009002
+1,Count of Condemnations 2007 - 2017,9.002,4.2071E+11,420710009002
+154,Count of Parcels owned by a City Resident,9.002,4.2071E+11,420710009002
+40,Count of Parcels owned by a County Resident,9.002,4.2071E+11,420710009002
+16,Count of Parcels owned by a State Resident,9.002,4.2071E+11,420710009002
+15,Count of Parcels owned by a US Resident (not PA),9.002,4.2071E+11,420710009002
+173,Count of Single Family Properties,9.002,4.2071E+11,420710009002
+-0.35,Percent Change in Sale Price 2007 - 2017,9.002,4.2071E+11,420710009002
+1260,Total Count of Closed Violations,9.002,4.2071E+11,420710009002
+16,Total Count of Open Code Violations,9.002,4.2071E+11,420710009002
+8,Total Count of Open Code Violations Older than a Year,9.002,4.2071E+11,420710009002
+73,Average Days To Close a Code Violation,9.003,4.2071E+11,420710009003
+58000,Average Sale Price 2007,9.003,4.2071E+11,420710009003
+109900,Average Sale Price 2017,9.003,4.2071E+11,420710009003
+51900,Change in Sale Price 2007 - 2017,9.003,4.2071E+11,420710009003
+75,Count of All Parcels,9.003,4.2071E+11,420710009003
+50,Count of all Rental Properties,9.003,4.2071E+11,420710009003
+1,Count of Condemnations 2007 - 2017,9.003,4.2071E+11,420710009003
+59,Count of Parcels owned by a City Resident,9.003,4.2071E+11,420710009003
+9,Count of Parcels owned by a County Resident,9.003,4.2071E+11,420710009003
+2,Count of Parcels owned by a State Resident,9.003,4.2071E+11,420710009003
+5,Count of Parcels owned by a US Resident (not PA),9.003,4.2071E+11,420710009003
+54,Count of Single Family Properties,9.003,4.2071E+11,420710009003
+0.89,Percent Change in Sale Price 2007 - 2017,9.003,4.2071E+11,420710009003
+303,Total Count of Closed Violations,9.003,4.2071E+11,420710009003
+3,Total Count of Open Code Violations,9.003,4.2071E+11,420710009003
+1,Total Count of Open Code Violations Older than a Year,9.003,4.2071E+11,420710009003
+68,Average Days To Close a Code Violation,9.004,4.2071E+11,420710009004
+97715,Average Sale Price 2007,9.004,4.2071E+11,420710009004
+117058,Average Sale Price 2017,9.004,4.2071E+11,420710009004
+19342,Change in Sale Price 2007 - 2017,9.004,4.2071E+11,420710009004
+422,Count of All Parcels,9.004,4.2071E+11,420710009004
+230,Count of all Rental Properties,9.004,4.2071E+11,420710009004
+8,Count of Condemnations 2007 - 2017,9.004,4.2071E+11,420710009004
+348,Count of Parcels owned by a City Resident,9.004,4.2071E+11,420710009004
+54,Count of Parcels owned by a County Resident,9.004,4.2071E+11,420710009004
+12,Count of Parcels owned by a State Resident,9.004,4.2071E+11,420710009004
+8,Count of Parcels owned by a US Resident (not PA),9.004,4.2071E+11,420710009004
+340,Count of Single Family Properties,9.004,4.2071E+11,420710009004
+0.2,Percent Change in Sale Price 2007 - 2017,9.004,4.2071E+11,420710009004
+2013,Total Count of Closed Violations,9.004,4.2071E+11,420710009004
+80,Total Count of Open Code Violations,9.004,4.2071E+11,420710009004
+18,Total Count of Open Code Violations Older than a Year,9.004,4.2071E+11,420710009004
+74,Average Days To Close a Code Violation,10.001,4.2071E+11,420710010001
+56050,Average Sale Price 2007,10.001,4.2071E+11,420710010001
+53946,Average Sale Price 2017,10.001,4.2071E+11,420710010001
+-2104,Change in Sale Price 2007 - 2017,10.001,4.2071E+11,420710010001
+312,Count of All Parcels,10.001,4.2071E+11,420710010001
+206,Count of all Rental Properties,10.001,4.2071E+11,420710010001
+6,Count of Condemnations 2007 - 2017,10.001,4.2071E+11,420710010001
+212,Count of Parcels owned by a City Resident,10.001,4.2071E+11,420710010001
+75,Count of Parcels owned by a County Resident,10.001,4.2071E+11,420710010001
+8,Count of Parcels owned by a State Resident,10.001,4.2071E+11,420710010001
+17,Count of Parcels owned by a US Resident (not PA),10.001,4.2071E+11,420710010001
+230,Count of Single Family Properties,10.001,4.2071E+11,420710010001
+-0.04,Percent Change in Sale Price 2007 - 2017,10.001,4.2071E+11,420710010001
+1955,Total Count of Closed Violations,10.001,4.2071E+11,420710010001
+75,Total Count of Open Code Violations,10.001,4.2071E+11,420710010001
+17,Total Count of Open Code Violations Older than a Year,10.001,4.2071E+11,420710010001
+68,Average Days To Close a Code Violation,10.002,4.2071E+11,420710010002
+66275,Average Sale Price 2007,10.002,4.2071E+11,420710010002
+88924,Average Sale Price 2017,10.002,4.2071E+11,420710010002
+22649,Change in Sale Price 2007 - 2017,10.002,4.2071E+11,420710010002
+274,Count of All Parcels,10.002,4.2071E+11,420710010002
+206,Count of all Rental Properties,10.002,4.2071E+11,420710010002
+6,Count of Condemnations 2007 - 2017,10.002,4.2071E+11,420710010002
+197,Count of Parcels owned by a City Resident,10.002,4.2071E+11,420710010002
+59,Count of Parcels owned by a County Resident,10.002,4.2071E+11,420710010002
+7,Count of Parcels owned by a State Resident,10.002,4.2071E+11,420710010002
+11,Count of Parcels owned by a US Resident (not PA),10.002,4.2071E+11,420710010002
+220,Count of Single Family Properties,10.002,4.2071E+11,420710010002
+0.34,Percent Change in Sale Price 2007 - 2017,10.002,4.2071E+11,420710010002
+1980,Total Count of Closed Violations,10.002,4.2071E+11,420710010002
+42,Total Count of Open Code Violations,10.002,4.2071E+11,420710010002
+16,Total Count of Open Code Violations Older than a Year,10.002,4.2071E+11,420710010002
+72,Average Days To Close a Code Violation,10.003,4.2071E+11,420710010003
+77038,Average Sale Price 2007,10.003,4.2071E+11,420710010003
+93978,Average Sale Price 2017,10.003,4.2071E+11,420710010003
+16940,Change in Sale Price 2007 - 2017,10.003,4.2071E+11,420710010003
+335,Count of All Parcels,10.003,4.2071E+11,420710010003
+173,Count of all Rental Properties,10.003,4.2071E+11,420710010003
+3,Count of Condemnations 2007 - 2017,10.003,4.2071E+11,420710010003
+253,Count of Parcels owned by a City Resident,10.003,4.2071E+11,420710010003
+54,Count of Parcels owned by a County Resident,10.003,4.2071E+11,420710010003
+14,Count of Parcels owned by a State Resident,10.003,4.2071E+11,420710010003
+14,Count of Parcels owned by a US Resident (not PA),10.003,4.2071E+11,420710010003
+268,Count of Single Family Properties,10.003,4.2071E+11,420710010003
+0.22,Percent Change in Sale Price 2007 - 2017,10.003,4.2071E+11,420710010003
+1571,Total Count of Closed Violations,10.003,4.2071E+11,420710010003
+31,Total Count of Open Code Violations,10.003,4.2071E+11,420710010003
+18,Total Count of Open Code Violations Older than a Year,10.003,4.2071E+11,420710010003
+73,Average Days To Close a Code Violation,10.004,4.2071E+11,420710010004
+68408,Average Sale Price 2007,10.004,4.2071E+11,420710010004
+70770,Average Sale Price 2017,10.004,4.2071E+11,420710010004
+2362,Change in Sale Price 2007 - 2017,10.004,4.2071E+11,420710010004
+266,Count of All Parcels,10.004,4.2071E+11,420710010004
+144,Count of all Rental Properties,10.004,4.2071E+11,420710010004
+2,Count of Condemnations 2007 - 2017,10.004,4.2071E+11,420710010004
+198,Count of Parcels owned by a City Resident,10.004,4.2071E+11,420710010004
+50,Count of Parcels owned by a County Resident,10.004,4.2071E+11,420710010004
+8,Count of Parcels owned by a State Resident,10.004,4.2071E+11,420710010004
+10,Count of Parcels owned by a US Resident (not PA),10.004,4.2071E+11,420710010004
+211,Count of Single Family Properties,10.004,4.2071E+11,420710010004
+0.03,Percent Change in Sale Price 2007 - 2017,10.004,4.2071E+11,420710010004
+1305,Total Count of Closed Violations,10.004,4.2071E+11,420710010004
+20,Total Count of Open Code Violations,10.004,4.2071E+11,420710010004
+4,Total Count of Open Code Violations Older than a Year,10.004,4.2071E+11,420710010004
+67,Average Days To Close a Code Violation,11.001,4.2071E+11,420710011001
+73421,Average Sale Price 2007,11.001,4.2071E+11,420710011001
+91972,Average Sale Price 2017,11.001,4.2071E+11,420710011001
+18551,Change in Sale Price 2007 - 2017,11.001,4.2071E+11,420710011001
+414,Count of All Parcels,11.001,4.2071E+11,420710011001
+219,Count of all Rental Properties,11.001,4.2071E+11,420710011001
+4,Count of Condemnations 2007 - 2017,11.001,4.2071E+11,420710011001
+344,Count of Parcels owned by a City Resident,11.001,4.2071E+11,420710011001
+50,Count of Parcels owned by a County Resident,11.001,4.2071E+11,420710011001
+9,Count of Parcels owned by a State Resident,11.001,4.2071E+11,420710011001
+11,Count of Parcels owned by a US Resident (not PA),11.001,4.2071E+11,420710011001
+295,Count of Single Family Properties,11.001,4.2071E+11,420710011001
+0.25,Percent Change in Sale Price 2007 - 2017,11.001,4.2071E+11,420710011001
+1828,Total Count of Closed Violations,11.001,4.2071E+11,420710011001
+37,Total Count of Open Code Violations,11.001,4.2071E+11,420710011001
+13,Total Count of Open Code Violations Older than a Year,11.001,4.2071E+11,420710011001
+66,Average Days To Close a Code Violation,11.002,4.2071E+11,420710011002
+88177,Average Sale Price 2007,11.002,4.2071E+11,420710011002
+89380,Average Sale Price 2017,11.002,4.2071E+11,420710011002
+1203,Change in Sale Price 2007 - 2017,11.002,4.2071E+11,420710011002
+463,Count of All Parcels,11.002,4.2071E+11,420710011002
+158,Count of all Rental Properties,11.002,4.2071E+11,420710011002
+2,Count of Condemnations 2007 - 2017,11.002,4.2071E+11,420710011002
+405,Count of Parcels owned by a City Resident,11.002,4.2071E+11,420710011002
+33,Count of Parcels owned by a County Resident,11.002,4.2071E+11,420710011002
+10,Count of Parcels owned by a State Resident,11.002,4.2071E+11,420710011002
+15,Count of Parcels owned by a US Resident (not PA),11.002,4.2071E+11,420710011002
+435,Count of Single Family Properties,11.002,4.2071E+11,420710011002
+0.01,Percent Change in Sale Price 2007 - 2017,11.002,4.2071E+11,420710011002
+1456,Total Count of Closed Violations,11.002,4.2071E+11,420710011002
+33,Total Count of Open Code Violations,11.002,4.2071E+11,420710011002
+17,Total Count of Open Code Violations Older than a Year,11.002,4.2071E+11,420710011002
+64,Average Days To Close a Code Violation,11.003,4.2071E+11,420710011003
+86459,Average Sale Price 2007,11.003,4.2071E+11,420710011003
+88541,Average Sale Price 2017,11.003,4.2071E+11,420710011003
+2082,Change in Sale Price 2007 - 2017,11.003,4.2071E+11,420710011003
+356,Count of All Parcels,11.003,4.2071E+11,420710011003
+168,Count of all Rental Properties,11.003,4.2071E+11,420710011003
+2,Count of Condemnations 2007 - 2017,11.003,4.2071E+11,420710011003
+289,Count of Parcels owned by a City Resident,11.003,4.2071E+11,420710011003
+54,Count of Parcels owned by a County Resident,11.003,4.2071E+11,420710011003
+6,Count of Parcels owned by a State Resident,11.003,4.2071E+11,420710011003
+7,Count of Parcels owned by a US Resident (not PA),11.003,4.2071E+11,420710011003
+305,Count of Single Family Properties,11.003,4.2071E+11,420710011003
+0.02,Percent Change in Sale Price 2007 - 2017,11.003,4.2071E+11,420710011003
+1280,Total Count of Closed Violations,11.003,4.2071E+11,420710011003
+23,Total Count of Open Code Violations,11.003,4.2071E+11,420710011003
+10,Total Count of Open Code Violations Older than a Year,11.003,4.2071E+11,420710011003
+56,Average Days To Close a Code Violation,12.001,4.2071E+11,420710012001
+91599,Average Sale Price 2007,12.001,4.2071E+11,420710012001
+87022,Average Sale Price 2017,12.001,4.2071E+11,420710012001
+-4577,Change in Sale Price 2007 - 2017,12.001,4.2071E+11,420710012001
+449,Count of All Parcels,12.001,4.2071E+11,420710012001
+130,Count of all Rental Properties,12.001,4.2071E+11,420710012001
+0,Count of Condemnations 2007 - 2017,12.001,4.2071E+11,420710012001
+399,Count of Parcels owned by a City Resident,12.001,4.2071E+11,420710012001
+34,Count of Parcels owned by a County Resident,12.001,4.2071E+11,420710012001
+8,Count of Parcels owned by a State Resident,12.001,4.2071E+11,420710012001
+8,Count of Parcels owned by a US Resident (not PA),12.001,4.2071E+11,420710012001
+414,Count of Single Family Properties,12.001,4.2071E+11,420710012001
+-0.05,Percent Change in Sale Price 2007 - 2017,12.001,4.2071E+11,420710012001
+930,Total Count of Closed Violations,12.001,4.2071E+11,420710012001
+27,Total Count of Open Code Violations,12.001,4.2071E+11,420710012001
+12,Total Count of Open Code Violations Older than a Year,12.001,4.2071E+11,420710012001
+41,Average Days To Close a Code Violation,12.002,4.2071E+11,420710012002
+105353,Average Sale Price 2007,12.002,4.2071E+11,420710012002
+115197,Average Sale Price 2017,12.002,4.2071E+11,420710012002
+9844,Change in Sale Price 2007 - 2017,12.002,4.2071E+11,420710012002
+718,Count of All Parcels,12.002,4.2071E+11,420710012002
+111,Count of all Rental Properties,12.002,4.2071E+11,420710012002
+1,Count of Condemnations 2007 - 2017,12.002,4.2071E+11,420710012002
+680,Count of Parcels owned by a City Resident,12.002,4.2071E+11,420710012002
+28,Count of Parcels owned by a County Resident,12.002,4.2071E+11,420710012002
+5,Count of Parcels owned by a State Resident,12.002,4.2071E+11,420710012002
+5,Count of Parcels owned by a US Resident (not PA),12.002,4.2071E+11,420710012002
+690,Count of Single Family Properties,12.002,4.2071E+11,420710012002
+0.09,Percent Change in Sale Price 2007 - 2017,12.002,4.2071E+11,420710012002
+1260,Total Count of Closed Violations,12.002,4.2071E+11,420710012002
+24,Total Count of Open Code Violations,12.002,4.2071E+11,420710012002
+11,Total Count of Open Code Violations Older than a Year,12.002,4.2071E+11,420710012002
+53,Average Days To Close a Code Violation,12.003,4.2071E+11,420710012003
+101369,Average Sale Price 2007,12.003,4.2071E+11,420710012003
+110300,Average Sale Price 2017,12.003,4.2071E+11,420710012003
+8931,Change in Sale Price 2007 - 2017,12.003,4.2071E+11,420710012003
+431,Count of All Parcels,12.003,4.2071E+11,420710012003
+82,Count of all Rental Properties,12.003,4.2071E+11,420710012003
+0,Count of Condemnations 2007 - 2017,12.003,4.2071E+11,420710012003
+400,Count of Parcels owned by a City Resident,12.003,4.2071E+11,420710012003
+19,Count of Parcels owned by a County Resident,12.003,4.2071E+11,420710012003
+3,Count of Parcels owned by a State Resident,12.003,4.2071E+11,420710012003
+9,Count of Parcels owned by a US Resident (not PA),12.003,4.2071E+11,420710012003
+418,Count of Single Family Properties,12.003,4.2071E+11,420710012003
+0.09,Percent Change in Sale Price 2007 - 2017,12.003,4.2071E+11,420710012003
+790,Total Count of Closed Violations,12.003,4.2071E+11,420710012003
+12,Total Count of Open Code Violations,12.003,4.2071E+11,420710012003
+6,Total Count of Open Code Violations Older than a Year,12.003,4.2071E+11,420710012003
+54,Average Days To Close a Code Violation,12.004,4.2071E+11,420710012004
+86044,Average Sale Price 2007,12.004,4.2071E+11,420710012004
+113507,Average Sale Price 2017,12.004,4.2071E+11,420710012004
+27463,Change in Sale Price 2007 - 2017,12.004,4.2071E+11,420710012004
+373,Count of All Parcels,12.004,4.2071E+11,420710012004
+145,Count of all Rental Properties,12.004,4.2071E+11,420710012004
+0,Count of Condemnations 2007 - 2017,12.004,4.2071E+11,420710012004
+321,Count of Parcels owned by a City Resident,12.004,4.2071E+11,420710012004
+41,Count of Parcels owned by a County Resident,12.004,4.2071E+11,420710012004
+4,Count of Parcels owned by a State Resident,12.004,4.2071E+11,420710012004
+7,Count of Parcels owned by a US Resident (not PA),12.004,4.2071E+11,420710012004
+315,Count of Single Family Properties,12.004,4.2071E+11,420710012004
+0.32,Percent Change in Sale Price 2007 - 2017,12.004,4.2071E+11,420710012004
+890,Total Count of Closed Violations,12.004,4.2071E+11,420710012004
+5,Total Count of Open Code Violations,12.004,4.2071E+11,420710012004
+2,Total Count of Open Code Violations Older than a Year,12.004,4.2071E+11,420710012004
+69,Average Days To Close a Code Violation,14.001,4.2071E+11,420710014001
+49437,Average Sale Price 2007,14.001,4.2071E+11,420710014001
+57616,Average Sale Price 2017,14.001,4.2071E+11,420710014001
+8179,Change in Sale Price 2007 - 2017,14.001,4.2071E+11,420710014001
+289,Count of All Parcels,14.001,4.2071E+11,420710014001
+191,Count of all Rental Properties,14.001,4.2071E+11,420710014001
+5,Count of Condemnations 2007 - 2017,14.001,4.2071E+11,420710014001
+214,Count of Parcels owned by a City Resident,14.001,4.2071E+11,420710014001
+57,Count of Parcels owned by a County Resident,14.001,4.2071E+11,420710014001
+9,Count of Parcels owned by a State Resident,14.001,4.2071E+11,420710014001
+9,Count of Parcels owned by a US Resident (not PA),14.001,4.2071E+11,420710014001
+170,Count of Single Family Properties,14.001,4.2071E+11,420710014001
+0.17,Percent Change in Sale Price 2007 - 2017,14.001,4.2071E+11,420710014001
+2051,Total Count of Closed Violations,14.001,4.2071E+11,420710014001
+50,Total Count of Open Code Violations,14.001,4.2071E+11,420710014001
+24,Total Count of Open Code Violations Older than a Year,14.001,4.2071E+11,420710014001
+76,Average Days To Close a Code Violation,14.002,4.2071E+11,420710014002
+46952,Average Sale Price 2007,14.002,4.2071E+11,420710014002
+62683,Average Sale Price 2017,14.002,4.2071E+11,420710014002
+15731,Change in Sale Price 2007 - 2017,14.002,4.2071E+11,420710014002
+475,Count of All Parcels,14.002,4.2071E+11,420710014002
+322,Count of all Rental Properties,14.002,4.2071E+11,420710014002
+10,Count of Condemnations 2007 - 2017,14.002,4.2071E+11,420710014002
+319,Count of Parcels owned by a City Resident,14.002,4.2071E+11,420710014002
+118,Count of Parcels owned by a County Resident,14.002,4.2071E+11,420710014002
+17,Count of Parcels owned by a State Resident,14.002,4.2071E+11,420710014002
+21,Count of Parcels owned by a US Resident (not PA),14.002,4.2071E+11,420710014002
+381,Count of Single Family Properties,14.002,4.2071E+11,420710014002
+0.34,Percent Change in Sale Price 2007 - 2017,14.002,4.2071E+11,420710014002
+3886,Total Count of Closed Violations,14.002,4.2071E+11,420710014002
+64,Total Count of Open Code Violations,14.002,4.2071E+11,420710014002
+26,Total Count of Open Code Violations Older than a Year,14.002,4.2071E+11,420710014002
+78,Average Days To Close a Code Violation,14.003,4.2071E+11,420710014003
+65024,Average Sale Price 2007,14.003,4.2071E+11,420710014003
+93684,Average Sale Price 2017,14.003,4.2071E+11,420710014003
+28660,Change in Sale Price 2007 - 2017,14.003,4.2071E+11,420710014003
+456,Count of All Parcels,14.003,4.2071E+11,420710014003
+216,Count of all Rental Properties,14.003,4.2071E+11,420710014003
+11,Count of Condemnations 2007 - 2017,14.003,4.2071E+11,420710014003
+383,Count of Parcels owned by a City Resident,14.003,4.2071E+11,420710014003
+53,Count of Parcels owned by a County Resident,14.003,4.2071E+11,420710014003
+8,Count of Parcels owned by a State Resident,14.003,4.2071E+11,420710014003
+12,Count of Parcels owned by a US Resident (not PA),14.003,4.2071E+11,420710014003
+356,Count of Single Family Properties,14.003,4.2071E+11,420710014003
+0.44,Percent Change in Sale Price 2007 - 2017,14.003,4.2071E+11,420710014003
+2637,Total Count of Closed Violations,14.003,4.2071E+11,420710014003
+41,Total Count of Open Code Violations,14.003,4.2071E+11,420710014003
+21,Total Count of Open Code Violations Older than a Year,14.003,4.2071E+11,420710014003
+56,Average Days To Close a Code Violation,14.004,4.2071E+11,420710014004
+72831,Average Sale Price 2007,14.004,4.2071E+11,420710014004
+89154,Average Sale Price 2017,14.004,4.2071E+11,420710014004
+16324,Change in Sale Price 2007 - 2017,14.004,4.2071E+11,420710014004
+387,Count of All Parcels,14.004,4.2071E+11,420710014004
+205,Count of all Rental Properties,14.004,4.2071E+11,420710014004
+3,Count of Condemnations 2007 - 2017,14.004,4.2071E+11,420710014004
+303,Count of Parcels owned by a City Resident,14.004,4.2071E+11,420710014004
+61,Count of Parcels owned by a County Resident,14.004,4.2071E+11,420710014004
+10,Count of Parcels owned by a State Resident,14.004,4.2071E+11,420710014004
+13,Count of Parcels owned by a US Resident (not PA),14.004,4.2071E+11,420710014004
+325,Count of Single Family Properties,14.004,4.2071E+11,420710014004
+0.22,Percent Change in Sale Price 2007 - 2017,14.004,4.2071E+11,420710014004
+2060,Total Count of Closed Violations,14.004,4.2071E+11,420710014004
+44,Total Count of Open Code Violations,14.004,4.2071E+11,420710014004
+14,Total Count of Open Code Violations Older than a Year,14.004,4.2071E+11,420710014004
+43,Average Days To Close a Code Violation,118.052,4.2071E+11,420710118052
+62450,Average Sale Price 2007,118.052,4.2071E+11,420710118052
+NA,Average Sale Price 2017,118.052,4.2071E+11,420710118052
+NA,Change in Sale Price 2007 - 2017,118.052,4.2071E+11,420710118052
+142,Count of All Parcels,118.052,4.2071E+11,420710118052
+113,Count of all Rental Properties,118.052,4.2071E+11,420710118052
+0,Count of Condemnations 2007 - 2017,118.052,4.2071E+11,420710118052
+133,Count of Parcels owned by a City Resident,118.052,4.2071E+11,420710118052
+2,Count of Parcels owned by a County Resident,118.052,4.2071E+11,420710118052
+1,Count of Parcels owned by a State Resident,118.052,4.2071E+11,420710118052
+6,Count of Parcels owned by a US Resident (not PA),118.052,4.2071E+11,420710118052
+16,Count of Single Family Properties,118.052,4.2071E+11,420710118052
+NA,Percent Change in Sale Price 2007 - 2017,118.052,4.2071E+11,420710118052
+60,Total Count of Closed Violations,118.052,4.2071E+11,420710118052
+5,Total Count of Open Code Violations,118.052,4.2071E+11,420710118052
+5,Total Count of Open Code Violations Older than a Year,118.052,4.2071E+11,420710118052
+59,Average Days To Close a Code Violation,147.001,4.2071E+11,420710147001
+86258,Average Sale Price 2007,147.001,4.2071E+11,420710147001
+47281,Average Sale Price 2017,147.001,4.2071E+11,420710147001
+-38978,Change in Sale Price 2007 - 2017,147.001,4.2071E+11,420710147001
+482,Count of All Parcels,147.001,4.2071E+11,420710147001
+269,Count of all Rental Properties,147.001,4.2071E+11,420710147001
+10,Count of Condemnations 2007 - 2017,147.001,4.2071E+11,420710147001
+387,Count of Parcels owned by a City Resident,147.001,4.2071E+11,420710147001
+71,Count of Parcels owned by a County Resident,147.001,4.2071E+11,420710147001
+9,Count of Parcels owned by a State Resident,147.001,4.2071E+11,420710147001
+15,Count of Parcels owned by a US Resident (not PA),147.001,4.2071E+11,420710147001
+403,Count of Single Family Properties,147.001,4.2071E+11,420710147001
+-0.45,Percent Change in Sale Price 2007 - 2017,147.001,4.2071E+11,420710147001
+3014,Total Count of Closed Violations,147.001,4.2071E+11,420710147001
+64,Total Count of Open Code Violations,147.001,4.2071E+11,420710147001
+32,Total Count of Open Code Violations Older than a Year,147.001,4.2071E+11,420710147001
+58,Average Days To Close a Code Violation,147.002,4.2071E+11,420710147002
+112544,Average Sale Price 2007,147.002,4.2071E+11,420710147002
+55938,Average Sale Price 2017,147.002,4.2071E+11,420710147002
+-56605,Change in Sale Price 2007 - 2017,147.002,4.2071E+11,420710147002
+272,Count of All Parcels,147.002,4.2071E+11,420710147002
+148,Count of all Rental Properties,147.002,4.2071E+11,420710147002
+1,Count of Condemnations 2007 - 2017,147.002,4.2071E+11,420710147002
+229,Count of Parcels owned by a City Resident,147.002,4.2071E+11,420710147002
+30,Count of Parcels owned by a County Resident,147.002,4.2071E+11,420710147002
+2,Count of Parcels owned by a State Resident,147.002,4.2071E+11,420710147002
+11,Count of Parcels owned by a US Resident (not PA),147.002,4.2071E+11,420710147002
+224,Count of Single Family Properties,147.002,4.2071E+11,420710147002
+-0.5,Percent Change in Sale Price 2007 - 2017,147.002,4.2071E+11,420710147002
+1401,Total Count of Closed Violations,147.002,4.2071E+11,420710147002
+17,Total Count of Open Code Violations,147.002,4.2071E+11,420710147002
+8,Total Count of Open Code Violations Older than a Year,147.002,4.2071E+11,420710147002
+58,Average Days To Close a Code Violation,147.003,4.2071E+11,420710147003
+45518,Average Sale Price 2007,147.003,4.2071E+11,420710147003
+65589,Average Sale Price 2017,147.003,4.2071E+11,420710147003
+20070,Change in Sale Price 2007 - 2017,147.003,4.2071E+11,420710147003
+396,Count of All Parcels,147.003,4.2071E+11,420710147003
+201,Count of all Rental Properties,147.003,4.2071E+11,420710147003
+8,Count of Condemnations 2007 - 2017,147.003,4.2071E+11,420710147003
+330,Count of Parcels owned by a City Resident,147.003,4.2071E+11,420710147003
+37,Count of Parcels owned by a County Resident,147.003,4.2071E+11,420710147003
+9,Count of Parcels owned by a State Resident,147.003,4.2071E+11,420710147003
+20,Count of Parcels owned by a US Resident (not PA),147.003,4.2071E+11,420710147003
+328,Count of Single Family Properties,147.003,4.2071E+11,420710147003
+0.44,Percent Change in Sale Price 2007 - 2017,147.003,4.2071E+11,420710147003
+2482,Total Count of Closed Violations,147.003,4.2071E+11,420710147003
+20,Total Count of Open Code Violations,147.003,4.2071E+11,420710147003
+8,Total Count of Open Code Violations Older than a Year,147.003,4.2071E+11,420710147003
