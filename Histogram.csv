@@ -1,1021 +1,1072 @@
-Count,Label,CBG,GEOID2,GEOID
-72,Average Days To Close a Code Violation,1.001,4.21E+11,4.2071E+11
-96,Average Days To Close a Code Violation,1.002,4.21E+11,4.2071E+11
-78,Average Days To Close a Code Violation,1.003,4.21E+11,4.2071E+11
-50,Average Days To Close a Code Violation,2.001,4.21E+11,4.2071E+11
-57,Average Days To Close a Code Violation,2.002,4.21E+11,4.2071E+11
-52,Average Days To Close a Code Violation,3.001,4.21E+11,4.2071E+11
-53,Average Days To Close a Code Violation,3.002,4.21E+11,4.2071E+11
-67,Average Days To Close a Code Violation,3.003,4.21E+11,4.2071E+11
-55,Average Days To Close a Code Violation,3.004,4.21E+11,4.2071E+11
-65,Average Days To Close a Code Violation,4.001,4.21E+11,4.2071E+11
-63,Average Days To Close a Code Violation,4.002,4.21E+11,4.2071E+11
-64,Average Days To Close a Code Violation,4.003,4.21E+11,4.2071E+11
-100,Average Days To Close a Code Violation,4.004,4.21E+11,4.2071E+11
-88,Average Days To Close a Code Violation,5.001,4.21E+11,4.2071E+11
-62,Average Days To Close a Code Violation,5.002,4.21E+11,4.2071E+11
-68,Average Days To Close a Code Violation,5.003,4.21E+11,4.2071E+11
-90,Average Days To Close a Code Violation,5.004,4.21E+11,4.2071E+11
-96,Average Days To Close a Code Violation,6.001,4.21E+11,4.2071E+11
-95,Average Days To Close a Code Violation,6.002,4.21E+11,4.2071E+11
-84,Average Days To Close a Code Violation,6.003,4.21E+11,4.2071E+11
-95,Average Days To Close a Code Violation,6.004,4.21E+11,4.2071E+11
-52,Average Days To Close a Code Violation,7.001,4.21E+11,4.2071E+11
-65,Average Days To Close a Code Violation,7.002,4.21E+11,4.2071E+11
-64,Average Days To Close a Code Violation,7.003,4.21E+11,4.2071E+11
-59,Average Days To Close a Code Violation,8.001,4.21E+11,4.2071E+11
-49,Average Days To Close a Code Violation,8.002,4.21E+11,4.2071E+11
-40,Average Days To Close a Code Violation,8.003,4.21E+11,4.2071E+11
-89,Average Days To Close a Code Violation,8.004,4.21E+11,4.2071E+11
-61,Average Days To Close a Code Violation,9.001,4.21E+11,4.2071E+11
-67,Average Days To Close a Code Violation,9.002,4.21E+11,4.2071E+11
-73,Average Days To Close a Code Violation,9.003,4.21E+11,4.2071E+11
-68,Average Days To Close a Code Violation,9.004,4.21E+11,4.2071E+11
-74,Average Days To Close a Code Violation,10.001,4.21E+11,4.2071E+11
-68,Average Days To Close a Code Violation,10.002,4.21E+11,4.2071E+11
-72,Average Days To Close a Code Violation,10.003,4.21E+11,4.2071E+11
-73,Average Days To Close a Code Violation,10.004,4.21E+11,4.2071E+11
-67,Average Days To Close a Code Violation,11.001,4.21E+11,4.2071E+11
-66,Average Days To Close a Code Violation,11.002,4.21E+11,4.2071E+11
-64,Average Days To Close a Code Violation,11.003,4.21E+11,4.2071E+11
-56,Average Days To Close a Code Violation,12.001,4.21E+11,4.2071E+11
-41,Average Days To Close a Code Violation,12.002,4.21E+11,4.2071E+11
-53,Average Days To Close a Code Violation,12.003,4.21E+11,4.2071E+11
-54,Average Days To Close a Code Violation,12.004,4.21E+11,4.2071E+11
-69,Average Days To Close a Code Violation,14.001,4.21E+11,4.2071E+11
-76,Average Days To Close a Code Violation,14.002,4.21E+11,4.2071E+11
-78,Average Days To Close a Code Violation,14.003,4.21E+11,4.2071E+11
-56,Average Days To Close a Code Violation,14.004,4.21E+11,4.2071E+11
-43,Average Days To Close a Code Violation,118.052,4.21E+11,4.2071E+11
-59,Average Days To Close a Code Violation,147.001,4.21E+11,4.2071E+11
-58,Average Days To Close a Code Violation,147.002,4.21E+11,4.2071E+11
-58,Average Days To Close a Code Violation,147.003,4.21E+11,4.2071E+11
-NA,Average Sale Price 2007,1.001,4.21E+11,4.2071E+11
-NA,Average Sale Price 2007,1.002,4.21E+11,4.2071E+11
-43000,Average Sale Price 2007,1.003,4.21E+11,4.2071E+11
-93287,Average Sale Price 2007,2.001,4.21E+11,4.2071E+11
-82225,Average Sale Price 2007,2.002,4.21E+11,4.2071E+11
-100218,Average Sale Price 2007,3.001,4.21E+11,4.2071E+11
-85265,Average Sale Price 2007,3.002,4.21E+11,4.2071E+11
-97996,Average Sale Price 2007,3.003,4.21E+11,4.2071E+11
-92311,Average Sale Price 2007,3.004,4.21E+11,4.2071E+11
-122260,Average Sale Price 2007,4.001,4.21E+11,4.2071E+11
-81883,Average Sale Price 2007,4.002,4.21E+11,4.2071E+11
-90177,Average Sale Price 2007,4.003,4.21E+11,4.2071E+11
-102740,Average Sale Price 2007,4.004,4.21E+11,4.2071E+11
-93271,Average Sale Price 2007,5.001,4.21E+11,4.2071E+11
-124818,Average Sale Price 2007,5.002,4.21E+11,4.2071E+11
-107886,Average Sale Price 2007,5.003,4.21E+11,4.2071E+11
-180000,Average Sale Price 2007,5.004,4.21E+11,4.2071E+11
-218583,Average Sale Price 2007,6.001,4.21E+11,4.2071E+11
-55192,Average Sale Price 2007,6.002,4.21E+11,4.2071E+11
-197488,Average Sale Price 2007,6.003,4.21E+11,4.2071E+11
-220188,Average Sale Price 2007,6.004,4.21E+11,4.2071E+11
-96255,Average Sale Price 2007,7.001,4.21E+11,4.2071E+11
-151600,Average Sale Price 2007,7.002,4.21E+11,4.2071E+11
-172467,Average Sale Price 2007,7.003,4.21E+11,4.2071E+11
-63250,Average Sale Price 2007,8.001,4.21E+11,4.2071E+11
-72090,Average Sale Price 2007,8.002,4.21E+11,4.2071E+11
-68738,Average Sale Price 2007,8.003,4.21E+11,4.2071E+11
-75000,Average Sale Price 2007,8.004,4.21E+11,4.2071E+11
-61514,Average Sale Price 2007,9.001,4.21E+11,4.2071E+11
-95401,Average Sale Price 2007,9.002,4.21E+11,4.2071E+11
-58000,Average Sale Price 2007,9.003,4.21E+11,4.2071E+11
-97715,Average Sale Price 2007,9.004,4.21E+11,4.2071E+11
-56050,Average Sale Price 2007,10.001,4.21E+11,4.2071E+11
-66275,Average Sale Price 2007,10.002,4.21E+11,4.2071E+11
-77038,Average Sale Price 2007,10.003,4.21E+11,4.2071E+11
-68408,Average Sale Price 2007,10.004,4.21E+11,4.2071E+11
-73421,Average Sale Price 2007,11.001,4.21E+11,4.2071E+11
-88177,Average Sale Price 2007,11.002,4.21E+11,4.2071E+11
-86459,Average Sale Price 2007,11.003,4.21E+11,4.2071E+11
-91599,Average Sale Price 2007,12.001,4.21E+11,4.2071E+11
-105353,Average Sale Price 2007,12.002,4.21E+11,4.2071E+11
-101369,Average Sale Price 2007,12.003,4.21E+11,4.2071E+11
-86044,Average Sale Price 2007,12.004,4.21E+11,4.2071E+11
-49437,Average Sale Price 2007,14.001,4.21E+11,4.2071E+11
-46952,Average Sale Price 2007,14.002,4.21E+11,4.2071E+11
-65024,Average Sale Price 2007,14.003,4.21E+11,4.2071E+11
-72831,Average Sale Price 2007,14.004,4.21E+11,4.2071E+11
-62450,Average Sale Price 2007,118.052,4.21E+11,4.2071E+11
-86258,Average Sale Price 2007,147.001,4.21E+11,4.2071E+11
-112544,Average Sale Price 2007,147.002,4.21E+11,4.2071E+11
-45518,Average Sale Price 2007,147.003,4.21E+11,4.2071E+11
-275000,Average Sale Price 2017,1.001,4.21E+11,4.2071E+11
-162500,Average Sale Price 2017,1.002,4.21E+11,4.2071E+11
-200167,Average Sale Price 2017,1.003,4.21E+11,4.2071E+11
-89904,Average Sale Price 2017,2.001,4.21E+11,4.2071E+11
-123253,Average Sale Price 2017,2.002,4.21E+11,4.2071E+11
-121447,Average Sale Price 2017,3.001,4.21E+11,4.2071E+11
-102646,Average Sale Price 2017,3.002,4.21E+11,4.2071E+11
-141928,Average Sale Price 2017,3.003,4.21E+11,4.2071E+11
-140005,Average Sale Price 2017,3.004,4.21E+11,4.2071E+11
-122132,Average Sale Price 2017,4.001,4.21E+11,4.2071E+11
-94714,Average Sale Price 2017,4.002,4.21E+11,4.2071E+11
-159117,Average Sale Price 2017,4.003,4.21E+11,4.2071E+11
-168750,Average Sale Price 2017,4.004,4.21E+11,4.2071E+11
-145145,Average Sale Price 2017,5.001,4.21E+11,4.2071E+11
-133705,Average Sale Price 2017,5.002,4.21E+11,4.2071E+11
-156109,Average Sale Price 2017,5.003,4.21E+11,4.2071E+11
-240475,Average Sale Price 2017,5.004,4.21E+11,4.2071E+11
-194623,Average Sale Price 2017,6.001,4.21E+11,4.2071E+11
-112919,Average Sale Price 2017,6.002,4.21E+11,4.2071E+11
-196727,Average Sale Price 2017,6.003,4.21E+11,4.2071E+11
-167600,Average Sale Price 2017,6.004,4.21E+11,4.2071E+11
-118279,Average Sale Price 2017,7.001,4.21E+11,4.2071E+11
-141384,Average Sale Price 2017,7.002,4.21E+11,4.2071E+11
-148226,Average Sale Price 2017,7.003,4.21E+11,4.2071E+11
-95367,Average Sale Price 2017,8.001,4.21E+11,4.2071E+11
-74143,Average Sale Price 2017,8.002,4.21E+11,4.2071E+11
-61186,Average Sale Price 2017,8.003,4.21E+11,4.2071E+11
-84200,Average Sale Price 2017,8.004,4.21E+11,4.2071E+11
-66944,Average Sale Price 2017,9.001,4.21E+11,4.2071E+11
-62366,Average Sale Price 2017,9.002,4.21E+11,4.2071E+11
-109900,Average Sale Price 2017,9.003,4.21E+11,4.2071E+11
-117058,Average Sale Price 2017,9.004,4.21E+11,4.2071E+11
-53946,Average Sale Price 2017,10.001,4.21E+11,4.2071E+11
-88924,Average Sale Price 2017,10.002,4.21E+11,4.2071E+11
-93978,Average Sale Price 2017,10.003,4.21E+11,4.2071E+11
-70770,Average Sale Price 2017,10.004,4.21E+11,4.2071E+11
-91972,Average Sale Price 2017,11.001,4.21E+11,4.2071E+11
-89380,Average Sale Price 2017,11.002,4.21E+11,4.2071E+11
-88541,Average Sale Price 2017,11.003,4.21E+11,4.2071E+11
-87022,Average Sale Price 2017,12.001,4.21E+11,4.2071E+11
-115197,Average Sale Price 2017,12.002,4.21E+11,4.2071E+11
-110300,Average Sale Price 2017,12.003,4.21E+11,4.2071E+11
-113507,Average Sale Price 2017,12.004,4.21E+11,4.2071E+11
-57616,Average Sale Price 2017,14.001,4.21E+11,4.2071E+11
-62683,Average Sale Price 2017,14.002,4.21E+11,4.2071E+11
-93684,Average Sale Price 2017,14.003,4.21E+11,4.2071E+11
-89154,Average Sale Price 2017,14.004,4.21E+11,4.2071E+11
-NA,Average Sale Price 2017,118.052,4.21E+11,4.2071E+11
-47281,Average Sale Price 2017,147.001,4.21E+11,4.2071E+11
-55938,Average Sale Price 2017,147.002,4.21E+11,4.2071E+11
-65589,Average Sale Price 2017,147.003,4.21E+11,4.2071E+11
-NA,Change in Sale Price 2007 - 2017,1.001,4.21E+11,4.2071E+11
-NA,Change in Sale Price 2007 - 2017,1.002,4.21E+11,4.2071E+11
-157167,Change in Sale Price 2007 - 2017,1.003,4.21E+11,4.2071E+11
--3383,Change in Sale Price 2007 - 2017,2.001,4.21E+11,4.2071E+11
-41028,Change in Sale Price 2007 - 2017,2.002,4.21E+11,4.2071E+11
-21229,Change in Sale Price 2007 - 2017,3.001,4.21E+11,4.2071E+11
-17381,Change in Sale Price 2007 - 2017,3.002,4.21E+11,4.2071E+11
-43931,Change in Sale Price 2007 - 2017,3.003,4.21E+11,4.2071E+11
-47694,Change in Sale Price 2007 - 2017,3.004,4.21E+11,4.2071E+11
--128,Change in Sale Price 2007 - 2017,4.001,4.21E+11,4.2071E+11
-12831,Change in Sale Price 2007 - 2017,4.002,4.21E+11,4.2071E+11
-68939,Change in Sale Price 2007 - 2017,4.003,4.21E+11,4.2071E+11
-66010,Change in Sale Price 2007 - 2017,4.004,4.21E+11,4.2071E+11
-51874,Change in Sale Price 2007 - 2017,5.001,4.21E+11,4.2071E+11
-8888,Change in Sale Price 2007 - 2017,5.002,4.21E+11,4.2071E+11
-48224,Change in Sale Price 2007 - 2017,5.003,4.21E+11,4.2071E+11
-60475,Change in Sale Price 2007 - 2017,5.004,4.21E+11,4.2071E+11
--23961,Change in Sale Price 2007 - 2017,6.001,4.21E+11,4.2071E+11
-57727,Change in Sale Price 2007 - 2017,6.002,4.21E+11,4.2071E+11
--761,Change in Sale Price 2007 - 2017,6.003,4.21E+11,4.2071E+11
--52588,Change in Sale Price 2007 - 2017,6.004,4.21E+11,4.2071E+11
-22025,Change in Sale Price 2007 - 2017,7.001,4.21E+11,4.2071E+11
--10216,Change in Sale Price 2007 - 2017,7.002,4.21E+11,4.2071E+11
--24240,Change in Sale Price 2007 - 2017,7.003,4.21E+11,4.2071E+11
-32117,Change in Sale Price 2007 - 2017,8.001,4.21E+11,4.2071E+11
-2053,Change in Sale Price 2007 - 2017,8.002,4.21E+11,4.2071E+11
--7552,Change in Sale Price 2007 - 2017,8.003,4.21E+11,4.2071E+11
-9200,Change in Sale Price 2007 - 2017,8.004,4.21E+11,4.2071E+11
-5430,Change in Sale Price 2007 - 2017,9.001,4.21E+11,4.2071E+11
--33035,Change in Sale Price 2007 - 2017,9.002,4.21E+11,4.2071E+11
-51900,Change in Sale Price 2007 - 2017,9.003,4.21E+11,4.2071E+11
-19342,Change in Sale Price 2007 - 2017,9.004,4.21E+11,4.2071E+11
--2104,Change in Sale Price 2007 - 2017,10.001,4.21E+11,4.2071E+11
-22649,Change in Sale Price 2007 - 2017,10.002,4.21E+11,4.2071E+11
-16940,Change in Sale Price 2007 - 2017,10.003,4.21E+11,4.2071E+11
-2362,Change in Sale Price 2007 - 2017,10.004,4.21E+11,4.2071E+11
-18551,Change in Sale Price 2007 - 2017,11.001,4.21E+11,4.2071E+11
-1203,Change in Sale Price 2007 - 2017,11.002,4.21E+11,4.2071E+11
-2082,Change in Sale Price 2007 - 2017,11.003,4.21E+11,4.2071E+11
--4577,Change in Sale Price 2007 - 2017,12.001,4.21E+11,4.2071E+11
-9844,Change in Sale Price 2007 - 2017,12.002,4.21E+11,4.2071E+11
-8931,Change in Sale Price 2007 - 2017,12.003,4.21E+11,4.2071E+11
-27463,Change in Sale Price 2007 - 2017,12.004,4.21E+11,4.2071E+11
-8179,Change in Sale Price 2007 - 2017,14.001,4.21E+11,4.2071E+11
-15731,Change in Sale Price 2007 - 2017,14.002,4.21E+11,4.2071E+11
-28660,Change in Sale Price 2007 - 2017,14.003,4.21E+11,4.2071E+11
-16324,Change in Sale Price 2007 - 2017,14.004,4.21E+11,4.2071E+11
-NA,Change in Sale Price 2007 - 2017,118.052,4.21E+11,4.2071E+11
--38978,Change in Sale Price 2007 - 2017,147.001,4.21E+11,4.2071E+11
--56605,Change in Sale Price 2007 - 2017,147.002,4.21E+11,4.2071E+11
-20070,Change in Sale Price 2007 - 2017,147.003,4.21E+11,4.2071E+11
-226,Count of All Parcels,1.001,4.21E+11,4.2071E+11
-281,Count of All Parcels,1.002,4.21E+11,4.2071E+11
-399,Count of All Parcels,1.003,4.21E+11,4.2071E+11
-541,Count of All Parcels,2.001,4.21E+11,4.2071E+11
-487,Count of All Parcels,2.002,4.21E+11,4.2071E+11
-391,Count of All Parcels,3.001,4.21E+11,4.2071E+11
-415,Count of All Parcels,3.002,4.21E+11,4.2071E+11
-438,Count of All Parcels,3.003,4.21E+11,4.2071E+11
-418,Count of All Parcels,3.004,4.21E+11,4.2071E+11
-400,Count of All Parcels,4.001,4.21E+11,4.2071E+11
-261,Count of All Parcels,4.002,4.21E+11,4.2071E+11
-373,Count of All Parcels,4.003,4.21E+11,4.2071E+11
-236,Count of All Parcels,4.004,4.21E+11,4.2071E+11
-338,Count of All Parcels,5.001,4.21E+11,4.2071E+11
-401,Count of All Parcels,5.002,4.21E+11,4.2071E+11
-323,Count of All Parcels,5.003,4.21E+11,4.2071E+11
-189,Count of All Parcels,5.004,4.21E+11,4.2071E+11
-276,Count of All Parcels,6.001,4.21E+11,4.2071E+11
-259,Count of All Parcels,6.002,4.21E+11,4.2071E+11
-324,Count of All Parcels,6.003,4.21E+11,4.2071E+11
-377,Count of All Parcels,6.004,4.21E+11,4.2071E+11
-271,Count of All Parcels,7.001,4.21E+11,4.2071E+11
-257,Count of All Parcels,7.002,4.21E+11,4.2071E+11
-310,Count of All Parcels,7.003,4.21E+11,4.2071E+11
-246,Count of All Parcels,8.001,4.21E+11,4.2071E+11
-247,Count of All Parcels,8.002,4.21E+11,4.2071E+11
-196,Count of All Parcels,8.003,4.21E+11,4.2071E+11
-94,Count of All Parcels,8.004,4.21E+11,4.2071E+11
-160,Count of All Parcels,9.001,4.21E+11,4.2071E+11
-225,Count of All Parcels,9.002,4.21E+11,4.2071E+11
-75,Count of All Parcels,9.003,4.21E+11,4.2071E+11
-422,Count of All Parcels,9.004,4.21E+11,4.2071E+11
-312,Count of All Parcels,10.001,4.21E+11,4.2071E+11
-274,Count of All Parcels,10.002,4.21E+11,4.2071E+11
-335,Count of All Parcels,10.003,4.21E+11,4.2071E+11
-266,Count of All Parcels,10.004,4.21E+11,4.2071E+11
-414,Count of All Parcels,11.001,4.21E+11,4.2071E+11
-463,Count of All Parcels,11.002,4.21E+11,4.2071E+11
-356,Count of All Parcels,11.003,4.21E+11,4.2071E+11
-449,Count of All Parcels,12.001,4.21E+11,4.2071E+11
-718,Count of All Parcels,12.002,4.21E+11,4.2071E+11
-431,Count of All Parcels,12.003,4.21E+11,4.2071E+11
-373,Count of All Parcels,12.004,4.21E+11,4.2071E+11
-289,Count of All Parcels,14.001,4.21E+11,4.2071E+11
-475,Count of All Parcels,14.002,4.21E+11,4.2071E+11
-456,Count of All Parcels,14.003,4.21E+11,4.2071E+11
-387,Count of All Parcels,14.004,4.21E+11,4.2071E+11
-142,Count of All Parcels,118.052,4.21E+11,4.2071E+11
-482,Count of All Parcels,147.001,4.21E+11,4.2071E+11
-272,Count of All Parcels,147.002,4.21E+11,4.2071E+11
-396,Count of All Parcels,147.003,4.21E+11,4.2071E+11
-142,Count of all Rental Properties,1.001,4.21E+11,4.2071E+11
-207,Count of all Rental Properties,1.002,4.21E+11,4.2071E+11
-307,Count of all Rental Properties,1.003,4.21E+11,4.2071E+11
-166,Count of all Rental Properties,2.001,4.21E+11,4.2071E+11
-190,Count of all Rental Properties,2.002,4.21E+11,4.2071E+11
-102,Count of all Rental Properties,3.001,4.21E+11,4.2071E+11
-128,Count of all Rental Properties,3.002,4.21E+11,4.2071E+11
-216,Count of all Rental Properties,3.003,4.21E+11,4.2071E+11
-168,Count of all Rental Properties,3.004,4.21E+11,4.2071E+11
-188,Count of all Rental Properties,4.001,4.21E+11,4.2071E+11
-190,Count of all Rental Properties,4.002,4.21E+11,4.2071E+11
-232,Count of all Rental Properties,4.003,4.21E+11,4.2071E+11
-149,Count of all Rental Properties,4.004,4.21E+11,4.2071E+11
-182,Count of all Rental Properties,5.001,4.21E+11,4.2071E+11
-227,Count of all Rental Properties,5.002,4.21E+11,4.2071E+11
-140,Count of all Rental Properties,5.003,4.21E+11,4.2071E+11
-45,Count of all Rental Properties,5.004,4.21E+11,4.2071E+11
-99,Count of all Rental Properties,6.001,4.21E+11,4.2071E+11
-166,Count of all Rental Properties,6.002,4.21E+11,4.2071E+11
-138,Count of all Rental Properties,6.003,4.21E+11,4.2071E+11
-174,Count of all Rental Properties,6.004,4.21E+11,4.2071E+11
-107,Count of all Rental Properties,7.001,4.21E+11,4.2071E+11
-101,Count of all Rental Properties,7.002,4.21E+11,4.2071E+11
-177,Count of all Rental Properties,7.003,4.21E+11,4.2071E+11
-146,Count of all Rental Properties,8.001,4.21E+11,4.2071E+11
-75,Count of all Rental Properties,8.002,4.21E+11,4.2071E+11
-78,Count of all Rental Properties,8.003,4.21E+11,4.2071E+11
-57,Count of all Rental Properties,8.004,4.21E+11,4.2071E+11
-98,Count of all Rental Properties,9.001,4.21E+11,4.2071E+11
-162,Count of all Rental Properties,9.002,4.21E+11,4.2071E+11
-50,Count of all Rental Properties,9.003,4.21E+11,4.2071E+11
-230,Count of all Rental Properties,9.004,4.21E+11,4.2071E+11
-206,Count of all Rental Properties,10.001,4.21E+11,4.2071E+11
-206,Count of all Rental Properties,10.002,4.21E+11,4.2071E+11
-173,Count of all Rental Properties,10.003,4.21E+11,4.2071E+11
-144,Count of all Rental Properties,10.004,4.21E+11,4.2071E+11
-219,Count of all Rental Properties,11.001,4.21E+11,4.2071E+11
-158,Count of all Rental Properties,11.002,4.21E+11,4.2071E+11
-168,Count of all Rental Properties,11.003,4.21E+11,4.2071E+11
-130,Count of all Rental Properties,12.001,4.21E+11,4.2071E+11
-111,Count of all Rental Properties,12.002,4.21E+11,4.2071E+11
-82,Count of all Rental Properties,12.003,4.21E+11,4.2071E+11
-145,Count of all Rental Properties,12.004,4.21E+11,4.2071E+11
-191,Count of all Rental Properties,14.001,4.21E+11,4.2071E+11
-322,Count of all Rental Properties,14.002,4.21E+11,4.2071E+11
-216,Count of all Rental Properties,14.003,4.21E+11,4.2071E+11
-205,Count of all Rental Properties,14.004,4.21E+11,4.2071E+11
-113,Count of all Rental Properties,118.052,4.21E+11,4.2071E+11
-269,Count of all Rental Properties,147.001,4.21E+11,4.2071E+11
-148,Count of all Rental Properties,147.002,4.21E+11,4.2071E+11
-201,Count of all Rental Properties,147.003,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,1.001,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,1.002,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,1.003,4.21E+11,4.2071E+11
-4,Count of Condemnations 2007 - 2017,2.001,4.21E+11,4.2071E+11
-7,Count of Condemnations 2007 - 2017,2.002,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,3.001,4.21E+11,4.2071E+11
-2,Count of Condemnations 2007 - 2017,3.002,4.21E+11,4.2071E+11
-6,Count of Condemnations 2007 - 2017,3.003,4.21E+11,4.2071E+11
-2,Count of Condemnations 2007 - 2017,3.004,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,4.001,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,4.002,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,4.003,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,4.004,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,5.001,4.21E+11,4.2071E+11
-3,Count of Condemnations 2007 - 2017,5.002,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,5.003,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,5.004,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,6.001,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,6.002,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,6.003,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,6.004,4.21E+11,4.2071E+11
-4,Count of Condemnations 2007 - 2017,7.001,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,7.002,4.21E+11,4.2071E+11
-2,Count of Condemnations 2007 - 2017,7.003,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,8.001,4.21E+11,4.2071E+11
-3,Count of Condemnations 2007 - 2017,8.002,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,8.003,4.21E+11,4.2071E+11
-5,Count of Condemnations 2007 - 2017,8.004,4.21E+11,4.2071E+11
-3,Count of Condemnations 2007 - 2017,9.001,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,9.002,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,9.003,4.21E+11,4.2071E+11
-8,Count of Condemnations 2007 - 2017,9.004,4.21E+11,4.2071E+11
-6,Count of Condemnations 2007 - 2017,10.001,4.21E+11,4.2071E+11
-6,Count of Condemnations 2007 - 2017,10.002,4.21E+11,4.2071E+11
-3,Count of Condemnations 2007 - 2017,10.003,4.21E+11,4.2071E+11
-2,Count of Condemnations 2007 - 2017,10.004,4.21E+11,4.2071E+11
-4,Count of Condemnations 2007 - 2017,11.001,4.21E+11,4.2071E+11
-2,Count of Condemnations 2007 - 2017,11.002,4.21E+11,4.2071E+11
-2,Count of Condemnations 2007 - 2017,11.003,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,12.001,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,12.002,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,12.003,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,12.004,4.21E+11,4.2071E+11
-5,Count of Condemnations 2007 - 2017,14.001,4.21E+11,4.2071E+11
-10,Count of Condemnations 2007 - 2017,14.002,4.21E+11,4.2071E+11
-11,Count of Condemnations 2007 - 2017,14.003,4.21E+11,4.2071E+11
-3,Count of Condemnations 2007 - 2017,14.004,4.21E+11,4.2071E+11
-0,Count of Condemnations 2007 - 2017,118.052,4.21E+11,4.2071E+11
-10,Count of Condemnations 2007 - 2017,147.001,4.21E+11,4.2071E+11
-1,Count of Condemnations 2007 - 2017,147.002,4.21E+11,4.2071E+11
-8,Count of Condemnations 2007 - 2017,147.003,4.21E+11,4.2071E+11
-181,Count of Parcels owned by a City Resident,1.001,4.21E+11,4.2071E+11
-228,Count of Parcels owned by a City Resident,1.002,4.21E+11,4.2071E+11
-337,Count of Parcels owned by a City Resident,1.003,4.21E+11,4.2071E+11
-479,Count of Parcels owned by a City Resident,2.001,4.21E+11,4.2071E+11
-410,Count of Parcels owned by a City Resident,2.002,4.21E+11,4.2071E+11
-355,Count of Parcels owned by a City Resident,3.001,4.21E+11,4.2071E+11
-362,Count of Parcels owned by a City Resident,3.002,4.21E+11,4.2071E+11
-348,Count of Parcels owned by a City Resident,3.003,4.21E+11,4.2071E+11
-344,Count of Parcels owned by a City Resident,3.004,4.21E+11,4.2071E+11
-322,Count of Parcels owned by a City Resident,4.001,4.21E+11,4.2071E+11
-185,Count of Parcels owned by a City Resident,4.002,4.21E+11,4.2071E+11
-298,Count of Parcels owned by a City Resident,4.003,4.21E+11,4.2071E+11
-204,Count of Parcels owned by a City Resident,4.004,4.21E+11,4.2071E+11
-281,Count of Parcels owned by a City Resident,5.001,4.21E+11,4.2071E+11
-318,Count of Parcels owned by a City Resident,5.002,4.21E+11,4.2071E+11
-265,Count of Parcels owned by a City Resident,5.003,4.21E+11,4.2071E+11
-179,Count of Parcels owned by a City Resident,5.004,4.21E+11,4.2071E+11
-249,Count of Parcels owned by a City Resident,6.001,4.21E+11,4.2071E+11
-180,Count of Parcels owned by a City Resident,6.002,4.21E+11,4.2071E+11
-271,Count of Parcels owned by a City Resident,6.003,4.21E+11,4.2071E+11
-290,Count of Parcels owned by a City Resident,6.004,4.21E+11,4.2071E+11
-224,Count of Parcels owned by a City Resident,7.001,4.21E+11,4.2071E+11
-214,Count of Parcels owned by a City Resident,7.002,4.21E+11,4.2071E+11
-252,Count of Parcels owned by a City Resident,7.003,4.21E+11,4.2071E+11
-193,Count of Parcels owned by a City Resident,8.001,4.21E+11,4.2071E+11
-226,Count of Parcels owned by a City Resident,8.002,4.21E+11,4.2071E+11
-175,Count of Parcels owned by a City Resident,8.003,4.21E+11,4.2071E+11
-75,Count of Parcels owned by a City Resident,8.004,4.21E+11,4.2071E+11
-129,Count of Parcels owned by a City Resident,9.001,4.21E+11,4.2071E+11
-154,Count of Parcels owned by a City Resident,9.002,4.21E+11,4.2071E+11
-59,Count of Parcels owned by a City Resident,9.003,4.21E+11,4.2071E+11
-348,Count of Parcels owned by a City Resident,9.004,4.21E+11,4.2071E+11
-212,Count of Parcels owned by a City Resident,10.001,4.21E+11,4.2071E+11
-197,Count of Parcels owned by a City Resident,10.002,4.21E+11,4.2071E+11
-253,Count of Parcels owned by a City Resident,10.003,4.21E+11,4.2071E+11
-198,Count of Parcels owned by a City Resident,10.004,4.21E+11,4.2071E+11
-344,Count of Parcels owned by a City Resident,11.001,4.21E+11,4.2071E+11
-405,Count of Parcels owned by a City Resident,11.002,4.21E+11,4.2071E+11
-289,Count of Parcels owned by a City Resident,11.003,4.21E+11,4.2071E+11
-399,Count of Parcels owned by a City Resident,12.001,4.21E+11,4.2071E+11
-680,Count of Parcels owned by a City Resident,12.002,4.21E+11,4.2071E+11
-400,Count of Parcels owned by a City Resident,12.003,4.21E+11,4.2071E+11
-321,Count of Parcels owned by a City Resident,12.004,4.21E+11,4.2071E+11
-214,Count of Parcels owned by a City Resident,14.001,4.21E+11,4.2071E+11
-319,Count of Parcels owned by a City Resident,14.002,4.21E+11,4.2071E+11
-383,Count of Parcels owned by a City Resident,14.003,4.21E+11,4.2071E+11
-303,Count of Parcels owned by a City Resident,14.004,4.21E+11,4.2071E+11
-133,Count of Parcels owned by a City Resident,118.052,4.21E+11,4.2071E+11
-387,Count of Parcels owned by a City Resident,147.001,4.21E+11,4.2071E+11
-229,Count of Parcels owned by a City Resident,147.002,4.21E+11,4.2071E+11
-330,Count of Parcels owned by a City Resident,147.003,4.21E+11,4.2071E+11
-23,Count of Parcels owned by a County Resident,1.001,4.21E+11,4.2071E+11
-34,Count of Parcels owned by a County Resident,1.002,4.21E+11,4.2071E+11
-33,Count of Parcels owned by a County Resident,1.003,4.21E+11,4.2071E+11
-39,Count of Parcels owned by a County Resident,2.001,4.21E+11,4.2071E+11
-48,Count of Parcels owned by a County Resident,2.002,4.21E+11,4.2071E+11
-28,Count of Parcels owned by a County Resident,3.001,4.21E+11,4.2071E+11
-39,Count of Parcels owned by a County Resident,3.002,4.21E+11,4.2071E+11
-65,Count of Parcels owned by a County Resident,3.003,4.21E+11,4.2071E+11
-52,Count of Parcels owned by a County Resident,3.004,4.21E+11,4.2071E+11
-53,Count of Parcels owned by a County Resident,4.001,4.21E+11,4.2071E+11
-59,Count of Parcels owned by a County Resident,4.002,4.21E+11,4.2071E+11
-47,Count of Parcels owned by a County Resident,4.003,4.21E+11,4.2071E+11
-19,Count of Parcels owned by a County Resident,4.004,4.21E+11,4.2071E+11
-32,Count of Parcels owned by a County Resident,5.001,4.21E+11,4.2071E+11
-38,Count of Parcels owned by a County Resident,5.002,4.21E+11,4.2071E+11
-40,Count of Parcels owned by a County Resident,5.003,4.21E+11,4.2071E+11
-3,Count of Parcels owned by a County Resident,5.004,4.21E+11,4.2071E+11
-17,Count of Parcels owned by a County Resident,6.001,4.21E+11,4.2071E+11
-58,Count of Parcels owned by a County Resident,6.002,4.21E+11,4.2071E+11
-33,Count of Parcels owned by a County Resident,6.003,4.21E+11,4.2071E+11
-48,Count of Parcels owned by a County Resident,6.004,4.21E+11,4.2071E+11
-38,Count of Parcels owned by a County Resident,7.001,4.21E+11,4.2071E+11
-29,Count of Parcels owned by a County Resident,7.002,4.21E+11,4.2071E+11
-30,Count of Parcels owned by a County Resident,7.003,4.21E+11,4.2071E+11
-34,Count of Parcels owned by a County Resident,8.001,4.21E+11,4.2071E+11
-16,Count of Parcels owned by a County Resident,8.002,4.21E+11,4.2071E+11
-16,Count of Parcels owned by a County Resident,8.003,4.21E+11,4.2071E+11
-13,Count of Parcels owned by a County Resident,8.004,4.21E+11,4.2071E+11
-22,Count of Parcels owned by a County Resident,9.001,4.21E+11,4.2071E+11
-40,Count of Parcels owned by a County Resident,9.002,4.21E+11,4.2071E+11
-9,Count of Parcels owned by a County Resident,9.003,4.21E+11,4.2071E+11
-54,Count of Parcels owned by a County Resident,9.004,4.21E+11,4.2071E+11
-75,Count of Parcels owned by a County Resident,10.001,4.21E+11,4.2071E+11
-59,Count of Parcels owned by a County Resident,10.002,4.21E+11,4.2071E+11
-54,Count of Parcels owned by a County Resident,10.003,4.21E+11,4.2071E+11
-50,Count of Parcels owned by a County Resident,10.004,4.21E+11,4.2071E+11
-50,Count of Parcels owned by a County Resident,11.001,4.21E+11,4.2071E+11
-33,Count of Parcels owned by a County Resident,11.002,4.21E+11,4.2071E+11
-54,Count of Parcels owned by a County Resident,11.003,4.21E+11,4.2071E+11
-34,Count of Parcels owned by a County Resident,12.001,4.21E+11,4.2071E+11
-28,Count of Parcels owned by a County Resident,12.002,4.21E+11,4.2071E+11
-19,Count of Parcels owned by a County Resident,12.003,4.21E+11,4.2071E+11
-41,Count of Parcels owned by a County Resident,12.004,4.21E+11,4.2071E+11
-57,Count of Parcels owned by a County Resident,14.001,4.21E+11,4.2071E+11
-118,Count of Parcels owned by a County Resident,14.002,4.21E+11,4.2071E+11
-53,Count of Parcels owned by a County Resident,14.003,4.21E+11,4.2071E+11
-61,Count of Parcels owned by a County Resident,14.004,4.21E+11,4.2071E+11
-2,Count of Parcels owned by a County Resident,118.052,4.21E+11,4.2071E+11
-71,Count of Parcels owned by a County Resident,147.001,4.21E+11,4.2071E+11
-30,Count of Parcels owned by a County Resident,147.002,4.21E+11,4.2071E+11
-37,Count of Parcels owned by a County Resident,147.003,4.21E+11,4.2071E+11
-16,Count of Parcels owned by a State Resident,1.001,4.21E+11,4.2071E+11
-12,Count of Parcels owned by a State Resident,1.002,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a State Resident,1.003,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a State Resident,2.001,4.21E+11,4.2071E+11
-12,Count of Parcels owned by a State Resident,2.002,4.21E+11,4.2071E+11
-4,Count of Parcels owned by a State Resident,3.001,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a State Resident,3.002,4.21E+11,4.2071E+11
-17,Count of Parcels owned by a State Resident,3.003,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a State Resident,3.004,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a State Resident,4.001,4.21E+11,4.2071E+11
-12,Count of Parcels owned by a State Resident,4.002,4.21E+11,4.2071E+11
-14,Count of Parcels owned by a State Resident,4.003,4.21E+11,4.2071E+11
-7,Count of Parcels owned by a State Resident,4.004,4.21E+11,4.2071E+11
-16,Count of Parcels owned by a State Resident,5.001,4.21E+11,4.2071E+11
-30,Count of Parcels owned by a State Resident,5.002,4.21E+11,4.2071E+11
-7,Count of Parcels owned by a State Resident,5.003,4.21E+11,4.2071E+11
-2,Count of Parcels owned by a State Resident,5.004,4.21E+11,4.2071E+11
-4,Count of Parcels owned by a State Resident,6.001,4.21E+11,4.2071E+11
-10,Count of Parcels owned by a State Resident,6.002,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a State Resident,6.003,4.21E+11,4.2071E+11
-19,Count of Parcels owned by a State Resident,6.004,4.21E+11,4.2071E+11
-5,Count of Parcels owned by a State Resident,7.001,4.21E+11,4.2071E+11
-7,Count of Parcels owned by a State Resident,7.002,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a State Resident,7.003,4.21E+11,4.2071E+11
-10,Count of Parcels owned by a State Resident,8.001,4.21E+11,4.2071E+11
-2,Count of Parcels owned by a State Resident,8.002,4.21E+11,4.2071E+11
-3,Count of Parcels owned by a State Resident,8.003,4.21E+11,4.2071E+11
-0,Count of Parcels owned by a State Resident,8.004,4.21E+11,4.2071E+11
-6,Count of Parcels owned by a State Resident,9.001,4.21E+11,4.2071E+11
-16,Count of Parcels owned by a State Resident,9.002,4.21E+11,4.2071E+11
-2,Count of Parcels owned by a State Resident,9.003,4.21E+11,4.2071E+11
-12,Count of Parcels owned by a State Resident,9.004,4.21E+11,4.2071E+11
-8,Count of Parcels owned by a State Resident,10.001,4.21E+11,4.2071E+11
-7,Count of Parcels owned by a State Resident,10.002,4.21E+11,4.2071E+11
-14,Count of Parcels owned by a State Resident,10.003,4.21E+11,4.2071E+11
-8,Count of Parcels owned by a State Resident,10.004,4.21E+11,4.2071E+11
-9,Count of Parcels owned by a State Resident,11.001,4.21E+11,4.2071E+11
-10,Count of Parcels owned by a State Resident,11.002,4.21E+11,4.2071E+11
-6,Count of Parcels owned by a State Resident,11.003,4.21E+11,4.2071E+11
-8,Count of Parcels owned by a State Resident,12.001,4.21E+11,4.2071E+11
-5,Count of Parcels owned by a State Resident,12.002,4.21E+11,4.2071E+11
-3,Count of Parcels owned by a State Resident,12.003,4.21E+11,4.2071E+11
-4,Count of Parcels owned by a State Resident,12.004,4.21E+11,4.2071E+11
-9,Count of Parcels owned by a State Resident,14.001,4.21E+11,4.2071E+11
-17,Count of Parcels owned by a State Resident,14.002,4.21E+11,4.2071E+11
-8,Count of Parcels owned by a State Resident,14.003,4.21E+11,4.2071E+11
-10,Count of Parcels owned by a State Resident,14.004,4.21E+11,4.2071E+11
-1,Count of Parcels owned by a State Resident,118.052,4.21E+11,4.2071E+11
-9,Count of Parcels owned by a State Resident,147.001,4.21E+11,4.2071E+11
-2,Count of Parcels owned by a State Resident,147.002,4.21E+11,4.2071E+11
-9,Count of Parcels owned by a State Resident,147.003,4.21E+11,4.2071E+11
-6,Count of Parcels owned by a US Resident (not PA),1.001,4.21E+11,4.2071E+11
-7,Count of Parcels owned by a US Resident (not PA),1.002,4.21E+11,4.2071E+11
-18,Count of Parcels owned by a US Resident (not PA),1.003,4.21E+11,4.2071E+11
-12,Count of Parcels owned by a US Resident (not PA),2.001,4.21E+11,4.2071E+11
-17,Count of Parcels owned by a US Resident (not PA),2.002,4.21E+11,4.2071E+11
-4,Count of Parcels owned by a US Resident (not PA),3.001,4.21E+11,4.2071E+11
-3,Count of Parcels owned by a US Resident (not PA),3.002,4.21E+11,4.2071E+11
-8,Count of Parcels owned by a US Resident (not PA),3.003,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a US Resident (not PA),3.004,4.21E+11,4.2071E+11
-14,Count of Parcels owned by a US Resident (not PA),4.001,4.21E+11,4.2071E+11
-5,Count of Parcels owned by a US Resident (not PA),4.002,4.21E+11,4.2071E+11
-14,Count of Parcels owned by a US Resident (not PA),4.003,4.21E+11,4.2071E+11
-6,Count of Parcels owned by a US Resident (not PA),4.004,4.21E+11,4.2071E+11
-9,Count of Parcels owned by a US Resident (not PA),5.001,4.21E+11,4.2071E+11
-15,Count of Parcels owned by a US Resident (not PA),5.002,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a US Resident (not PA),5.003,4.21E+11,4.2071E+11
-5,Count of Parcels owned by a US Resident (not PA),5.004,4.21E+11,4.2071E+11
-6,Count of Parcels owned by a US Resident (not PA),6.001,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a US Resident (not PA),6.002,4.21E+11,4.2071E+11
-9,Count of Parcels owned by a US Resident (not PA),6.003,4.21E+11,4.2071E+11
-20,Count of Parcels owned by a US Resident (not PA),6.004,4.21E+11,4.2071E+11
-4,Count of Parcels owned by a US Resident (not PA),7.001,4.21E+11,4.2071E+11
-7,Count of Parcels owned by a US Resident (not PA),7.002,4.21E+11,4.2071E+11
-17,Count of Parcels owned by a US Resident (not PA),7.003,4.21E+11,4.2071E+11
-9,Count of Parcels owned by a US Resident (not PA),8.001,4.21E+11,4.2071E+11
-3,Count of Parcels owned by a US Resident (not PA),8.002,4.21E+11,4.2071E+11
-2,Count of Parcels owned by a US Resident (not PA),8.003,4.21E+11,4.2071E+11
-6,Count of Parcels owned by a US Resident (not PA),8.004,4.21E+11,4.2071E+11
-3,Count of Parcels owned by a US Resident (not PA),9.001,4.21E+11,4.2071E+11
-15,Count of Parcels owned by a US Resident (not PA),9.002,4.21E+11,4.2071E+11
-5,Count of Parcels owned by a US Resident (not PA),9.003,4.21E+11,4.2071E+11
-8,Count of Parcels owned by a US Resident (not PA),9.004,4.21E+11,4.2071E+11
-17,Count of Parcels owned by a US Resident (not PA),10.001,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a US Resident (not PA),10.002,4.21E+11,4.2071E+11
-14,Count of Parcels owned by a US Resident (not PA),10.003,4.21E+11,4.2071E+11
-10,Count of Parcels owned by a US Resident (not PA),10.004,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a US Resident (not PA),11.001,4.21E+11,4.2071E+11
-15,Count of Parcels owned by a US Resident (not PA),11.002,4.21E+11,4.2071E+11
-7,Count of Parcels owned by a US Resident (not PA),11.003,4.21E+11,4.2071E+11
-8,Count of Parcels owned by a US Resident (not PA),12.001,4.21E+11,4.2071E+11
-5,Count of Parcels owned by a US Resident (not PA),12.002,4.21E+11,4.2071E+11
-9,Count of Parcels owned by a US Resident (not PA),12.003,4.21E+11,4.2071E+11
-7,Count of Parcels owned by a US Resident (not PA),12.004,4.21E+11,4.2071E+11
-9,Count of Parcels owned by a US Resident (not PA),14.001,4.21E+11,4.2071E+11
-21,Count of Parcels owned by a US Resident (not PA),14.002,4.21E+11,4.2071E+11
-12,Count of Parcels owned by a US Resident (not PA),14.003,4.21E+11,4.2071E+11
-13,Count of Parcels owned by a US Resident (not PA),14.004,4.21E+11,4.2071E+11
-6,Count of Parcels owned by a US Resident (not PA),118.052,4.21E+11,4.2071E+11
-15,Count of Parcels owned by a US Resident (not PA),147.001,4.21E+11,4.2071E+11
-11,Count of Parcels owned by a US Resident (not PA),147.002,4.21E+11,4.2071E+11
-20,Count of Parcels owned by a US Resident (not PA),147.003,4.21E+11,4.2071E+11
-28,Count of Single Family Properties,1.001,4.21E+11,4.2071E+11
-18,Count of Single Family Properties,1.002,4.21E+11,4.2071E+11
-108,Count of Single Family Properties,1.003,4.21E+11,4.2071E+11
-498,Count of Single Family Properties,2.001,4.21E+11,4.2071E+11
-323,Count of Single Family Properties,2.002,4.21E+11,4.2071E+11
-344,Count of Single Family Properties,3.001,4.21E+11,4.2071E+11
-374,Count of Single Family Properties,3.002,4.21E+11,4.2071E+11
-331,Count of Single Family Properties,3.003,4.21E+11,4.2071E+11
-319,Count of Single Family Properties,3.004,4.21E+11,4.2071E+11
-273,Count of Single Family Properties,4.001,4.21E+11,4.2071E+11
-136,Count of Single Family Properties,4.002,4.21E+11,4.2071E+11
-112,Count of Single Family Properties,4.003,4.21E+11,4.2071E+11
-90,Count of Single Family Properties,4.004,4.21E+11,4.2071E+11
-256,Count of Single Family Properties,5.001,4.21E+11,4.2071E+11
-271,Count of Single Family Properties,5.002,4.21E+11,4.2071E+11
-223,Count of Single Family Properties,5.003,4.21E+11,4.2071E+11
-149,Count of Single Family Properties,5.004,4.21E+11,4.2071E+11
-198,Count of Single Family Properties,6.001,4.21E+11,4.2071E+11
-142,Count of Single Family Properties,6.002,4.21E+11,4.2071E+11
-210,Count of Single Family Properties,6.003,4.21E+11,4.2071E+11
-135,Count of Single Family Properties,6.004,4.21E+11,4.2071E+11
-211,Count of Single Family Properties,7.001,4.21E+11,4.2071E+11
-183,Count of Single Family Properties,7.002,4.21E+11,4.2071E+11
-182,Count of Single Family Properties,7.003,4.21E+11,4.2071E+11
-161,Count of Single Family Properties,8.001,4.21E+11,4.2071E+11
-220,Count of Single Family Properties,8.002,4.21E+11,4.2071E+11
-152,Count of Single Family Properties,8.003,4.21E+11,4.2071E+11
-61,Count of Single Family Properties,8.004,4.21E+11,4.2071E+11
-104,Count of Single Family Properties,9.001,4.21E+11,4.2071E+11
-173,Count of Single Family Properties,9.002,4.21E+11,4.2071E+11
-54,Count of Single Family Properties,9.003,4.21E+11,4.2071E+11
-340,Count of Single Family Properties,9.004,4.21E+11,4.2071E+11
-230,Count of Single Family Properties,10.001,4.21E+11,4.2071E+11
-220,Count of Single Family Properties,10.002,4.21E+11,4.2071E+11
-268,Count of Single Family Properties,10.003,4.21E+11,4.2071E+11
-211,Count of Single Family Properties,10.004,4.21E+11,4.2071E+11
-295,Count of Single Family Properties,11.001,4.21E+11,4.2071E+11
-435,Count of Single Family Properties,11.002,4.21E+11,4.2071E+11
-305,Count of Single Family Properties,11.003,4.21E+11,4.2071E+11
-414,Count of Single Family Properties,12.001,4.21E+11,4.2071E+11
-690,Count of Single Family Properties,12.002,4.21E+11,4.2071E+11
-418,Count of Single Family Properties,12.003,4.21E+11,4.2071E+11
-315,Count of Single Family Properties,12.004,4.21E+11,4.2071E+11
-170,Count of Single Family Properties,14.001,4.21E+11,4.2071E+11
-381,Count of Single Family Properties,14.002,4.21E+11,4.2071E+11
-356,Count of Single Family Properties,14.003,4.21E+11,4.2071E+11
-325,Count of Single Family Properties,14.004,4.21E+11,4.2071E+11
-16,Count of Single Family Properties,118.052,4.21E+11,4.2071E+11
-403,Count of Single Family Properties,147.001,4.21E+11,4.2071E+11
-224,Count of Single Family Properties,147.002,4.21E+11,4.2071E+11
-328,Count of Single Family Properties,147.003,4.21E+11,4.2071E+11
-NA,Percent Change in Sale Price 2007 - 2017,1.001,4.21E+11,4.2071E+11
-NA,Percent Change in Sale Price 2007 - 2017,1.002,4.21E+11,4.2071E+11
-3.66,Percent Change in Sale Price 2007 - 2017,1.003,4.21E+11,4.2071E+11
--0.04,Percent Change in Sale Price 2007 - 2017,2.001,4.21E+11,4.2071E+11
-0.5,Percent Change in Sale Price 2007 - 2017,2.002,4.21E+11,4.2071E+11
-0.21,Percent Change in Sale Price 2007 - 2017,3.001,4.21E+11,4.2071E+11
-0.2,Percent Change in Sale Price 2007 - 2017,3.002,4.21E+11,4.2071E+11
-0.45,Percent Change in Sale Price 2007 - 2017,3.003,4.21E+11,4.2071E+11
-0.52,Percent Change in Sale Price 2007 - 2017,3.004,4.21E+11,4.2071E+11
-0,Percent Change in Sale Price 2007 - 2017,4.001,4.21E+11,4.2071E+11
-0.16,Percent Change in Sale Price 2007 - 2017,4.002,4.21E+11,4.2071E+11
-0.76,Percent Change in Sale Price 2007 - 2017,4.003,4.21E+11,4.2071E+11
-0.64,Percent Change in Sale Price 2007 - 2017,4.004,4.21E+11,4.2071E+11
-0.56,Percent Change in Sale Price 2007 - 2017,5.001,4.21E+11,4.2071E+11
-0.07,Percent Change in Sale Price 2007 - 2017,5.002,4.21E+11,4.2071E+11
-0.45,Percent Change in Sale Price 2007 - 2017,5.003,4.21E+11,4.2071E+11
-0.34,Percent Change in Sale Price 2007 - 2017,5.004,4.21E+11,4.2071E+11
--0.11,Percent Change in Sale Price 2007 - 2017,6.001,4.21E+11,4.2071E+11
-1.05,Percent Change in Sale Price 2007 - 2017,6.002,4.21E+11,4.2071E+11
-0,Percent Change in Sale Price 2007 - 2017,6.003,4.21E+11,4.2071E+11
--0.24,Percent Change in Sale Price 2007 - 2017,6.004,4.21E+11,4.2071E+11
-0.23,Percent Change in Sale Price 2007 - 2017,7.001,4.21E+11,4.2071E+11
--0.07,Percent Change in Sale Price 2007 - 2017,7.002,4.21E+11,4.2071E+11
--0.14,Percent Change in Sale Price 2007 - 2017,7.003,4.21E+11,4.2071E+11
-0.51,Percent Change in Sale Price 2007 - 2017,8.001,4.21E+11,4.2071E+11
-0.03,Percent Change in Sale Price 2007 - 2017,8.002,4.21E+11,4.2071E+11
--0.11,Percent Change in Sale Price 2007 - 2017,8.003,4.21E+11,4.2071E+11
-0.12,Percent Change in Sale Price 2007 - 2017,8.004,4.21E+11,4.2071E+11
-0.09,Percent Change in Sale Price 2007 - 2017,9.001,4.21E+11,4.2071E+11
--0.35,Percent Change in Sale Price 2007 - 2017,9.002,4.21E+11,4.2071E+11
-0.89,Percent Change in Sale Price 2007 - 2017,9.003,4.21E+11,4.2071E+11
-0.2,Percent Change in Sale Price 2007 - 2017,9.004,4.21E+11,4.2071E+11
--0.04,Percent Change in Sale Price 2007 - 2017,10.001,4.21E+11,4.2071E+11
-0.34,Percent Change in Sale Price 2007 - 2017,10.002,4.21E+11,4.2071E+11
-0.22,Percent Change in Sale Price 2007 - 2017,10.003,4.21E+11,4.2071E+11
-0.03,Percent Change in Sale Price 2007 - 2017,10.004,4.21E+11,4.2071E+11
-0.25,Percent Change in Sale Price 2007 - 2017,11.001,4.21E+11,4.2071E+11
-0.01,Percent Change in Sale Price 2007 - 2017,11.002,4.21E+11,4.2071E+11
-0.02,Percent Change in Sale Price 2007 - 2017,11.003,4.21E+11,4.2071E+11
--0.05,Percent Change in Sale Price 2007 - 2017,12.001,4.21E+11,4.2071E+11
-0.09,Percent Change in Sale Price 2007 - 2017,12.002,4.21E+11,4.2071E+11
-0.09,Percent Change in Sale Price 2007 - 2017,12.003,4.21E+11,4.2071E+11
-0.32,Percent Change in Sale Price 2007 - 2017,12.004,4.21E+11,4.2071E+11
-0.17,Percent Change in Sale Price 2007 - 2017,14.001,4.21E+11,4.2071E+11
-0.34,Percent Change in Sale Price 2007 - 2017,14.002,4.21E+11,4.2071E+11
-0.44,Percent Change in Sale Price 2007 - 2017,14.003,4.21E+11,4.2071E+11
-0.22,Percent Change in Sale Price 2007 - 2017,14.004,4.21E+11,4.2071E+11
-NA,Percent Change in Sale Price 2007 - 2017,118.052,4.21E+11,4.2071E+11
--0.45,Percent Change in Sale Price 2007 - 2017,147.001,4.21E+11,4.2071E+11
--0.5,Percent Change in Sale Price 2007 - 2017,147.002,4.21E+11,4.2071E+11
-0.44,Percent Change in Sale Price 2007 - 2017,147.003,4.21E+11,4.2071E+11
-763,Total Count of Closed Violations,1.001,4.21E+11,4.2071E+11
-608,Total Count of Closed Violations,1.002,4.21E+11,4.2071E+11
-1483,Total Count of Closed Violations,1.003,4.21E+11,4.2071E+11
-2192,Total Count of Closed Violations,2.001,4.21E+11,4.2071E+11
-1724,Total Count of Closed Violations,2.002,4.21E+11,4.2071E+11
-964,Total Count of Closed Violations,3.001,4.21E+11,4.2071E+11
-1512,Total Count of Closed Violations,3.002,4.21E+11,4.2071E+11
-2016,Total Count of Closed Violations,3.003,4.21E+11,4.2071E+11
-2362,Total Count of Closed Violations,3.004,4.21E+11,4.2071E+11
-1896,Total Count of Closed Violations,4.001,4.21E+11,4.2071E+11
-1324,Total Count of Closed Violations,4.002,4.21E+11,4.2071E+11
-1664,Total Count of Closed Violations,4.003,4.21E+11,4.2071E+11
-494,Total Count of Closed Violations,4.004,4.21E+11,4.2071E+11
-1398,Total Count of Closed Violations,5.001,4.21E+11,4.2071E+11
-2102,Total Count of Closed Violations,5.002,4.21E+11,4.2071E+11
-1029,Total Count of Closed Violations,5.003,4.21E+11,4.2071E+11
-416,Total Count of Closed Violations,5.004,4.21E+11,4.2071E+11
-610,Total Count of Closed Violations,6.001,4.21E+11,4.2071E+11
-1364,Total Count of Closed Violations,6.002,4.21E+11,4.2071E+11
-1064,Total Count of Closed Violations,6.003,4.21E+11,4.2071E+11
-1155,Total Count of Closed Violations,6.004,4.21E+11,4.2071E+11
-1349,Total Count of Closed Violations,7.001,4.21E+11,4.2071E+11
-1038,Total Count of Closed Violations,7.002,4.21E+11,4.2071E+11
-1104,Total Count of Closed Violations,7.003,4.21E+11,4.2071E+11
-1800,Total Count of Closed Violations,8.001,4.21E+11,4.2071E+11
-1135,Total Count of Closed Violations,8.002,4.21E+11,4.2071E+11
-644,Total Count of Closed Violations,8.003,4.21E+11,4.2071E+11
-693,Total Count of Closed Violations,8.004,4.21E+11,4.2071E+11
-994,Total Count of Closed Violations,9.001,4.21E+11,4.2071E+11
-1260,Total Count of Closed Violations,9.002,4.21E+11,4.2071E+11
-303,Total Count of Closed Violations,9.003,4.21E+11,4.2071E+11
-2013,Total Count of Closed Violations,9.004,4.21E+11,4.2071E+11
-1955,Total Count of Closed Violations,10.001,4.21E+11,4.2071E+11
-1980,Total Count of Closed Violations,10.002,4.21E+11,4.2071E+11
-1571,Total Count of Closed Violations,10.003,4.21E+11,4.2071E+11
-1305,Total Count of Closed Violations,10.004,4.21E+11,4.2071E+11
-1828,Total Count of Closed Violations,11.001,4.21E+11,4.2071E+11
-1456,Total Count of Closed Violations,11.002,4.21E+11,4.2071E+11
-1280,Total Count of Closed Violations,11.003,4.21E+11,4.2071E+11
-930,Total Count of Closed Violations,12.001,4.21E+11,4.2071E+11
-1260,Total Count of Closed Violations,12.002,4.21E+11,4.2071E+11
-790,Total Count of Closed Violations,12.003,4.21E+11,4.2071E+11
-890,Total Count of Closed Violations,12.004,4.21E+11,4.2071E+11
-2051,Total Count of Closed Violations,14.001,4.21E+11,4.2071E+11
-3886,Total Count of Closed Violations,14.002,4.21E+11,4.2071E+11
-2637,Total Count of Closed Violations,14.003,4.21E+11,4.2071E+11
-2060,Total Count of Closed Violations,14.004,4.21E+11,4.2071E+11
-60,Total Count of Closed Violations,118.052,4.21E+11,4.2071E+11
-3014,Total Count of Closed Violations,147.001,4.21E+11,4.2071E+11
-1401,Total Count of Closed Violations,147.002,4.21E+11,4.2071E+11
-2482,Total Count of Closed Violations,147.003,4.21E+11,4.2071E+11
-25,Total Count of Open Code Violations,1.001,4.21E+11,4.2071E+11
-11,Total Count of Open Code Violations,1.002,4.21E+11,4.2071E+11
-23,Total Count of Open Code Violations,1.003,4.21E+11,4.2071E+11
-50,Total Count of Open Code Violations,2.001,4.21E+11,4.2071E+11
-16,Total Count of Open Code Violations,2.002,4.21E+11,4.2071E+11
-32,Total Count of Open Code Violations,3.001,4.21E+11,4.2071E+11
-45,Total Count of Open Code Violations,3.002,4.21E+11,4.2071E+11
-45,Total Count of Open Code Violations,3.003,4.21E+11,4.2071E+11
-53,Total Count of Open Code Violations,3.004,4.21E+11,4.2071E+11
-48,Total Count of Open Code Violations,4.001,4.21E+11,4.2071E+11
-30,Total Count of Open Code Violations,4.002,4.21E+11,4.2071E+11
-27,Total Count of Open Code Violations,4.003,4.21E+11,4.2071E+11
-18,Total Count of Open Code Violations,4.004,4.21E+11,4.2071E+11
-19,Total Count of Open Code Violations,5.001,4.21E+11,4.2071E+11
-42,Total Count of Open Code Violations,5.002,4.21E+11,4.2071E+11
-21,Total Count of Open Code Violations,5.003,4.21E+11,4.2071E+11
-6,Total Count of Open Code Violations,5.004,4.21E+11,4.2071E+11
-11,Total Count of Open Code Violations,6.001,4.21E+11,4.2071E+11
-13,Total Count of Open Code Violations,6.002,4.21E+11,4.2071E+11
-11,Total Count of Open Code Violations,6.003,4.21E+11,4.2071E+11
-19,Total Count of Open Code Violations,6.004,4.21E+11,4.2071E+11
-24,Total Count of Open Code Violations,7.001,4.21E+11,4.2071E+11
-12,Total Count of Open Code Violations,7.002,4.21E+11,4.2071E+11
-18,Total Count of Open Code Violations,7.003,4.21E+11,4.2071E+11
-13,Total Count of Open Code Violations,8.001,4.21E+11,4.2071E+11
-12,Total Count of Open Code Violations,8.002,4.21E+11,4.2071E+11
-5,Total Count of Open Code Violations,8.003,4.21E+11,4.2071E+11
-7,Total Count of Open Code Violations,8.004,4.21E+11,4.2071E+11
-11,Total Count of Open Code Violations,9.001,4.21E+11,4.2071E+11
-16,Total Count of Open Code Violations,9.002,4.21E+11,4.2071E+11
-3,Total Count of Open Code Violations,9.003,4.21E+11,4.2071E+11
-80,Total Count of Open Code Violations,9.004,4.21E+11,4.2071E+11
-75,Total Count of Open Code Violations,10.001,4.21E+11,4.2071E+11
-42,Total Count of Open Code Violations,10.002,4.21E+11,4.2071E+11
-31,Total Count of Open Code Violations,10.003,4.21E+11,4.2071E+11
-20,Total Count of Open Code Violations,10.004,4.21E+11,4.2071E+11
-37,Total Count of Open Code Violations,11.001,4.21E+11,4.2071E+11
-33,Total Count of Open Code Violations,11.002,4.21E+11,4.2071E+11
-23,Total Count of Open Code Violations,11.003,4.21E+11,4.2071E+11
-27,Total Count of Open Code Violations,12.001,4.21E+11,4.2071E+11
-24,Total Count of Open Code Violations,12.002,4.21E+11,4.2071E+11
-12,Total Count of Open Code Violations,12.003,4.21E+11,4.2071E+11
-5,Total Count of Open Code Violations,12.004,4.21E+11,4.2071E+11
-50,Total Count of Open Code Violations,14.001,4.21E+11,4.2071E+11
-64,Total Count of Open Code Violations,14.002,4.21E+11,4.2071E+11
-41,Total Count of Open Code Violations,14.003,4.21E+11,4.2071E+11
-44,Total Count of Open Code Violations,14.004,4.21E+11,4.2071E+11
-5,Total Count of Open Code Violations,118.052,4.21E+11,4.2071E+11
-64,Total Count of Open Code Violations,147.001,4.21E+11,4.2071E+11
-17,Total Count of Open Code Violations,147.002,4.21E+11,4.2071E+11
-20,Total Count of Open Code Violations,147.003,4.21E+11,4.2071E+11
-8,Total Count of Open Code Violations Older than a Year,1.001,4.21E+11,4.2071E+11
-11,Total Count of Open Code Violations Older than a Year,1.002,4.21E+11,4.2071E+11
-9,Total Count of Open Code Violations Older than a Year,1.003,4.21E+11,4.2071E+11
-16,Total Count of Open Code Violations Older than a Year,2.001,4.21E+11,4.2071E+11
-2,Total Count of Open Code Violations Older than a Year,2.002,4.21E+11,4.2071E+11
-6,Total Count of Open Code Violations Older than a Year,3.001,4.21E+11,4.2071E+11
-11,Total Count of Open Code Violations Older than a Year,3.002,4.21E+11,4.2071E+11
-10,Total Count of Open Code Violations Older than a Year,3.003,4.21E+11,4.2071E+11
-25,Total Count of Open Code Violations Older than a Year,3.004,4.21E+11,4.2071E+11
-23,Total Count of Open Code Violations Older than a Year,4.001,4.21E+11,4.2071E+11
-11,Total Count of Open Code Violations Older than a Year,4.002,4.21E+11,4.2071E+11
-16,Total Count of Open Code Violations Older than a Year,4.003,4.21E+11,4.2071E+11
-13,Total Count of Open Code Violations Older than a Year,4.004,4.21E+11,4.2071E+11
-9,Total Count of Open Code Violations Older than a Year,5.001,4.21E+11,4.2071E+11
-16,Total Count of Open Code Violations Older than a Year,5.002,4.21E+11,4.2071E+11
-5,Total Count of Open Code Violations Older than a Year,5.003,4.21E+11,4.2071E+11
-5,Total Count of Open Code Violations Older than a Year,5.004,4.21E+11,4.2071E+11
-5,Total Count of Open Code Violations Older than a Year,6.001,4.21E+11,4.2071E+11
-2,Total Count of Open Code Violations Older than a Year,6.002,4.21E+11,4.2071E+11
-5,Total Count of Open Code Violations Older than a Year,6.003,4.21E+11,4.2071E+11
-4,Total Count of Open Code Violations Older than a Year,6.004,4.21E+11,4.2071E+11
-3,Total Count of Open Code Violations Older than a Year,7.001,4.21E+11,4.2071E+11
-0,Total Count of Open Code Violations Older than a Year,7.002,4.21E+11,4.2071E+11
-4,Total Count of Open Code Violations Older than a Year,7.003,4.21E+11,4.2071E+11
-8,Total Count of Open Code Violations Older than a Year,8.001,4.21E+11,4.2071E+11
-7,Total Count of Open Code Violations Older than a Year,8.002,4.21E+11,4.2071E+11
-4,Total Count of Open Code Violations Older than a Year,8.003,4.21E+11,4.2071E+11
-4,Total Count of Open Code Violations Older than a Year,8.004,4.21E+11,4.2071E+11
-4,Total Count of Open Code Violations Older than a Year,9.001,4.21E+11,4.2071E+11
-8,Total Count of Open Code Violations Older than a Year,9.002,4.21E+11,4.2071E+11
-1,Total Count of Open Code Violations Older than a Year,9.003,4.21E+11,4.2071E+11
-18,Total Count of Open Code Violations Older than a Year,9.004,4.21E+11,4.2071E+11
-17,Total Count of Open Code Violations Older than a Year,10.001,4.21E+11,4.2071E+11
-16,Total Count of Open Code Violations Older than a Year,10.002,4.21E+11,4.2071E+11
-18,Total Count of Open Code Violations Older than a Year,10.003,4.21E+11,4.2071E+11
-4,Total Count of Open Code Violations Older than a Year,10.004,4.21E+11,4.2071E+11
-13,Total Count of Open Code Violations Older than a Year,11.001,4.21E+11,4.2071E+11
-17,Total Count of Open Code Violations Older than a Year,11.002,4.21E+11,4.2071E+11
-10,Total Count of Open Code Violations Older than a Year,11.003,4.21E+11,4.2071E+11
-12,Total Count of Open Code Violations Older than a Year,12.001,4.21E+11,4.2071E+11
-11,Total Count of Open Code Violations Older than a Year,12.002,4.21E+11,4.2071E+11
-6,Total Count of Open Code Violations Older than a Year,12.003,4.21E+11,4.2071E+11
-2,Total Count of Open Code Violations Older than a Year,12.004,4.21E+11,4.2071E+11
-24,Total Count of Open Code Violations Older than a Year,14.001,4.21E+11,4.2071E+11
-26,Total Count of Open Code Violations Older than a Year,14.002,4.21E+11,4.2071E+11
-21,Total Count of Open Code Violations Older than a Year,14.003,4.21E+11,4.2071E+11
-14,Total Count of Open Code Violations Older than a Year,14.004,4.21E+11,4.2071E+11
-5,Total Count of Open Code Violations Older than a Year,118.052,4.21E+11,4.2071E+11
-32,Total Count of Open Code Violations Older than a Year,147.001,4.21E+11,4.2071E+11
-8,Total Count of Open Code Violations Older than a Year,147.002,4.21E+11,4.2071E+11
-8,Total Count of Open Code Violations Older than a Year,147.003,4.21E+11,4.2071E+11
-0.123893805,Percent of Single Family Properties,1.001,4.21E+11,4.2071E+11
-0.06405694,Percent of Single Family Properties,1.002,4.21E+11,4.2071E+11
-0.270676692,Percent of Single Family Properties,1.003,4.21E+11,4.2071E+11
-0.92051756,Percent of Single Family Properties,2.001,4.21E+11,4.2071E+11
-0.663244353,Percent of Single Family Properties,2.002,4.21E+11,4.2071E+11
-0.879795396,Percent of Single Family Properties,3.001,4.21E+11,4.2071E+11
-0.901204819,Percent of Single Family Properties,3.002,4.21E+11,4.2071E+11
-0.755707763,Percent of Single Family Properties,3.003,4.21E+11,4.2071E+11
-0.763157895,Percent of Single Family Properties,3.004,4.21E+11,4.2071E+11
-0.6825,Percent of Single Family Properties,4.001,4.21E+11,4.2071E+11
-0.521072797,Percent of Single Family Properties,4.002,4.21E+11,4.2071E+11
-0.300268097,Percent of Single Family Properties,4.003,4.21E+11,4.2071E+11
-0.381355932,Percent of Single Family Properties,4.004,4.21E+11,4.2071E+11
-0.75739645,Percent of Single Family Properties,5.001,4.21E+11,4.2071E+11
-0.675810474,Percent of Single Family Properties,5.002,4.21E+11,4.2071E+11
-0.690402477,Percent of Single Family Properties,5.003,4.21E+11,4.2071E+11
-0.788359788,Percent of Single Family Properties,5.004,4.21E+11,4.2071E+11
-0.717391304,Percent of Single Family Properties,6.001,4.21E+11,4.2071E+11
-0.548262548,Percent of Single Family Properties,6.002,4.21E+11,4.2071E+11
-0.648148148,Percent of Single Family Properties,6.003,4.21E+11,4.2071E+11
-0.358090186,Percent of Single Family Properties,6.004,4.21E+11,4.2071E+11
-0.778597786,Percent of Single Family Properties,7.001,4.21E+11,4.2071E+11
-0.712062257,Percent of Single Family Properties,7.002,4.21E+11,4.2071E+11
-0.587096774,Percent of Single Family Properties,7.003,4.21E+11,4.2071E+11
-0.654471545,Percent of Single Family Properties,8.001,4.21E+11,4.2071E+11
-0.890688259,Percent of Single Family Properties,8.002,4.21E+11,4.2071E+11
-0.775510204,Percent of Single Family Properties,8.003,4.21E+11,4.2071E+11
-0.64893617,Percent of Single Family Properties,8.004,4.21E+11,4.2071E+11
-0.65,Percent of Single Family Properties,9.001,4.21E+11,4.2071E+11
-0.768888889,Percent of Single Family Properties,9.002,4.21E+11,4.2071E+11
-0.72,Percent of Single Family Properties,9.003,4.21E+11,4.2071E+11
-0.805687204,Percent of Single Family Properties,9.004,4.21E+11,4.2071E+11
-0.737179487,Percent of Single Family Properties,10.001,4.21E+11,4.2071E+11
-0.802919708,Percent of Single Family Properties,10.002,4.21E+11,4.2071E+11
-0.8,Percent of Single Family Properties,10.003,4.21E+11,4.2071E+11
-0.793233083,Percent of Single Family Properties,10.004,4.21E+11,4.2071E+11
-0.712560386,Percent of Single Family Properties,11.001,4.21E+11,4.2071E+11
-0.939524838,Percent of Single Family Properties,11.002,4.21E+11,4.2071E+11
-0.856741573,Percent of Single Family Properties,11.003,4.21E+11,4.2071E+11
-0.922048998,Percent of Single Family Properties,12.001,4.21E+11,4.2071E+11
-0.961002786,Percent of Single Family Properties,12.002,4.21E+11,4.2071E+11
-0.969837587,Percent of Single Family Properties,12.003,4.21E+11,4.2071E+11
-0.844504021,Percent of Single Family Properties,12.004,4.21E+11,4.2071E+11
-0.588235294,Percent of Single Family Properties,14.001,4.21E+11,4.2071E+11
-0.802105263,Percent of Single Family Properties,14.002,4.21E+11,4.2071E+11
-0.780701754,Percent of Single Family Properties,14.003,4.21E+11,4.2071E+11
-0.839793282,Percent of Single Family Properties,14.004,4.21E+11,4.2071E+11
-0.112676056,Percent of Single Family Properties,118.052,4.21E+11,4.2071E+11
-0.836099585,Percent of Single Family Properties,147.001,4.21E+11,4.2071E+11
-0.823529412,Percent of Single Family Properties,147.002,4.21E+11,4.2071E+11
-0.828282828,Percent of Single Family Properties,147.003,4.21E+11,4.2071E+11
-0.63,Percent of Rental Properties,1.001,4.21E+11,4.2071E+11
-0.74,Percent of Rental Properties,1.002,4.21E+11,4.2071E+11
-0.77,Percent of Rental Properties,1.003,4.21E+11,4.2071E+11
-0.31,Percent of Rental Properties,2.001,4.21E+11,4.2071E+11
-0.39,Percent of Rental Properties,2.002,4.21E+11,4.2071E+11
-0.26,Percent of Rental Properties,3.001,4.21E+11,4.2071E+11
-0.31,Percent of Rental Properties,3.002,4.21E+11,4.2071E+11
-0.49,Percent of Rental Properties,3.003,4.21E+11,4.2071E+11
-0.40,Percent of Rental Properties,3.004,4.21E+11,4.2071E+11
-0.47,Percent of Rental Properties,4.001,4.21E+11,4.2071E+11
-0.73,Percent of Rental Properties,4.002,4.21E+11,4.2071E+11
-0.62,Percent of Rental Properties,4.003,4.21E+11,4.2071E+11
-0.63,Percent of Rental Properties,4.004,4.21E+11,4.2071E+11
-0.54,Percent of Rental Properties,5.001,4.21E+11,4.2071E+11
-0.57,Percent of Rental Properties,5.002,4.21E+11,4.2071E+11
-0.43,Percent of Rental Properties,5.003,4.21E+11,4.2071E+11
-0.24,Percent of Rental Properties,5.004,4.21E+11,4.2071E+11
-0.36,Percent of Rental Properties,6.001,4.21E+11,4.2071E+11
-0.64,Percent of Rental Properties,6.002,4.21E+11,4.2071E+11
-0.43,Percent of Rental Properties,6.003,4.21E+11,4.2071E+11
-0.46,Percent of Rental Properties,6.004,4.21E+11,4.2071E+11
-0.39,Percent of Rental Properties,7.001,4.21E+11,4.2071E+11
-0.39,Percent of Rental Properties,7.002,4.21E+11,4.2071E+11
-0.57,Percent of Rental Properties,7.003,4.21E+11,4.2071E+11
-0.59,Percent of Rental Properties,8.001,4.21E+11,4.2071E+11
-0.30,Percent of Rental Properties,8.002,4.21E+11,4.2071E+11
-0.40,Percent of Rental Properties,8.003,4.21E+11,4.2071E+11
-0.61,Percent of Rental Properties,8.004,4.21E+11,4.2071E+11
-0.61,Percent of Rental Properties,9.001,4.21E+11,4.2071E+11
-0.72,Percent of Rental Properties,9.002,4.21E+11,4.2071E+11
-0.67,Percent of Rental Properties,9.003,4.21E+11,4.2071E+11
-0.55,Percent of Rental Properties,9.004,4.21E+11,4.2071E+11
-0.66,Percent of Rental Properties,10.001,4.21E+11,4.2071E+11
-0.75,Percent of Rental Properties,10.002,4.21E+11,4.2071E+11
-0.52,Percent of Rental Properties,10.003,4.21E+11,4.2071E+11
-0.54,Percent of Rental Properties,10.004,4.21E+11,4.2071E+11
-0.53,Percent of Rental Properties,11.001,4.21E+11,4.2071E+11
-0.34,Percent of Rental Properties,11.002,4.21E+11,4.2071E+11
-0.47,Percent of Rental Properties,11.003,4.21E+11,4.2071E+11
-0.29,Percent of Rental Properties,12.001,4.21E+11,4.2071E+11
-0.15,Percent of Rental Properties,12.002,4.21E+11,4.2071E+11
-0.19,Percent of Rental Properties,12.003,4.21E+11,4.2071E+11
-0.39,Percent of Rental Properties,12.004,4.21E+11,4.2071E+11
-0.66,Percent of Rental Properties,14.001,4.21E+11,4.2071E+11
-0.68,Percent of Rental Properties,14.002,4.21E+11,4.2071E+11
-0.47,Percent of Rental Properties,14.003,4.21E+11,4.2071E+11
-0.53,Percent of Rental Properties,14.004,4.21E+11,4.2071E+11
-0.80,Percent of Rental Properties,118.052,4.21E+11,4.2071E+11
-0.56,Percent of Rental Properties,147.001,4.21E+11,4.2071E+11
-0.54,Percent of Rental Properties,147.002,4.21E+11,4.2071E+11
-0.51,Percent of Rental Properties,147.003,4.21E+11,4.2071E+11
-0.80,Percent of City Owned Properties,1.001,4.21E+11,4.2071E+11
-0.81,Percent of City Owned Properties,1.002,4.21E+11,4.2071E+11
-0.84,Percent of City Owned Properties,1.003,4.21E+11,4.2071E+11
-0.89,Percent of City Owned Properties,2.001,4.21E+11,4.2071E+11
-0.84,Percent of City Owned Properties,2.002,4.21E+11,4.2071E+11
-0.91,Percent of City Owned Properties,3.001,4.21E+11,4.2071E+11
-0.87,Percent of City Owned Properties,3.002,4.21E+11,4.2071E+11
-0.79,Percent of City Owned Properties,3.003,4.21E+11,4.2071E+11
-0.82,Percent of City Owned Properties,3.004,4.21E+11,4.2071E+11
-0.81,Percent of City Owned Properties,4.001,4.21E+11,4.2071E+11
-0.71,Percent of City Owned Properties,4.002,4.21E+11,4.2071E+11
-0.80,Percent of City Owned Properties,4.003,4.21E+11,4.2071E+11
-0.86,Percent of City Owned Properties,4.004,4.21E+11,4.2071E+11
-0.83,Percent of City Owned Properties,5.001,4.21E+11,4.2071E+11
-0.79,Percent of City Owned Properties,5.002,4.21E+11,4.2071E+11
-0.82,Percent of City Owned Properties,5.003,4.21E+11,4.2071E+11
-0.95,Percent of City Owned Properties,5.004,4.21E+11,4.2071E+11
-0.90,Percent of City Owned Properties,6.001,4.21E+11,4.2071E+11
-0.69,Percent of City Owned Properties,6.002,4.21E+11,4.2071E+11
-0.84,Percent of City Owned Properties,6.003,4.21E+11,4.2071E+11
-0.77,Percent of City Owned Properties,6.004,4.21E+11,4.2071E+11
-0.83,Percent of City Owned Properties,7.001,4.21E+11,4.2071E+11
-0.83,Percent of City Owned Properties,7.002,4.21E+11,4.2071E+11
-0.81,Percent of City Owned Properties,7.003,4.21E+11,4.2071E+11
-0.78,Percent of City Owned Properties,8.001,4.21E+11,4.2071E+11
-0.91,Percent of City Owned Properties,8.002,4.21E+11,4.2071E+11
-0.89,Percent of City Owned Properties,8.003,4.21E+11,4.2071E+11
-0.80,Percent of City Owned Properties,8.004,4.21E+11,4.2071E+11
-0.81,Percent of City Owned Properties,9.001,4.21E+11,4.2071E+11
-0.68,Percent of City Owned Properties,9.002,4.21E+11,4.2071E+11
-0.79,Percent of City Owned Properties,9.003,4.21E+11,4.2071E+11
-0.82,Percent of City Owned Properties,9.004,4.21E+11,4.2071E+11
-0.68,Percent of City Owned Properties,10.001,4.21E+11,4.2071E+11
-0.72,Percent of City Owned Properties,10.002,4.21E+11,4.2071E+11
-0.76,Percent of City Owned Properties,10.003,4.21E+11,4.2071E+11
-0.74,Percent of City Owned Properties,10.004,4.21E+11,4.2071E+11
-0.83,Percent of City Owned Properties,11.001,4.21E+11,4.2071E+11
-0.87,Percent of City Owned Properties,11.002,4.21E+11,4.2071E+11
-0.81,Percent of City Owned Properties,11.003,4.21E+11,4.2071E+11
-0.89,Percent of City Owned Properties,12.001,4.21E+11,4.2071E+11
-0.95,Percent of City Owned Properties,12.002,4.21E+11,4.2071E+11
-0.93,Percent of City Owned Properties,12.003,4.21E+11,4.2071E+11
-0.86,Percent of City Owned Properties,12.004,4.21E+11,4.2071E+11
-0.74,Percent of City Owned Properties,14.001,4.21E+11,4.2071E+11
-0.67,Percent of City Owned Properties,14.002,4.21E+11,4.2071E+11
-0.84,Percent of City Owned Properties,14.003,4.21E+11,4.2071E+11
-0.78,Percent of City Owned Properties,14.004,4.21E+11,4.2071E+11
-0.94,Percent of City Owned Properties,118.052,4.21E+11,4.2071E+11
-0.80,Percent of City Owned Properties,147.001,4.21E+11,4.2071E+11
-0.84,Percent of City Owned Properties,147.002,4.21E+11,4.2071E+11
-0.83,Percent of City Owned Properties,147.003,4.21E+11,4.2071E+11
-0.20,Percent of Non Locally Owned Properties,1.001,4.21E+11,4.2071E+11
-0.19,Percent of Non Locally Owned Properties,1.002,4.21E+11,4.2071E+11
-0.16,Percent of Non Locally Owned Properties,1.003,4.21E+11,4.2071E+11
-0.11,Percent of Non Locally Owned Properties,2.001,4.21E+11,4.2071E+11
-0.16,Percent of Non Locally Owned Properties,2.002,4.21E+11,4.2071E+11
-0.09,Percent of Non Locally Owned Properties,3.001,4.21E+11,4.2071E+11
-0.13,Percent of Non Locally Owned Properties,3.002,4.21E+11,4.2071E+11
-0.21,Percent of Non Locally Owned Properties,3.003,4.21E+11,4.2071E+11
-0.18,Percent of Non Locally Owned Properties,3.004,4.21E+11,4.2071E+11
-0.20,Percent of Non Locally Owned Properties,4.001,4.21E+11,4.2071E+11
-0.29,Percent of Non Locally Owned Properties,4.002,4.21E+11,4.2071E+11
-0.20,Percent of Non Locally Owned Properties,4.003,4.21E+11,4.2071E+11
-0.14,Percent of Non Locally Owned Properties,4.004,4.21E+11,4.2071E+11
-0.17,Percent of Non Locally Owned Properties,5.001,4.21E+11,4.2071E+11
-0.21,Percent of Non Locally Owned Properties,5.002,4.21E+11,4.2071E+11
-0.18,Percent of Non Locally Owned Properties,5.003,4.21E+11,4.2071E+11
-0.05,Percent of Non Locally Owned Properties,5.004,4.21E+11,4.2071E+11
-0.10,Percent of Non Locally Owned Properties,6.001,4.21E+11,4.2071E+11
-0.31,Percent of Non Locally Owned Properties,6.002,4.21E+11,4.2071E+11
-0.16,Percent of Non Locally Owned Properties,6.003,4.21E+11,4.2071E+11
-0.23,Percent of Non Locally Owned Properties,6.004,4.21E+11,4.2071E+11
-0.17,Percent of Non Locally Owned Properties,7.001,4.21E+11,4.2071E+11
-0.17,Percent of Non Locally Owned Properties,7.002,4.21E+11,4.2071E+11
-0.19,Percent of Non Locally Owned Properties,7.003,4.21E+11,4.2071E+11
-0.22,Percent of Non Locally Owned Properties,8.001,4.21E+11,4.2071E+11
-0.09,Percent of Non Locally Owned Properties,8.002,4.21E+11,4.2071E+11
-0.11,Percent of Non Locally Owned Properties,8.003,4.21E+11,4.2071E+11
-0.20,Percent of Non Locally Owned Properties,8.004,4.21E+11,4.2071E+11
-0.19,Percent of Non Locally Owned Properties,9.001,4.21E+11,4.2071E+11
-0.32,Percent of Non Locally Owned Properties,9.002,4.21E+11,4.2071E+11
-0.21,Percent of Non Locally Owned Properties,9.003,4.21E+11,4.2071E+11
-0.18,Percent of Non Locally Owned Properties,9.004,4.21E+11,4.2071E+11
-0.32,Percent of Non Locally Owned Properties,10.001,4.21E+11,4.2071E+11
-0.28,Percent of Non Locally Owned Properties,10.002,4.21E+11,4.2071E+11
-0.24,Percent of Non Locally Owned Properties,10.003,4.21E+11,4.2071E+11
-0.26,Percent of Non Locally Owned Properties,10.004,4.21E+11,4.2071E+11
-0.17,Percent of Non Locally Owned Properties,11.001,4.21E+11,4.2071E+11
-0.13,Percent of Non Locally Owned Properties,11.002,4.21E+11,4.2071E+11
-0.19,Percent of Non Locally Owned Properties,11.003,4.21E+11,4.2071E+11
-0.11,Percent of Non Locally Owned Properties,12.001,4.21E+11,4.2071E+11
-0.05,Percent of Non Locally Owned Properties,12.002,4.21E+11,4.2071E+11
-0.07,Percent of Non Locally Owned Properties,12.003,4.21E+11,4.2071E+11
-0.14,Percent of Non Locally Owned Properties,12.004,4.21E+11,4.2071E+11
-0.26,Percent of Non Locally Owned Properties,14.001,4.21E+11,4.2071E+11
-0.33,Percent of Non Locally Owned Properties,14.002,4.21E+11,4.2071E+11
-0.16,Percent of Non Locally Owned Properties,14.003,4.21E+11,4.2071E+11
-0.22,Percent of Non Locally Owned Properties,14.004,4.21E+11,4.2071E+11
-0.06,Percent of Non Locally Owned Properties,118.052,4.21E+11,4.2071E+11
-0.20,Percent of Non Locally Owned Properties,147.001,4.21E+11,4.2071E+11
-0.16,Percent of Non Locally Owned Properties,147.002,4.21E+11,4.2071E+11
-0.17,Percent of Non Locally Owned Properties,147.003,4.21E+11,4.2071E+11
+Count,Label,CBG,GEOID
+72,Average Days To Close a Code Violation,1.001,420710001001
+96,Average Days To Close a Code Violation,1.002,420710001002
+78,Average Days To Close a Code Violation,1.003,420710001003
+50,Average Days To Close a Code Violation,2.001,420710002001
+57,Average Days To Close a Code Violation,2.002,420710002002
+52,Average Days To Close a Code Violation,3.001,420710003001
+53,Average Days To Close a Code Violation,3.002,420710003002
+67,Average Days To Close a Code Violation,3.003,420710003003
+55,Average Days To Close a Code Violation,3.004,420710003004
+65,Average Days To Close a Code Violation,4.001,420710004001
+63,Average Days To Close a Code Violation,4.002,420710004002
+64,Average Days To Close a Code Violation,4.003,420710004003
+100,Average Days To Close a Code Violation,4.004,420710004004
+88,Average Days To Close a Code Violation,5.001,420710005001
+62,Average Days To Close a Code Violation,5.002,420710005002
+68,Average Days To Close a Code Violation,5.003,420710005003
+90,Average Days To Close a Code Violation,5.004,420710005004
+96,Average Days To Close a Code Violation,6.001,420710006001
+95,Average Days To Close a Code Violation,6.002,420710006002
+84,Average Days To Close a Code Violation,6.003,420710006003
+95,Average Days To Close a Code Violation,6.004,420710006004
+52,Average Days To Close a Code Violation,7.001,420710007001
+65,Average Days To Close a Code Violation,7.002,420710007002
+64,Average Days To Close a Code Violation,7.003,420710007003
+59,Average Days To Close a Code Violation,8.001,420710008001
+49,Average Days To Close a Code Violation,8.002,420710008002
+40,Average Days To Close a Code Violation,8.003,420710008003
+89,Average Days To Close a Code Violation,8.004,420710008004
+61,Average Days To Close a Code Violation,9.001,420710009001
+67,Average Days To Close a Code Violation,9.002,420710009002
+73,Average Days To Close a Code Violation,9.003,420710009003
+68,Average Days To Close a Code Violation,9.004,420710009004
+74,Average Days To Close a Code Violation,10.001,420710010001
+68,Average Days To Close a Code Violation,10.002,420710010002
+72,Average Days To Close a Code Violation,10.003,420710010003
+73,Average Days To Close a Code Violation,10.004,420710010004
+67,Average Days To Close a Code Violation,11.001,420710011001
+66,Average Days To Close a Code Violation,11.002,420710011002
+64,Average Days To Close a Code Violation,11.003,420710011003
+56,Average Days To Close a Code Violation,12.001,420710012001
+41,Average Days To Close a Code Violation,12.002,420710012002
+53,Average Days To Close a Code Violation,12.003,420710012003
+54,Average Days To Close a Code Violation,12.004,420710012004
+69,Average Days To Close a Code Violation,14.001,420710014001
+76,Average Days To Close a Code Violation,14.002,420710014002
+78,Average Days To Close a Code Violation,14.003,420710014003
+56,Average Days To Close a Code Violation,14.004,420710014004
+43,Average Days To Close a Code Violation,118.052,420710118052
+59,Average Days To Close a Code Violation,147.001,420710147001
+58,Average Days To Close a Code Violation,147.002,420710147002
+58,Average Days To Close a Code Violation,147.003,420710147003
+NA,Average Sale Price 2007,1.001,420710001001
+NA,Average Sale Price 2007,1.002,420710001002
+43000,Average Sale Price 2007,1.003,420710001003
+93287,Average Sale Price 2007,2.001,420710002001
+82225,Average Sale Price 2007,2.002,420710002002
+100218,Average Sale Price 2007,3.001,420710003001
+85265,Average Sale Price 2007,3.002,420710003002
+97996,Average Sale Price 2007,3.003,420710003003
+92311,Average Sale Price 2007,3.004,420710003004
+122260,Average Sale Price 2007,4.001,420710004001
+81883,Average Sale Price 2007,4.002,420710004002
+90177,Average Sale Price 2007,4.003,420710004003
+102740,Average Sale Price 2007,4.004,420710004004
+93271,Average Sale Price 2007,5.001,420710005001
+124818,Average Sale Price 2007,5.002,420710005002
+107886,Average Sale Price 2007,5.003,420710005003
+180000,Average Sale Price 2007,5.004,420710005004
+218583,Average Sale Price 2007,6.001,420710006001
+55192,Average Sale Price 2007,6.002,420710006002
+197488,Average Sale Price 2007,6.003,420710006003
+220188,Average Sale Price 2007,6.004,420710006004
+96255,Average Sale Price 2007,7.001,420710007001
+151600,Average Sale Price 2007,7.002,420710007002
+172467,Average Sale Price 2007,7.003,420710007003
+63250,Average Sale Price 2007,8.001,420710008001
+72090,Average Sale Price 2007,8.002,420710008002
+68738,Average Sale Price 2007,8.003,420710008003
+75000,Average Sale Price 2007,8.004,420710008004
+61514,Average Sale Price 2007,9.001,420710009001
+95401,Average Sale Price 2007,9.002,420710009002
+58000,Average Sale Price 2007,9.003,420710009003
+97715,Average Sale Price 2007,9.004,420710009004
+56050,Average Sale Price 2007,10.001,420710010001
+66275,Average Sale Price 2007,10.002,420710010002
+77038,Average Sale Price 2007,10.003,420710010003
+68408,Average Sale Price 2007,10.004,420710010004
+73421,Average Sale Price 2007,11.001,420710011001
+88177,Average Sale Price 2007,11.002,420710011002
+86459,Average Sale Price 2007,11.003,420710011003
+91599,Average Sale Price 2007,12.001,420710012001
+105353,Average Sale Price 2007,12.002,420710012002
+101369,Average Sale Price 2007,12.003,420710012003
+86044,Average Sale Price 2007,12.004,420710012004
+49437,Average Sale Price 2007,14.001,420710014001
+46952,Average Sale Price 2007,14.002,420710014002
+65024,Average Sale Price 2007,14.003,420710014003
+72831,Average Sale Price 2007,14.004,420710014004
+62450,Average Sale Price 2007,118.052,420710118052
+86258,Average Sale Price 2007,147.001,420710147001
+112544,Average Sale Price 2007,147.002,420710147002
+45518,Average Sale Price 2007,147.003,420710147003
+275000,Average Sale Price 2017,1.001,420710001001
+162500,Average Sale Price 2017,1.002,420710001002
+200167,Average Sale Price 2017,1.003,420710001003
+89904,Average Sale Price 2017,2.001,420710002001
+123253,Average Sale Price 2017,2.002,420710002002
+121447,Average Sale Price 2017,3.001,420710003001
+102646,Average Sale Price 2017,3.002,420710003002
+141928,Average Sale Price 2017,3.003,420710003003
+140005,Average Sale Price 2017,3.004,420710003004
+122132,Average Sale Price 2017,4.001,420710004001
+94714,Average Sale Price 2017,4.002,420710004002
+159117,Average Sale Price 2017,4.003,420710004003
+168750,Average Sale Price 2017,4.004,420710004004
+145145,Average Sale Price 2017,5.001,420710005001
+133705,Average Sale Price 2017,5.002,420710005002
+156109,Average Sale Price 2017,5.003,420710005003
+240475,Average Sale Price 2017,5.004,420710005004
+194623,Average Sale Price 2017,6.001,420710006001
+112919,Average Sale Price 2017,6.002,420710006002
+196727,Average Sale Price 2017,6.003,420710006003
+167600,Average Sale Price 2017,6.004,420710006004
+118279,Average Sale Price 2017,7.001,420710007001
+141384,Average Sale Price 2017,7.002,420710007002
+148226,Average Sale Price 2017,7.003,420710007003
+95367,Average Sale Price 2017,8.001,420710008001
+74143,Average Sale Price 2017,8.002,420710008002
+61186,Average Sale Price 2017,8.003,420710008003
+84200,Average Sale Price 2017,8.004,420710008004
+66944,Average Sale Price 2017,9.001,420710009001
+62366,Average Sale Price 2017,9.002,420710009002
+109900,Average Sale Price 2017,9.003,420710009003
+117058,Average Sale Price 2017,9.004,420710009004
+53946,Average Sale Price 2017,10.001,420710010001
+88924,Average Sale Price 2017,10.002,420710010002
+93978,Average Sale Price 2017,10.003,420710010003
+70770,Average Sale Price 2017,10.004,420710010004
+91972,Average Sale Price 2017,11.001,420710011001
+89380,Average Sale Price 2017,11.002,420710011002
+88541,Average Sale Price 2017,11.003,420710011003
+87022,Average Sale Price 2017,12.001,420710012001
+115197,Average Sale Price 2017,12.002,420710012002
+110300,Average Sale Price 2017,12.003,420710012003
+113507,Average Sale Price 2017,12.004,420710012004
+57616,Average Sale Price 2017,14.001,420710014001
+62683,Average Sale Price 2017,14.002,420710014002
+93684,Average Sale Price 2017,14.003,420710014003
+89154,Average Sale Price 2017,14.004,420710014004
+NA,Average Sale Price 2017,118.052,420710118052
+47281,Average Sale Price 2017,147.001,420710147001
+55938,Average Sale Price 2017,147.002,420710147002
+65589,Average Sale Price 2017,147.003,420710147003
+NA,Change in Sale Price 2007 - 2017,1.001,420710001001
+NA,Change in Sale Price 2007 - 2017,1.002,420710001002
+157167,Change in Sale Price 2007 - 2017,1.003,420710001003
+-3383,Change in Sale Price 2007 - 2017,2.001,420710002001
+41028,Change in Sale Price 2007 - 2017,2.002,420710002002
+21229,Change in Sale Price 2007 - 2017,3.001,420710003001
+17381,Change in Sale Price 2007 - 2017,3.002,420710003002
+43931,Change in Sale Price 2007 - 2017,3.003,420710003003
+47694,Change in Sale Price 2007 - 2017,3.004,420710003004
+-128,Change in Sale Price 2007 - 2017,4.001,420710004001
+12831,Change in Sale Price 2007 - 2017,4.002,420710004002
+68939,Change in Sale Price 2007 - 2017,4.003,420710004003
+66010,Change in Sale Price 2007 - 2017,4.004,420710004004
+51874,Change in Sale Price 2007 - 2017,5.001,420710005001
+8888,Change in Sale Price 2007 - 2017,5.002,420710005002
+48224,Change in Sale Price 2007 - 2017,5.003,420710005003
+60475,Change in Sale Price 2007 - 2017,5.004,420710005004
+-23961,Change in Sale Price 2007 - 2017,6.001,420710006001
+57727,Change in Sale Price 2007 - 2017,6.002,420710006002
+-761,Change in Sale Price 2007 - 2017,6.003,420710006003
+-52588,Change in Sale Price 2007 - 2017,6.004,420710006004
+22025,Change in Sale Price 2007 - 2017,7.001,420710007001
+-10216,Change in Sale Price 2007 - 2017,7.002,420710007002
+-24240,Change in Sale Price 2007 - 2017,7.003,420710007003
+32117,Change in Sale Price 2007 - 2017,8.001,420710008001
+2053,Change in Sale Price 2007 - 2017,8.002,420710008002
+-7552,Change in Sale Price 2007 - 2017,8.003,420710008003
+9200,Change in Sale Price 2007 - 2017,8.004,420710008004
+5430,Change in Sale Price 2007 - 2017,9.001,420710009001
+-33035,Change in Sale Price 2007 - 2017,9.002,420710009002
+51900,Change in Sale Price 2007 - 2017,9.003,420710009003
+19342,Change in Sale Price 2007 - 2017,9.004,420710009004
+-2104,Change in Sale Price 2007 - 2017,10.001,420710010001
+22649,Change in Sale Price 2007 - 2017,10.002,420710010002
+16940,Change in Sale Price 2007 - 2017,10.003,420710010003
+2362,Change in Sale Price 2007 - 2017,10.004,420710010004
+18551,Change in Sale Price 2007 - 2017,11.001,420710011001
+1203,Change in Sale Price 2007 - 2017,11.002,420710011002
+2082,Change in Sale Price 2007 - 2017,11.003,420710011003
+-4577,Change in Sale Price 2007 - 2017,12.001,420710012001
+9844,Change in Sale Price 2007 - 2017,12.002,420710012002
+8931,Change in Sale Price 2007 - 2017,12.003,420710012003
+27463,Change in Sale Price 2007 - 2017,12.004,420710012004
+8179,Change in Sale Price 2007 - 2017,14.001,420710014001
+15731,Change in Sale Price 2007 - 2017,14.002,420710014002
+28660,Change in Sale Price 2007 - 2017,14.003,420710014003
+16324,Change in Sale Price 2007 - 2017,14.004,420710014004
+NA,Change in Sale Price 2007 - 2017,118.052,420710118052
+-38978,Change in Sale Price 2007 - 2017,147.001,420710147001
+-56605,Change in Sale Price 2007 - 2017,147.002,420710147002
+20070,Change in Sale Price 2007 - 2017,147.003,420710147003
+226,Count of All Parcels,1.001,420710001001
+281,Count of All Parcels,1.002,420710001002
+399,Count of All Parcels,1.003,420710001003
+541,Count of All Parcels,2.001,420710002001
+487,Count of All Parcels,2.002,420710002002
+391,Count of All Parcels,3.001,420710003001
+415,Count of All Parcels,3.002,420710003002
+438,Count of All Parcels,3.003,420710003003
+418,Count of All Parcels,3.004,420710003004
+400,Count of All Parcels,4.001,420710004001
+261,Count of All Parcels,4.002,420710004002
+373,Count of All Parcels,4.003,420710004003
+236,Count of All Parcels,4.004,420710004004
+338,Count of All Parcels,5.001,420710005001
+401,Count of All Parcels,5.002,420710005002
+323,Count of All Parcels,5.003,420710005003
+189,Count of All Parcels,5.004,420710005004
+276,Count of All Parcels,6.001,420710006001
+259,Count of All Parcels,6.002,420710006002
+324,Count of All Parcels,6.003,420710006003
+377,Count of All Parcels,6.004,420710006004
+271,Count of All Parcels,7.001,420710007001
+257,Count of All Parcels,7.002,420710007002
+310,Count of All Parcels,7.003,420710007003
+246,Count of All Parcels,8.001,420710008001
+247,Count of All Parcels,8.002,420710008002
+196,Count of All Parcels,8.003,420710008003
+94,Count of All Parcels,8.004,420710008004
+160,Count of All Parcels,9.001,420710009001
+225,Count of All Parcels,9.002,420710009002
+75,Count of All Parcels,9.003,420710009003
+422,Count of All Parcels,9.004,420710009004
+312,Count of All Parcels,10.001,420710010001
+274,Count of All Parcels,10.002,420710010002
+335,Count of All Parcels,10.003,420710010003
+266,Count of All Parcels,10.004,420710010004
+414,Count of All Parcels,11.001,420710011001
+463,Count of All Parcels,11.002,420710011002
+356,Count of All Parcels,11.003,420710011003
+449,Count of All Parcels,12.001,420710012001
+718,Count of All Parcels,12.002,420710012002
+431,Count of All Parcels,12.003,420710012003
+373,Count of All Parcels,12.004,420710012004
+289,Count of All Parcels,14.001,420710014001
+475,Count of All Parcels,14.002,420710014002
+456,Count of All Parcels,14.003,420710014003
+387,Count of All Parcels,14.004,420710014004
+142,Count of All Parcels,118.052,420710118052
+482,Count of All Parcels,147.001,420710147001
+272,Count of All Parcels,147.002,420710147002
+396,Count of All Parcels,147.003,420710147003
+142,Count of all Rental Properties,1.001,420710001001
+207,Count of all Rental Properties,1.002,420710001002
+307,Count of all Rental Properties,1.003,420710001003
+166,Count of all Rental Properties,2.001,420710002001
+190,Count of all Rental Properties,2.002,420710002002
+102,Count of all Rental Properties,3.001,420710003001
+128,Count of all Rental Properties,3.002,420710003002
+216,Count of all Rental Properties,3.003,420710003003
+168,Count of all Rental Properties,3.004,420710003004
+188,Count of all Rental Properties,4.001,420710004001
+190,Count of all Rental Properties,4.002,420710004002
+232,Count of all Rental Properties,4.003,420710004003
+149,Count of all Rental Properties,4.004,420710004004
+182,Count of all Rental Properties,5.001,420710005001
+227,Count of all Rental Properties,5.002,420710005002
+140,Count of all Rental Properties,5.003,420710005003
+45,Count of all Rental Properties,5.004,420710005004
+99,Count of all Rental Properties,6.001,420710006001
+166,Count of all Rental Properties,6.002,420710006002
+138,Count of all Rental Properties,6.003,420710006003
+174,Count of all Rental Properties,6.004,420710006004
+107,Count of all Rental Properties,7.001,420710007001
+101,Count of all Rental Properties,7.002,420710007002
+177,Count of all Rental Properties,7.003,420710007003
+146,Count of all Rental Properties,8.001,420710008001
+75,Count of all Rental Properties,8.002,420710008002
+78,Count of all Rental Properties,8.003,420710008003
+57,Count of all Rental Properties,8.004,420710008004
+98,Count of all Rental Properties,9.001,420710009001
+162,Count of all Rental Properties,9.002,420710009002
+50,Count of all Rental Properties,9.003,420710009003
+230,Count of all Rental Properties,9.004,420710009004
+206,Count of all Rental Properties,10.001,420710010001
+206,Count of all Rental Properties,10.002,420710010002
+173,Count of all Rental Properties,10.003,420710010003
+144,Count of all Rental Properties,10.004,420710010004
+219,Count of all Rental Properties,11.001,420710011001
+158,Count of all Rental Properties,11.002,420710011002
+168,Count of all Rental Properties,11.003,420710011003
+130,Count of all Rental Properties,12.001,420710012001
+111,Count of all Rental Properties,12.002,420710012002
+82,Count of all Rental Properties,12.003,420710012003
+145,Count of all Rental Properties,12.004,420710012004
+191,Count of all Rental Properties,14.001,420710014001
+322,Count of all Rental Properties,14.002,420710014002
+216,Count of all Rental Properties,14.003,420710014003
+205,Count of all Rental Properties,14.004,420710014004
+113,Count of all Rental Properties,118.052,420710118052
+269,Count of all Rental Properties,147.001,420710147001
+148,Count of all Rental Properties,147.002,420710147002
+201,Count of all Rental Properties,147.003,420710147003
+0,Count of Condemnations 2007 - 2017,1.001,420710001001
+0,Count of Condemnations 2007 - 2017,1.002,420710001002
+0,Count of Condemnations 2007 - 2017,1.003,420710001003
+4,Count of Condemnations 2007 - 2017,2.001,420710002001
+7,Count of Condemnations 2007 - 2017,2.002,420710002002
+0,Count of Condemnations 2007 - 2017,3.001,420710003001
+2,Count of Condemnations 2007 - 2017,3.002,420710003002
+6,Count of Condemnations 2007 - 2017,3.003,420710003003
+2,Count of Condemnations 2007 - 2017,3.004,420710003004
+0,Count of Condemnations 2007 - 2017,4.001,420710004001
+1,Count of Condemnations 2007 - 2017,4.002,420710004002
+0,Count of Condemnations 2007 - 2017,4.003,420710004003
+1,Count of Condemnations 2007 - 2017,4.004,420710004004
+1,Count of Condemnations 2007 - 2017,5.001,420710005001
+3,Count of Condemnations 2007 - 2017,5.002,420710005002
+0,Count of Condemnations 2007 - 2017,5.003,420710005003
+0,Count of Condemnations 2007 - 2017,5.004,420710005004
+0,Count of Condemnations 2007 - 2017,6.001,420710006001
+1,Count of Condemnations 2007 - 2017,6.002,420710006002
+1,Count of Condemnations 2007 - 2017,6.003,420710006003
+1,Count of Condemnations 2007 - 2017,6.004,420710006004
+4,Count of Condemnations 2007 - 2017,7.001,420710007001
+1,Count of Condemnations 2007 - 2017,7.002,420710007002
+2,Count of Condemnations 2007 - 2017,7.003,420710007003
+1,Count of Condemnations 2007 - 2017,8.001,420710008001
+3,Count of Condemnations 2007 - 2017,8.002,420710008002
+0,Count of Condemnations 2007 - 2017,8.003,420710008003
+5,Count of Condemnations 2007 - 2017,8.004,420710008004
+3,Count of Condemnations 2007 - 2017,9.001,420710009001
+1,Count of Condemnations 2007 - 2017,9.002,420710009002
+1,Count of Condemnations 2007 - 2017,9.003,420710009003
+8,Count of Condemnations 2007 - 2017,9.004,420710009004
+6,Count of Condemnations 2007 - 2017,10.001,420710010001
+6,Count of Condemnations 2007 - 2017,10.002,420710010002
+3,Count of Condemnations 2007 - 2017,10.003,420710010003
+2,Count of Condemnations 2007 - 2017,10.004,420710010004
+4,Count of Condemnations 2007 - 2017,11.001,420710011001
+2,Count of Condemnations 2007 - 2017,11.002,420710011002
+2,Count of Condemnations 2007 - 2017,11.003,420710011003
+0,Count of Condemnations 2007 - 2017,12.001,420710012001
+1,Count of Condemnations 2007 - 2017,12.002,420710012002
+0,Count of Condemnations 2007 - 2017,12.003,420710012003
+0,Count of Condemnations 2007 - 2017,12.004,420710012004
+5,Count of Condemnations 2007 - 2017,14.001,420710014001
+10,Count of Condemnations 2007 - 2017,14.002,420710014002
+11,Count of Condemnations 2007 - 2017,14.003,420710014003
+3,Count of Condemnations 2007 - 2017,14.004,420710014004
+0,Count of Condemnations 2007 - 2017,118.052,420710118052
+10,Count of Condemnations 2007 - 2017,147.001,420710147001
+1,Count of Condemnations 2007 - 2017,147.002,420710147002
+8,Count of Condemnations 2007 - 2017,147.003,420710147003
+181,Count of Parcels owned by a City Resident,1.001,420710001001
+228,Count of Parcels owned by a City Resident,1.002,420710001002
+337,Count of Parcels owned by a City Resident,1.003,420710001003
+479,Count of Parcels owned by a City Resident,2.001,420710002001
+410,Count of Parcels owned by a City Resident,2.002,420710002002
+355,Count of Parcels owned by a City Resident,3.001,420710003001
+362,Count of Parcels owned by a City Resident,3.002,420710003002
+348,Count of Parcels owned by a City Resident,3.003,420710003003
+344,Count of Parcels owned by a City Resident,3.004,420710003004
+322,Count of Parcels owned by a City Resident,4.001,420710004001
+185,Count of Parcels owned by a City Resident,4.002,420710004002
+298,Count of Parcels owned by a City Resident,4.003,420710004003
+204,Count of Parcels owned by a City Resident,4.004,420710004004
+281,Count of Parcels owned by a City Resident,5.001,420710005001
+318,Count of Parcels owned by a City Resident,5.002,420710005002
+265,Count of Parcels owned by a City Resident,5.003,420710005003
+179,Count of Parcels owned by a City Resident,5.004,420710005004
+249,Count of Parcels owned by a City Resident,6.001,420710006001
+180,Count of Parcels owned by a City Resident,6.002,420710006002
+271,Count of Parcels owned by a City Resident,6.003,420710006003
+290,Count of Parcels owned by a City Resident,6.004,420710006004
+224,Count of Parcels owned by a City Resident,7.001,420710007001
+214,Count of Parcels owned by a City Resident,7.002,420710007002
+252,Count of Parcels owned by a City Resident,7.003,420710007003
+193,Count of Parcels owned by a City Resident,8.001,420710008001
+226,Count of Parcels owned by a City Resident,8.002,420710008002
+175,Count of Parcels owned by a City Resident,8.003,420710008003
+75,Count of Parcels owned by a City Resident,8.004,420710008004
+129,Count of Parcels owned by a City Resident,9.001,420710009001
+154,Count of Parcels owned by a City Resident,9.002,420710009002
+59,Count of Parcels owned by a City Resident,9.003,420710009003
+348,Count of Parcels owned by a City Resident,9.004,420710009004
+212,Count of Parcels owned by a City Resident,10.001,420710010001
+197,Count of Parcels owned by a City Resident,10.002,420710010002
+253,Count of Parcels owned by a City Resident,10.003,420710010003
+198,Count of Parcels owned by a City Resident,10.004,420710010004
+344,Count of Parcels owned by a City Resident,11.001,420710011001
+405,Count of Parcels owned by a City Resident,11.002,420710011002
+289,Count of Parcels owned by a City Resident,11.003,420710011003
+399,Count of Parcels owned by a City Resident,12.001,420710012001
+680,Count of Parcels owned by a City Resident,12.002,420710012002
+400,Count of Parcels owned by a City Resident,12.003,420710012003
+321,Count of Parcels owned by a City Resident,12.004,420710012004
+214,Count of Parcels owned by a City Resident,14.001,420710014001
+319,Count of Parcels owned by a City Resident,14.002,420710014002
+383,Count of Parcels owned by a City Resident,14.003,420710014003
+303,Count of Parcels owned by a City Resident,14.004,420710014004
+133,Count of Parcels owned by a City Resident,118.052,420710118052
+387,Count of Parcels owned by a City Resident,147.001,420710147001
+229,Count of Parcels owned by a City Resident,147.002,420710147002
+330,Count of Parcels owned by a City Resident,147.003,420710147003
+23,Count of Parcels owned by a County Resident,1.001,420710001001
+34,Count of Parcels owned by a County Resident,1.002,420710001002
+33,Count of Parcels owned by a County Resident,1.003,420710001003
+39,Count of Parcels owned by a County Resident,2.001,420710002001
+48,Count of Parcels owned by a County Resident,2.002,420710002002
+28,Count of Parcels owned by a County Resident,3.001,420710003001
+39,Count of Parcels owned by a County Resident,3.002,420710003002
+65,Count of Parcels owned by a County Resident,3.003,420710003003
+52,Count of Parcels owned by a County Resident,3.004,420710003004
+53,Count of Parcels owned by a County Resident,4.001,420710004001
+59,Count of Parcels owned by a County Resident,4.002,420710004002
+47,Count of Parcels owned by a County Resident,4.003,420710004003
+19,Count of Parcels owned by a County Resident,4.004,420710004004
+32,Count of Parcels owned by a County Resident,5.001,420710005001
+38,Count of Parcels owned by a County Resident,5.002,420710005002
+40,Count of Parcels owned by a County Resident,5.003,420710005003
+3,Count of Parcels owned by a County Resident,5.004,420710005004
+17,Count of Parcels owned by a County Resident,6.001,420710006001
+58,Count of Parcels owned by a County Resident,6.002,420710006002
+33,Count of Parcels owned by a County Resident,6.003,420710006003
+48,Count of Parcels owned by a County Resident,6.004,420710006004
+38,Count of Parcels owned by a County Resident,7.001,420710007001
+29,Count of Parcels owned by a County Resident,7.002,420710007002
+30,Count of Parcels owned by a County Resident,7.003,420710007003
+34,Count of Parcels owned by a County Resident,8.001,420710008001
+16,Count of Parcels owned by a County Resident,8.002,420710008002
+16,Count of Parcels owned by a County Resident,8.003,420710008003
+13,Count of Parcels owned by a County Resident,8.004,420710008004
+22,Count of Parcels owned by a County Resident,9.001,420710009001
+40,Count of Parcels owned by a County Resident,9.002,420710009002
+9,Count of Parcels owned by a County Resident,9.003,420710009003
+54,Count of Parcels owned by a County Resident,9.004,420710009004
+75,Count of Parcels owned by a County Resident,10.001,420710010001
+59,Count of Parcels owned by a County Resident,10.002,420710010002
+54,Count of Parcels owned by a County Resident,10.003,420710010003
+50,Count of Parcels owned by a County Resident,10.004,420710010004
+50,Count of Parcels owned by a County Resident,11.001,420710011001
+33,Count of Parcels owned by a County Resident,11.002,420710011002
+54,Count of Parcels owned by a County Resident,11.003,420710011003
+34,Count of Parcels owned by a County Resident,12.001,420710012001
+28,Count of Parcels owned by a County Resident,12.002,420710012002
+19,Count of Parcels owned by a County Resident,12.003,420710012003
+41,Count of Parcels owned by a County Resident,12.004,420710012004
+57,Count of Parcels owned by a County Resident,14.001,420710014001
+118,Count of Parcels owned by a County Resident,14.002,420710014002
+53,Count of Parcels owned by a County Resident,14.003,420710014003
+61,Count of Parcels owned by a County Resident,14.004,420710014004
+2,Count of Parcels owned by a County Resident,118.052,420710118052
+71,Count of Parcels owned by a County Resident,147.001,420710147001
+30,Count of Parcels owned by a County Resident,147.002,420710147002
+37,Count of Parcels owned by a County Resident,147.003,420710147003
+16,Count of Parcels owned by a State Resident,1.001,420710001001
+12,Count of Parcels owned by a State Resident,1.002,420710001002
+11,Count of Parcels owned by a State Resident,1.003,420710001003
+11,Count of Parcels owned by a State Resident,2.001,420710002001
+12,Count of Parcels owned by a State Resident,2.002,420710002002
+4,Count of Parcels owned by a State Resident,3.001,420710003001
+11,Count of Parcels owned by a State Resident,3.002,420710003002
+17,Count of Parcels owned by a State Resident,3.003,420710003003
+11,Count of Parcels owned by a State Resident,3.004,420710003004
+11,Count of Parcels owned by a State Resident,4.001,420710004001
+12,Count of Parcels owned by a State Resident,4.002,420710004002
+14,Count of Parcels owned by a State Resident,4.003,420710004003
+7,Count of Parcels owned by a State Resident,4.004,420710004004
+16,Count of Parcels owned by a State Resident,5.001,420710005001
+30,Count of Parcels owned by a State Resident,5.002,420710005002
+7,Count of Parcels owned by a State Resident,5.003,420710005003
+2,Count of Parcels owned by a State Resident,5.004,420710005004
+4,Count of Parcels owned by a State Resident,6.001,420710006001
+10,Count of Parcels owned by a State Resident,6.002,420710006002
+11,Count of Parcels owned by a State Resident,6.003,420710006003
+19,Count of Parcels owned by a State Resident,6.004,420710006004
+5,Count of Parcels owned by a State Resident,7.001,420710007001
+7,Count of Parcels owned by a State Resident,7.002,420710007002
+11,Count of Parcels owned by a State Resident,7.003,420710007003
+10,Count of Parcels owned by a State Resident,8.001,420710008001
+2,Count of Parcels owned by a State Resident,8.002,420710008002
+3,Count of Parcels owned by a State Resident,8.003,420710008003
+0,Count of Parcels owned by a State Resident,8.004,420710008004
+6,Count of Parcels owned by a State Resident,9.001,420710009001
+16,Count of Parcels owned by a State Resident,9.002,420710009002
+2,Count of Parcels owned by a State Resident,9.003,420710009003
+12,Count of Parcels owned by a State Resident,9.004,420710009004
+8,Count of Parcels owned by a State Resident,10.001,420710010001
+7,Count of Parcels owned by a State Resident,10.002,420710010002
+14,Count of Parcels owned by a State Resident,10.003,420710010003
+8,Count of Parcels owned by a State Resident,10.004,420710010004
+9,Count of Parcels owned by a State Resident,11.001,420710011001
+10,Count of Parcels owned by a State Resident,11.002,420710011002
+6,Count of Parcels owned by a State Resident,11.003,420710011003
+8,Count of Parcels owned by a State Resident,12.001,420710012001
+5,Count of Parcels owned by a State Resident,12.002,420710012002
+3,Count of Parcels owned by a State Resident,12.003,420710012003
+4,Count of Parcels owned by a State Resident,12.004,420710012004
+9,Count of Parcels owned by a State Resident,14.001,420710014001
+17,Count of Parcels owned by a State Resident,14.002,420710014002
+8,Count of Parcels owned by a State Resident,14.003,420710014003
+10,Count of Parcels owned by a State Resident,14.004,420710014004
+1,Count of Parcels owned by a State Resident,118.052,420710118052
+9,Count of Parcels owned by a State Resident,147.001,420710147001
+2,Count of Parcels owned by a State Resident,147.002,420710147002
+9,Count of Parcels owned by a State Resident,147.003,420710147003
+6,Count of Parcels owned by a US Resident (not PA),1.001,420710001001
+7,Count of Parcels owned by a US Resident (not PA),1.002,420710001002
+18,Count of Parcels owned by a US Resident (not PA),1.003,420710001003
+12,Count of Parcels owned by a US Resident (not PA),2.001,420710002001
+17,Count of Parcels owned by a US Resident (not PA),2.002,420710002002
+4,Count of Parcels owned by a US Resident (not PA),3.001,420710003001
+3,Count of Parcels owned by a US Resident (not PA),3.002,420710003002
+8,Count of Parcels owned by a US Resident (not PA),3.003,420710003003
+11,Count of Parcels owned by a US Resident (not PA),3.004,420710003004
+14,Count of Parcels owned by a US Resident (not PA),4.001,420710004001
+5,Count of Parcels owned by a US Resident (not PA),4.002,420710004002
+14,Count of Parcels owned by a US Resident (not PA),4.003,420710004003
+6,Count of Parcels owned by a US Resident (not PA),4.004,420710004004
+9,Count of Parcels owned by a US Resident (not PA),5.001,420710005001
+15,Count of Parcels owned by a US Resident (not PA),5.002,420710005002
+11,Count of Parcels owned by a US Resident (not PA),5.003,420710005003
+5,Count of Parcels owned by a US Resident (not PA),5.004,420710005004
+6,Count of Parcels owned by a US Resident (not PA),6.001,420710006001
+11,Count of Parcels owned by a US Resident (not PA),6.002,420710006002
+9,Count of Parcels owned by a US Resident (not PA),6.003,420710006003
+20,Count of Parcels owned by a US Resident (not PA),6.004,420710006004
+4,Count of Parcels owned by a US Resident (not PA),7.001,420710007001
+7,Count of Parcels owned by a US Resident (not PA),7.002,420710007002
+17,Count of Parcels owned by a US Resident (not PA),7.003,420710007003
+9,Count of Parcels owned by a US Resident (not PA),8.001,420710008001
+3,Count of Parcels owned by a US Resident (not PA),8.002,420710008002
+2,Count of Parcels owned by a US Resident (not PA),8.003,420710008003
+6,Count of Parcels owned by a US Resident (not PA),8.004,420710008004
+3,Count of Parcels owned by a US Resident (not PA),9.001,420710009001
+15,Count of Parcels owned by a US Resident (not PA),9.002,420710009002
+5,Count of Parcels owned by a US Resident (not PA),9.003,420710009003
+8,Count of Parcels owned by a US Resident (not PA),9.004,420710009004
+17,Count of Parcels owned by a US Resident (not PA),10.001,420710010001
+11,Count of Parcels owned by a US Resident (not PA),10.002,420710010002
+14,Count of Parcels owned by a US Resident (not PA),10.003,420710010003
+10,Count of Parcels owned by a US Resident (not PA),10.004,420710010004
+11,Count of Parcels owned by a US Resident (not PA),11.001,420710011001
+15,Count of Parcels owned by a US Resident (not PA),11.002,420710011002
+7,Count of Parcels owned by a US Resident (not PA),11.003,420710011003
+8,Count of Parcels owned by a US Resident (not PA),12.001,420710012001
+5,Count of Parcels owned by a US Resident (not PA),12.002,420710012002
+9,Count of Parcels owned by a US Resident (not PA),12.003,420710012003
+7,Count of Parcels owned by a US Resident (not PA),12.004,420710012004
+9,Count of Parcels owned by a US Resident (not PA),14.001,420710014001
+21,Count of Parcels owned by a US Resident (not PA),14.002,420710014002
+12,Count of Parcels owned by a US Resident (not PA),14.003,420710014003
+13,Count of Parcels owned by a US Resident (not PA),14.004,420710014004
+6,Count of Parcels owned by a US Resident (not PA),118.052,420710118052
+15,Count of Parcels owned by a US Resident (not PA),147.001,420710147001
+11,Count of Parcels owned by a US Resident (not PA),147.002,420710147002
+20,Count of Parcels owned by a US Resident (not PA),147.003,420710147003
+28,Count of Single Family Properties,1.001,420710001001
+18,Count of Single Family Properties,1.002,420710001002
+108,Count of Single Family Properties,1.003,420710001003
+498,Count of Single Family Properties,2.001,420710002001
+323,Count of Single Family Properties,2.002,420710002002
+344,Count of Single Family Properties,3.001,420710003001
+374,Count of Single Family Properties,3.002,420710003002
+331,Count of Single Family Properties,3.003,420710003003
+319,Count of Single Family Properties,3.004,420710003004
+273,Count of Single Family Properties,4.001,420710004001
+136,Count of Single Family Properties,4.002,420710004002
+112,Count of Single Family Properties,4.003,420710004003
+90,Count of Single Family Properties,4.004,420710004004
+256,Count of Single Family Properties,5.001,420710005001
+271,Count of Single Family Properties,5.002,420710005002
+223,Count of Single Family Properties,5.003,420710005003
+149,Count of Single Family Properties,5.004,420710005004
+198,Count of Single Family Properties,6.001,420710006001
+142,Count of Single Family Properties,6.002,420710006002
+210,Count of Single Family Properties,6.003,420710006003
+135,Count of Single Family Properties,6.004,420710006004
+211,Count of Single Family Properties,7.001,420710007001
+183,Count of Single Family Properties,7.002,420710007002
+182,Count of Single Family Properties,7.003,420710007003
+161,Count of Single Family Properties,8.001,420710008001
+220,Count of Single Family Properties,8.002,420710008002
+152,Count of Single Family Properties,8.003,420710008003
+61,Count of Single Family Properties,8.004,420710008004
+104,Count of Single Family Properties,9.001,420710009001
+173,Count of Single Family Properties,9.002,420710009002
+54,Count of Single Family Properties,9.003,420710009003
+340,Count of Single Family Properties,9.004,420710009004
+230,Count of Single Family Properties,10.001,420710010001
+220,Count of Single Family Properties,10.002,420710010002
+268,Count of Single Family Properties,10.003,420710010003
+211,Count of Single Family Properties,10.004,420710010004
+295,Count of Single Family Properties,11.001,420710011001
+435,Count of Single Family Properties,11.002,420710011002
+305,Count of Single Family Properties,11.003,420710011003
+414,Count of Single Family Properties,12.001,420710012001
+690,Count of Single Family Properties,12.002,420710012002
+418,Count of Single Family Properties,12.003,420710012003
+315,Count of Single Family Properties,12.004,420710012004
+170,Count of Single Family Properties,14.001,420710014001
+381,Count of Single Family Properties,14.002,420710014002
+356,Count of Single Family Properties,14.003,420710014003
+325,Count of Single Family Properties,14.004,420710014004
+16,Count of Single Family Properties,118.052,420710118052
+403,Count of Single Family Properties,147.001,420710147001
+224,Count of Single Family Properties,147.002,420710147002
+328,Count of Single Family Properties,147.003,420710147003
+NA,Percent Change in Sale Price 2007 - 2017,1.001,420710001001
+NA,Percent Change in Sale Price 2007 - 2017,1.002,420710001002
+3.66,Percent Change in Sale Price 2007 - 2017,1.003,420710001003
+-0.04,Percent Change in Sale Price 2007 - 2017,2.001,420710002001
+0.5,Percent Change in Sale Price 2007 - 2017,2.002,420710002002
+0.21,Percent Change in Sale Price 2007 - 2017,3.001,420710003001
+0.2,Percent Change in Sale Price 2007 - 2017,3.002,420710003002
+0.45,Percent Change in Sale Price 2007 - 2017,3.003,420710003003
+0.52,Percent Change in Sale Price 2007 - 2017,3.004,420710003004
+0,Percent Change in Sale Price 2007 - 2017,4.001,420710004001
+0.16,Percent Change in Sale Price 2007 - 2017,4.002,420710004002
+0.76,Percent Change in Sale Price 2007 - 2017,4.003,420710004003
+0.64,Percent Change in Sale Price 2007 - 2017,4.004,420710004004
+0.56,Percent Change in Sale Price 2007 - 2017,5.001,420710005001
+0.07,Percent Change in Sale Price 2007 - 2017,5.002,420710005002
+0.45,Percent Change in Sale Price 2007 - 2017,5.003,420710005003
+0.34,Percent Change in Sale Price 2007 - 2017,5.004,420710005004
+-0.11,Percent Change in Sale Price 2007 - 2017,6.001,420710006001
+1.05,Percent Change in Sale Price 2007 - 2017,6.002,420710006002
+0,Percent Change in Sale Price 2007 - 2017,6.003,420710006003
+-0.24,Percent Change in Sale Price 2007 - 2017,6.004,420710006004
+0.23,Percent Change in Sale Price 2007 - 2017,7.001,420710007001
+-0.07,Percent Change in Sale Price 2007 - 2017,7.002,420710007002
+-0.14,Percent Change in Sale Price 2007 - 2017,7.003,420710007003
+0.51,Percent Change in Sale Price 2007 - 2017,8.001,420710008001
+0.03,Percent Change in Sale Price 2007 - 2017,8.002,420710008002
+-0.11,Percent Change in Sale Price 2007 - 2017,8.003,420710008003
+0.12,Percent Change in Sale Price 2007 - 2017,8.004,420710008004
+0.09,Percent Change in Sale Price 2007 - 2017,9.001,420710009001
+-0.35,Percent Change in Sale Price 2007 - 2017,9.002,420710009002
+0.89,Percent Change in Sale Price 2007 - 2017,9.003,420710009003
+0.2,Percent Change in Sale Price 2007 - 2017,9.004,420710009004
+-0.04,Percent Change in Sale Price 2007 - 2017,10.001,420710010001
+0.34,Percent Change in Sale Price 2007 - 2017,10.002,420710010002
+0.22,Percent Change in Sale Price 2007 - 2017,10.003,420710010003
+0.03,Percent Change in Sale Price 2007 - 2017,10.004,420710010004
+0.25,Percent Change in Sale Price 2007 - 2017,11.001,420710011001
+0.01,Percent Change in Sale Price 2007 - 2017,11.002,420710011002
+0.02,Percent Change in Sale Price 2007 - 2017,11.003,420710011003
+-0.05,Percent Change in Sale Price 2007 - 2017,12.001,420710012001
+0.09,Percent Change in Sale Price 2007 - 2017,12.002,420710012002
+0.09,Percent Change in Sale Price 2007 - 2017,12.003,420710012003
+0.32,Percent Change in Sale Price 2007 - 2017,12.004,420710012004
+0.17,Percent Change in Sale Price 2007 - 2017,14.001,420710014001
+0.34,Percent Change in Sale Price 2007 - 2017,14.002,420710014002
+0.44,Percent Change in Sale Price 2007 - 2017,14.003,420710014003
+0.22,Percent Change in Sale Price 2007 - 2017,14.004,420710014004
+NA,Percent Change in Sale Price 2007 - 2017,118.052,420710118052
+-0.45,Percent Change in Sale Price 2007 - 2017,147.001,420710147001
+-0.5,Percent Change in Sale Price 2007 - 2017,147.002,420710147002
+0.44,Percent Change in Sale Price 2007 - 2017,147.003,420710147003
+763,Total Count of Closed Violations,1.001,420710001001
+608,Total Count of Closed Violations,1.002,420710001002
+1483,Total Count of Closed Violations,1.003,420710001003
+2192,Total Count of Closed Violations,2.001,420710002001
+1724,Total Count of Closed Violations,2.002,420710002002
+964,Total Count of Closed Violations,3.001,420710003001
+1512,Total Count of Closed Violations,3.002,420710003002
+2016,Total Count of Closed Violations,3.003,420710003003
+2362,Total Count of Closed Violations,3.004,420710003004
+1896,Total Count of Closed Violations,4.001,420710004001
+1324,Total Count of Closed Violations,4.002,420710004002
+1664,Total Count of Closed Violations,4.003,420710004003
+494,Total Count of Closed Violations,4.004,420710004004
+1398,Total Count of Closed Violations,5.001,420710005001
+2102,Total Count of Closed Violations,5.002,420710005002
+1029,Total Count of Closed Violations,5.003,420710005003
+416,Total Count of Closed Violations,5.004,420710005004
+610,Total Count of Closed Violations,6.001,420710006001
+1364,Total Count of Closed Violations,6.002,420710006002
+1064,Total Count of Closed Violations,6.003,420710006003
+1155,Total Count of Closed Violations,6.004,420710006004
+1349,Total Count of Closed Violations,7.001,420710007001
+1038,Total Count of Closed Violations,7.002,420710007002
+1104,Total Count of Closed Violations,7.003,420710007003
+1800,Total Count of Closed Violations,8.001,420710008001
+1135,Total Count of Closed Violations,8.002,420710008002
+644,Total Count of Closed Violations,8.003,420710008003
+693,Total Count of Closed Violations,8.004,420710008004
+994,Total Count of Closed Violations,9.001,420710009001
+1260,Total Count of Closed Violations,9.002,420710009002
+303,Total Count of Closed Violations,9.003,420710009003
+2013,Total Count of Closed Violations,9.004,420710009004
+1955,Total Count of Closed Violations,10.001,420710010001
+1980,Total Count of Closed Violations,10.002,420710010002
+1571,Total Count of Closed Violations,10.003,420710010003
+1305,Total Count of Closed Violations,10.004,420710010004
+1828,Total Count of Closed Violations,11.001,420710011001
+1456,Total Count of Closed Violations,11.002,420710011002
+1280,Total Count of Closed Violations,11.003,420710011003
+930,Total Count of Closed Violations,12.001,420710012001
+1260,Total Count of Closed Violations,12.002,420710012002
+790,Total Count of Closed Violations,12.003,420710012003
+890,Total Count of Closed Violations,12.004,420710012004
+2051,Total Count of Closed Violations,14.001,420710014001
+3886,Total Count of Closed Violations,14.002,420710014002
+2637,Total Count of Closed Violations,14.003,420710014003
+2060,Total Count of Closed Violations,14.004,420710014004
+60,Total Count of Closed Violations,118.052,420710118052
+3014,Total Count of Closed Violations,147.001,420710147001
+1401,Total Count of Closed Violations,147.002,420710147002
+2482,Total Count of Closed Violations,147.003,420710147003
+25,Total Count of Open Code Violations,1.001,420710001001
+11,Total Count of Open Code Violations,1.002,420710001002
+23,Total Count of Open Code Violations,1.003,420710001003
+50,Total Count of Open Code Violations,2.001,420710002001
+16,Total Count of Open Code Violations,2.002,420710002002
+32,Total Count of Open Code Violations,3.001,420710003001
+45,Total Count of Open Code Violations,3.002,420710003002
+45,Total Count of Open Code Violations,3.003,420710003003
+53,Total Count of Open Code Violations,3.004,420710003004
+48,Total Count of Open Code Violations,4.001,420710004001
+30,Total Count of Open Code Violations,4.002,420710004002
+27,Total Count of Open Code Violations,4.003,420710004003
+18,Total Count of Open Code Violations,4.004,420710004004
+19,Total Count of Open Code Violations,5.001,420710005001
+42,Total Count of Open Code Violations,5.002,420710005002
+21,Total Count of Open Code Violations,5.003,420710005003
+6,Total Count of Open Code Violations,5.004,420710005004
+11,Total Count of Open Code Violations,6.001,420710006001
+13,Total Count of Open Code Violations,6.002,420710006002
+11,Total Count of Open Code Violations,6.003,420710006003
+19,Total Count of Open Code Violations,6.004,420710006004
+24,Total Count of Open Code Violations,7.001,420710007001
+12,Total Count of Open Code Violations,7.002,420710007002
+18,Total Count of Open Code Violations,7.003,420710007003
+13,Total Count of Open Code Violations,8.001,420710008001
+12,Total Count of Open Code Violations,8.002,420710008002
+5,Total Count of Open Code Violations,8.003,420710008003
+7,Total Count of Open Code Violations,8.004,420710008004
+11,Total Count of Open Code Violations,9.001,420710009001
+16,Total Count of Open Code Violations,9.002,420710009002
+3,Total Count of Open Code Violations,9.003,420710009003
+80,Total Count of Open Code Violations,9.004,420710009004
+75,Total Count of Open Code Violations,10.001,420710010001
+42,Total Count of Open Code Violations,10.002,420710010002
+31,Total Count of Open Code Violations,10.003,420710010003
+20,Total Count of Open Code Violations,10.004,420710010004
+37,Total Count of Open Code Violations,11.001,420710011001
+33,Total Count of Open Code Violations,11.002,420710011002
+23,Total Count of Open Code Violations,11.003,420710011003
+27,Total Count of Open Code Violations,12.001,420710012001
+24,Total Count of Open Code Violations,12.002,420710012002
+12,Total Count of Open Code Violations,12.003,420710012003
+5,Total Count of Open Code Violations,12.004,420710012004
+50,Total Count of Open Code Violations,14.001,420710014001
+64,Total Count of Open Code Violations,14.002,420710014002
+41,Total Count of Open Code Violations,14.003,420710014003
+44,Total Count of Open Code Violations,14.004,420710014004
+5,Total Count of Open Code Violations,118.052,420710118052
+64,Total Count of Open Code Violations,147.001,420710147001
+17,Total Count of Open Code Violations,147.002,420710147002
+20,Total Count of Open Code Violations,147.003,420710147003
+8,Total Count of Open Code Violations Older than a Year,1.001,420710001001
+11,Total Count of Open Code Violations Older than a Year,1.002,420710001002
+9,Total Count of Open Code Violations Older than a Year,1.003,420710001003
+16,Total Count of Open Code Violations Older than a Year,2.001,420710002001
+2,Total Count of Open Code Violations Older than a Year,2.002,420710002002
+6,Total Count of Open Code Violations Older than a Year,3.001,420710003001
+11,Total Count of Open Code Violations Older than a Year,3.002,420710003002
+10,Total Count of Open Code Violations Older than a Year,3.003,420710003003
+25,Total Count of Open Code Violations Older than a Year,3.004,420710003004
+23,Total Count of Open Code Violations Older than a Year,4.001,420710004001
+11,Total Count of Open Code Violations Older than a Year,4.002,420710004002
+16,Total Count of Open Code Violations Older than a Year,4.003,420710004003
+13,Total Count of Open Code Violations Older than a Year,4.004,420710004004
+9,Total Count of Open Code Violations Older than a Year,5.001,420710005001
+16,Total Count of Open Code Violations Older than a Year,5.002,420710005002
+5,Total Count of Open Code Violations Older than a Year,5.003,420710005003
+5,Total Count of Open Code Violations Older than a Year,5.004,420710005004
+5,Total Count of Open Code Violations Older than a Year,6.001,420710006001
+2,Total Count of Open Code Violations Older than a Year,6.002,420710006002
+5,Total Count of Open Code Violations Older than a Year,6.003,420710006003
+4,Total Count of Open Code Violations Older than a Year,6.004,420710006004
+3,Total Count of Open Code Violations Older than a Year,7.001,420710007001
+0,Total Count of Open Code Violations Older than a Year,7.002,420710007002
+4,Total Count of Open Code Violations Older than a Year,7.003,420710007003
+8,Total Count of Open Code Violations Older than a Year,8.001,420710008001
+7,Total Count of Open Code Violations Older than a Year,8.002,420710008002
+4,Total Count of Open Code Violations Older than a Year,8.003,420710008003
+4,Total Count of Open Code Violations Older than a Year,8.004,420710008004
+4,Total Count of Open Code Violations Older than a Year,9.001,420710009001
+8,Total Count of Open Code Violations Older than a Year,9.002,420710009002
+1,Total Count of Open Code Violations Older than a Year,9.003,420710009003
+18,Total Count of Open Code Violations Older than a Year,9.004,420710009004
+17,Total Count of Open Code Violations Older than a Year,10.001,420710010001
+16,Total Count of Open Code Violations Older than a Year,10.002,420710010002
+18,Total Count of Open Code Violations Older than a Year,10.003,420710010003
+4,Total Count of Open Code Violations Older than a Year,10.004,420710010004
+13,Total Count of Open Code Violations Older than a Year,11.001,420710011001
+17,Total Count of Open Code Violations Older than a Year,11.002,420710011002
+10,Total Count of Open Code Violations Older than a Year,11.003,420710011003
+12,Total Count of Open Code Violations Older than a Year,12.001,420710012001
+11,Total Count of Open Code Violations Older than a Year,12.002,420710012002
+6,Total Count of Open Code Violations Older than a Year,12.003,420710012003
+2,Total Count of Open Code Violations Older than a Year,12.004,420710012004
+24,Total Count of Open Code Violations Older than a Year,14.001,420710014001
+26,Total Count of Open Code Violations Older than a Year,14.002,420710014002
+21,Total Count of Open Code Violations Older than a Year,14.003,420710014003
+14,Total Count of Open Code Violations Older than a Year,14.004,420710014004
+5,Total Count of Open Code Violations Older than a Year,118.052,420710118052
+32,Total Count of Open Code Violations Older than a Year,147.001,420710147001
+8,Total Count of Open Code Violations Older than a Year,147.002,420710147002
+8,Total Count of Open Code Violations Older than a Year,147.003,420710147003
+0.123893805,Percent of Single Family Properties,1.001,420710001001
+0.06405694,Percent of Single Family Properties,1.002,420710001002
+0.270676692,Percent of Single Family Properties,1.003,420710001003
+0.92051756,Percent of Single Family Properties,2.001,420710002001
+0.663244353,Percent of Single Family Properties,2.002,420710002002
+0.879795396,Percent of Single Family Properties,3.001,420710003001
+0.901204819,Percent of Single Family Properties,3.002,420710003002
+0.755707763,Percent of Single Family Properties,3.003,420710003003
+0.763157895,Percent of Single Family Properties,3.004,420710003004
+0.6825,Percent of Single Family Properties,4.001,420710004001
+0.521072797,Percent of Single Family Properties,4.002,420710004002
+0.300268097,Percent of Single Family Properties,4.003,420710004003
+0.381355932,Percent of Single Family Properties,4.004,420710004004
+0.75739645,Percent of Single Family Properties,5.001,420710005001
+0.675810474,Percent of Single Family Properties,5.002,420710005002
+0.690402477,Percent of Single Family Properties,5.003,420710005003
+0.788359788,Percent of Single Family Properties,5.004,420710005004
+0.717391304,Percent of Single Family Properties,6.001,420710006001
+0.548262548,Percent of Single Family Properties,6.002,420710006002
+0.648148148,Percent of Single Family Properties,6.003,420710006003
+0.358090186,Percent of Single Family Properties,6.004,420710006004
+0.778597786,Percent of Single Family Properties,7.001,420710007001
+0.712062257,Percent of Single Family Properties,7.002,420710007002
+0.587096774,Percent of Single Family Properties,7.003,420710007003
+0.654471545,Percent of Single Family Properties,8.001,420710008001
+0.890688259,Percent of Single Family Properties,8.002,420710008002
+0.775510204,Percent of Single Family Properties,8.003,420710008003
+0.64893617,Percent of Single Family Properties,8.004,420710008004
+0.65,Percent of Single Family Properties,9.001,420710009001
+0.768888889,Percent of Single Family Properties,9.002,420710009002
+0.72,Percent of Single Family Properties,9.003,420710009003
+0.805687204,Percent of Single Family Properties,9.004,420710009004
+0.737179487,Percent of Single Family Properties,10.001,420710010001
+0.802919708,Percent of Single Family Properties,10.002,420710010002
+0.8,Percent of Single Family Properties,10.003,420710010003
+0.793233083,Percent of Single Family Properties,10.004,420710010004
+0.712560386,Percent of Single Family Properties,11.001,420710011001
+0.939524838,Percent of Single Family Properties,11.002,420710011002
+0.856741573,Percent of Single Family Properties,11.003,420710011003
+0.922048998,Percent of Single Family Properties,12.001,420710012001
+0.961002786,Percent of Single Family Properties,12.002,420710012002
+0.969837587,Percent of Single Family Properties,12.003,420710012003
+0.844504021,Percent of Single Family Properties,12.004,420710012004
+0.588235294,Percent of Single Family Properties,14.001,420710014001
+0.802105263,Percent of Single Family Properties,14.002,420710014002
+0.780701754,Percent of Single Family Properties,14.003,420710014003
+0.839793282,Percent of Single Family Properties,14.004,420710014004
+0.112676056,Percent of Single Family Properties,118.052,420710118052
+0.836099585,Percent of Single Family Properties,147.001,420710147001
+0.823529412,Percent of Single Family Properties,147.002,420710147002
+0.828282828,Percent of Single Family Properties,147.003,420710147003
+0.63,Percent of Rental Properties,1.001,420710001001
+0.74,Percent of Rental Properties,1.002,420710001002
+0.77,Percent of Rental Properties,1.003,420710001003
+0.31,Percent of Rental Properties,2.001,420710002001
+0.39,Percent of Rental Properties,2.002,420710002002
+0.26,Percent of Rental Properties,3.001,420710003001
+0.31,Percent of Rental Properties,3.002,420710003002
+0.49,Percent of Rental Properties,3.003,420710003003
+0.4,Percent of Rental Properties,3.004,420710003004
+0.47,Percent of Rental Properties,4.001,420710004001
+0.73,Percent of Rental Properties,4.002,420710004002
+0.62,Percent of Rental Properties,4.003,420710004003
+0.63,Percent of Rental Properties,4.004,420710004004
+0.54,Percent of Rental Properties,5.001,420710005001
+0.57,Percent of Rental Properties,5.002,420710005002
+0.43,Percent of Rental Properties,5.003,420710005003
+0.24,Percent of Rental Properties,5.004,420710005004
+0.36,Percent of Rental Properties,6.001,420710006001
+0.64,Percent of Rental Properties,6.002,420710006002
+0.43,Percent of Rental Properties,6.003,420710006003
+0.46,Percent of Rental Properties,6.004,420710006004
+0.39,Percent of Rental Properties,7.001,420710007001
+0.39,Percent of Rental Properties,7.002,420710007002
+0.57,Percent of Rental Properties,7.003,420710007003
+0.59,Percent of Rental Properties,8.001,420710008001
+0.3,Percent of Rental Properties,8.002,420710008002
+0.4,Percent of Rental Properties,8.003,420710008003
+0.61,Percent of Rental Properties,8.004,420710008004
+0.61,Percent of Rental Properties,9.001,420710009001
+0.72,Percent of Rental Properties,9.002,420710009002
+0.67,Percent of Rental Properties,9.003,420710009003
+0.55,Percent of Rental Properties,9.004,420710009004
+0.66,Percent of Rental Properties,10.001,420710010001
+0.75,Percent of Rental Properties,10.002,420710010002
+0.52,Percent of Rental Properties,10.003,420710010003
+0.54,Percent of Rental Properties,10.004,420710010004
+0.53,Percent of Rental Properties,11.001,420710011001
+0.34,Percent of Rental Properties,11.002,420710011002
+0.47,Percent of Rental Properties,11.003,420710011003
+0.29,Percent of Rental Properties,12.001,420710012001
+0.15,Percent of Rental Properties,12.002,420710012002
+0.19,Percent of Rental Properties,12.003,420710012003
+0.39,Percent of Rental Properties,12.004,420710012004
+0.66,Percent of Rental Properties,14.001,420710014001
+0.68,Percent of Rental Properties,14.002,420710014002
+0.47,Percent of Rental Properties,14.003,420710014003
+0.53,Percent of Rental Properties,14.004,420710014004
+0.8,Percent of Rental Properties,118.052,420710118052
+0.56,Percent of Rental Properties,147.001,420710147001
+0.54,Percent of Rental Properties,147.002,420710147002
+0.51,Percent of Rental Properties,147.003,420710147003
+0.8,Percent of City Owned Properties,1.001,420710001001
+0.81,Percent of City Owned Properties,1.002,420710001002
+0.84,Percent of City Owned Properties,1.003,420710001003
+0.89,Percent of City Owned Properties,2.001,420710002001
+0.84,Percent of City Owned Properties,2.002,420710002002
+0.91,Percent of City Owned Properties,3.001,420710003001
+0.87,Percent of City Owned Properties,3.002,420710003002
+0.79,Percent of City Owned Properties,3.003,420710003003
+0.82,Percent of City Owned Properties,3.004,420710003004
+0.81,Percent of City Owned Properties,4.001,420710004001
+0.71,Percent of City Owned Properties,4.002,420710004002
+0.8,Percent of City Owned Properties,4.003,420710004003
+0.86,Percent of City Owned Properties,4.004,420710004004
+0.83,Percent of City Owned Properties,5.001,420710005001
+0.79,Percent of City Owned Properties,5.002,420710005002
+0.82,Percent of City Owned Properties,5.003,420710005003
+0.95,Percent of City Owned Properties,5.004,420710005004
+0.9,Percent of City Owned Properties,6.001,420710006001
+0.69,Percent of City Owned Properties,6.002,420710006002
+0.84,Percent of City Owned Properties,6.003,420710006003
+0.77,Percent of City Owned Properties,6.004,420710006004
+0.83,Percent of City Owned Properties,7.001,420710007001
+0.83,Percent of City Owned Properties,7.002,420710007002
+0.81,Percent of City Owned Properties,7.003,420710007003
+0.78,Percent of City Owned Properties,8.001,420710008001
+0.91,Percent of City Owned Properties,8.002,420710008002
+0.89,Percent of City Owned Properties,8.003,420710008003
+0.8,Percent of City Owned Properties,8.004,420710008004
+0.81,Percent of City Owned Properties,9.001,420710009001
+0.68,Percent of City Owned Properties,9.002,420710009002
+0.79,Percent of City Owned Properties,9.003,420710009003
+0.82,Percent of City Owned Properties,9.004,420710009004
+0.68,Percent of City Owned Properties,10.001,420710010001
+0.72,Percent of City Owned Properties,10.002,420710010002
+0.76,Percent of City Owned Properties,10.003,420710010003
+0.74,Percent of City Owned Properties,10.004,420710010004
+0.83,Percent of City Owned Properties,11.001,420710011001
+0.87,Percent of City Owned Properties,11.002,420710011002
+0.81,Percent of City Owned Properties,11.003,420710011003
+0.89,Percent of City Owned Properties,12.001,420710012001
+0.95,Percent of City Owned Properties,12.002,420710012002
+0.93,Percent of City Owned Properties,12.003,420710012003
+0.86,Percent of City Owned Properties,12.004,420710012004
+0.74,Percent of City Owned Properties,14.001,420710014001
+0.67,Percent of City Owned Properties,14.002,420710014002
+0.84,Percent of City Owned Properties,14.003,420710014003
+0.78,Percent of City Owned Properties,14.004,420710014004
+0.94,Percent of City Owned Properties,118.052,420710118052
+0.8,Percent of City Owned Properties,147.001,420710147001
+0.84,Percent of City Owned Properties,147.002,420710147002
+0.83,Percent of City Owned Properties,147.003,420710147003
+0.2,Percent of Non Locally Owned Properties,1.001,420710001001
+0.19,Percent of Non Locally Owned Properties,1.002,420710001002
+0.16,Percent of Non Locally Owned Properties,1.003,420710001003
+0.11,Percent of Non Locally Owned Properties,2.001,420710002001
+0.16,Percent of Non Locally Owned Properties,2.002,420710002002
+0.09,Percent of Non Locally Owned Properties,3.001,420710003001
+0.13,Percent of Non Locally Owned Properties,3.002,420710003002
+0.21,Percent of Non Locally Owned Properties,3.003,420710003003
+0.18,Percent of Non Locally Owned Properties,3.004,420710003004
+0.2,Percent of Non Locally Owned Properties,4.001,420710004001
+0.29,Percent of Non Locally Owned Properties,4.002,420710004002
+0.2,Percent of Non Locally Owned Properties,4.003,420710004003
+0.14,Percent of Non Locally Owned Properties,4.004,420710004004
+0.17,Percent of Non Locally Owned Properties,5.001,420710005001
+0.21,Percent of Non Locally Owned Properties,5.002,420710005002
+0.18,Percent of Non Locally Owned Properties,5.003,420710005003
+0.05,Percent of Non Locally Owned Properties,5.004,420710005004
+0.1,Percent of Non Locally Owned Properties,6.001,420710006001
+0.31,Percent of Non Locally Owned Properties,6.002,420710006002
+0.16,Percent of Non Locally Owned Properties,6.003,420710006003
+0.23,Percent of Non Locally Owned Properties,6.004,420710006004
+0.17,Percent of Non Locally Owned Properties,7.001,420710007001
+0.17,Percent of Non Locally Owned Properties,7.002,420710007002
+0.19,Percent of Non Locally Owned Properties,7.003,420710007003
+0.22,Percent of Non Locally Owned Properties,8.001,420710008001
+0.09,Percent of Non Locally Owned Properties,8.002,420710008002
+0.11,Percent of Non Locally Owned Properties,8.003,420710008003
+0.2,Percent of Non Locally Owned Properties,8.004,420710008004
+0.19,Percent of Non Locally Owned Properties,9.001,420710009001
+0.32,Percent of Non Locally Owned Properties,9.002,420710009002
+0.21,Percent of Non Locally Owned Properties,9.003,420710009003
+0.18,Percent of Non Locally Owned Properties,9.004,420710009004
+0.32,Percent of Non Locally Owned Properties,10.001,420710010001
+0.28,Percent of Non Locally Owned Properties,10.002,420710010002
+0.24,Percent of Non Locally Owned Properties,10.003,420710010003
+0.26,Percent of Non Locally Owned Properties,10.004,420710010004
+0.17,Percent of Non Locally Owned Properties,11.001,420710011001
+0.13,Percent of Non Locally Owned Properties,11.002,420710011002
+0.19,Percent of Non Locally Owned Properties,11.003,420710011003
+0.11,Percent of Non Locally Owned Properties,12.001,420710012001
+0.05,Percent of Non Locally Owned Properties,12.002,420710012002
+0.07,Percent of Non Locally Owned Properties,12.003,420710012003
+0.14,Percent of Non Locally Owned Properties,12.004,420710012004
+0.26,Percent of Non Locally Owned Properties,14.001,420710014001
+0.33,Percent of Non Locally Owned Properties,14.002,420710014002
+0.16,Percent of Non Locally Owned Properties,14.003,420710014003
+0.22,Percent of Non Locally Owned Properties,14.004,420710014004
+0.06,Percent of Non Locally Owned Properties,118.052,420710118052
+0.2,Percent of Non Locally Owned Properties,147.001,420710147001
+0.16,Percent of Non Locally Owned Properties,147.002,420710147002
+0.17,Percent of Non Locally Owned Properties,147.003,420710147003
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
