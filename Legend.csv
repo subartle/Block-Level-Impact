@@ -1,0 +1,11 @@
+Label,Description,Data Source
+AS 2017,Average Sales Price of single family residential properties in 2017 by block,County Assessment
+Change AS,Total $ amount change in the average sale of single family residential properties in 2017 by block,County Assessment
+Per. Change AS,Total % change in the average sale of single family residential properties in 2017 by block,County Assessment
+OCV 1 yr+,Count of currently open code violations that have been open for more than one year by block,City Code Enforcement Team - Tyler Munis
+OCV,Count of currently open code violations by block,City Code Enforcement Team - Tyler Munis
+Avg Days to Close,Average days between the date a code violation was opened and the date a code violation was closed (or the case’s “comply by” date) by block,City Code Enforcement Team - Tyler Munis
+Condemnations,Count of condemnations that went through the RACL property reinvestment process by block,RACL Property Reinvestment History 2006 - 2018
+Per. Single Family,% of single family residences by block (count of single family residence/count of total parcels),Land Use Code - Tyler Munis
+Per. Rental,% of properties with a tyler munis rental designation by block (count of rental designated properties/count of total parcels),Rental Designation - Tyler Munis
+Per. City Res. Owned,% of parcels with an owner’s zip code that falls within the City by block (count of city-resident owned parcels/count of total parcels),Owner’s Zip Code - Tyler Munis
