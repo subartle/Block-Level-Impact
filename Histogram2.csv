@@ -356,159 +356,57 @@ NA,Est. Avg. Comp Sales (1-Fam) 2007,6.002,4.21E+11
 387,Count of Parcels owned by a City Resident,147.001,4.21E+11
 229,Count of Parcels owned by a City Resident,147.002,4.21E+11
 330,Count of Parcels owned by a City Resident,147.003,4.21E+11
-23,Count of Parcels owned by a County Resident,1.001,4.21E+11
-34,Count of Parcels owned by a County Resident,1.002,4.21E+11
-33,Count of Parcels owned by a County Resident,1.003,4.21E+11
-39,Count of Parcels owned by a County Resident,2.001,4.21E+11
-48,Count of Parcels owned by a County Resident,2.002,4.21E+11
-28,Count of Parcels owned by a County Resident,3.001,4.21E+11
-39,Count of Parcels owned by a County Resident,3.002,4.21E+11
-65,Count of Parcels owned by a County Resident,3.003,4.21E+11
-52,Count of Parcels owned by a County Resident,3.004,4.21E+11
-53,Count of Parcels owned by a County Resident,4.001,4.21E+11
-59,Count of Parcels owned by a County Resident,4.002,4.21E+11
-47,Count of Parcels owned by a County Resident,4.003,4.21E+11
-19,Count of Parcels owned by a County Resident,4.004,4.21E+11
-32,Count of Parcels owned by a County Resident,5.001,4.21E+11
-38,Count of Parcels owned by a County Resident,5.002,4.21E+11
-40,Count of Parcels owned by a County Resident,5.003,4.21E+11
-3,Count of Parcels owned by a County Resident,5.004,4.21E+11
-17,Count of Parcels owned by a County Resident,6.001,4.21E+11
-58,Count of Parcels owned by a County Resident,6.002,4.21E+11
-33,Count of Parcels owned by a County Resident,6.003,4.21E+11
-48,Count of Parcels owned by a County Resident,6.004,4.21E+11
-38,Count of Parcels owned by a County Resident,7.001,4.21E+11
-29,Count of Parcels owned by a County Resident,7.002,4.21E+11
-30,Count of Parcels owned by a County Resident,7.003,4.21E+11
-34,Count of Parcels owned by a County Resident,8.001,4.21E+11
-16,Count of Parcels owned by a County Resident,8.002,4.21E+11
-16,Count of Parcels owned by a County Resident,8.003,4.21E+11
-13,Count of Parcels owned by a County Resident,8.004,4.21E+11
-22,Count of Parcels owned by a County Resident,9.001,4.21E+11
-40,Count of Parcels owned by a County Resident,9.002,4.21E+11
-9,Count of Parcels owned by a County Resident,9.003,4.21E+11
-54,Count of Parcels owned by a County Resident,9.004,4.21E+11
-75,Count of Parcels owned by a County Resident,10.001,4.21E+11
-59,Count of Parcels owned by a County Resident,10.002,4.21E+11
-54,Count of Parcels owned by a County Resident,10.003,4.21E+11
-50,Count of Parcels owned by a County Resident,10.004,4.21E+11
-50,Count of Parcels owned by a County Resident,11.001,4.21E+11
-33,Count of Parcels owned by a County Resident,11.002,4.21E+11
-54,Count of Parcels owned by a County Resident,11.003,4.21E+11
-34,Count of Parcels owned by a County Resident,12.001,4.21E+11
-28,Count of Parcels owned by a County Resident,12.002,4.21E+11
-19,Count of Parcels owned by a County Resident,12.003,4.21E+11
-41,Count of Parcels owned by a County Resident,12.004,4.21E+11
-57,Count of Parcels owned by a County Resident,14.001,4.21E+11
-118,Count of Parcels owned by a County Resident,14.002,4.21E+11
-53,Count of Parcels owned by a County Resident,14.003,4.21E+11
-61,Count of Parcels owned by a County Resident,14.004,4.21E+11
-2,Count of Parcels owned by a County Resident,118.052,4.21E+11
-71,Count of Parcels owned by a County Resident,147.001,4.21E+11
-30,Count of Parcels owned by a County Resident,147.002,4.21E+11
-37,Count of Parcels owned by a County Resident,147.003,4.21E+11
-16,Count of Parcels owned by a State Resident,1.001,4.21E+11
-12,Count of Parcels owned by a State Resident,1.002,4.21E+11
-11,Count of Parcels owned by a State Resident,1.003,4.21E+11
-11,Count of Parcels owned by a State Resident,2.001,4.21E+11
-12,Count of Parcels owned by a State Resident,2.002,4.21E+11
-4,Count of Parcels owned by a State Resident,3.001,4.21E+11
-11,Count of Parcels owned by a State Resident,3.002,4.21E+11
-17,Count of Parcels owned by a State Resident,3.003,4.21E+11
-11,Count of Parcels owned by a State Resident,3.004,4.21E+11
-11,Count of Parcels owned by a State Resident,4.001,4.21E+11
-12,Count of Parcels owned by a State Resident,4.002,4.21E+11
-14,Count of Parcels owned by a State Resident,4.003,4.21E+11
-7,Count of Parcels owned by a State Resident,4.004,4.21E+11
-16,Count of Parcels owned by a State Resident,5.001,4.21E+11
-30,Count of Parcels owned by a State Resident,5.002,4.21E+11
-7,Count of Parcels owned by a State Resident,5.003,4.21E+11
-2,Count of Parcels owned by a State Resident,5.004,4.21E+11
-4,Count of Parcels owned by a State Resident,6.001,4.21E+11
-10,Count of Parcels owned by a State Resident,6.002,4.21E+11
-11,Count of Parcels owned by a State Resident,6.003,4.21E+11
-19,Count of Parcels owned by a State Resident,6.004,4.21E+11
-5,Count of Parcels owned by a State Resident,7.001,4.21E+11
-7,Count of Parcels owned by a State Resident,7.002,4.21E+11
-11,Count of Parcels owned by a State Resident,7.003,4.21E+11
-10,Count of Parcels owned by a State Resident,8.001,4.21E+11
-2,Count of Parcels owned by a State Resident,8.002,4.21E+11
-3,Count of Parcels owned by a State Resident,8.003,4.21E+11
-0,Count of Parcels owned by a State Resident,8.004,4.21E+11
-6,Count of Parcels owned by a State Resident,9.001,4.21E+11
-16,Count of Parcels owned by a State Resident,9.002,4.21E+11
-2,Count of Parcels owned by a State Resident,9.003,4.21E+11
-12,Count of Parcels owned by a State Resident,9.004,4.21E+11
-8,Count of Parcels owned by a State Resident,10.001,4.21E+11
-7,Count of Parcels owned by a State Resident,10.002,4.21E+11
-14,Count of Parcels owned by a State Resident,10.003,4.21E+11
-8,Count of Parcels owned by a State Resident,10.004,4.21E+11
-9,Count of Parcels owned by a State Resident,11.001,4.21E+11
-10,Count of Parcels owned by a State Resident,11.002,4.21E+11
-6,Count of Parcels owned by a State Resident,11.003,4.21E+11
-8,Count of Parcels owned by a State Resident,12.001,4.21E+11
-5,Count of Parcels owned by a State Resident,12.002,4.21E+11
-3,Count of Parcels owned by a State Resident,12.003,4.21E+11
-4,Count of Parcels owned by a State Resident,12.004,4.21E+11
-9,Count of Parcels owned by a State Resident,14.001,4.21E+11
-17,Count of Parcels owned by a State Resident,14.002,4.21E+11
-8,Count of Parcels owned by a State Resident,14.003,4.21E+11
-10,Count of Parcels owned by a State Resident,14.004,4.21E+11
-1,Count of Parcels owned by a State Resident,118.052,4.21E+11
-9,Count of Parcels owned by a State Resident,147.001,4.21E+11
-2,Count of Parcels owned by a State Resident,147.002,4.21E+11
-9,Count of Parcels owned by a State Resident,147.003,4.21E+11
-6,Count of Parcels owned by a US Resident (not PA),1.001,4.21E+11
-7,Count of Parcels owned by a US Resident (not PA),1.002,4.21E+11
-18,Count of Parcels owned by a US Resident (not PA),1.003,4.21E+11
-12,Count of Parcels owned by a US Resident (not PA),2.001,4.21E+11
-17,Count of Parcels owned by a US Resident (not PA),2.002,4.21E+11
-4,Count of Parcels owned by a US Resident (not PA),3.001,4.21E+11
-3,Count of Parcels owned by a US Resident (not PA),3.002,4.21E+11
-8,Count of Parcels owned by a US Resident (not PA),3.003,4.21E+11
-11,Count of Parcels owned by a US Resident (not PA),3.004,4.21E+11
-14,Count of Parcels owned by a US Resident (not PA),4.001,4.21E+11
-5,Count of Parcels owned by a US Resident (not PA),4.002,4.21E+11
-14,Count of Parcels owned by a US Resident (not PA),4.003,4.21E+11
-6,Count of Parcels owned by a US Resident (not PA),4.004,4.21E+11
-9,Count of Parcels owned by a US Resident (not PA),5.001,4.21E+11
-15,Count of Parcels owned by a US Resident (not PA),5.002,4.21E+11
-11,Count of Parcels owned by a US Resident (not PA),5.003,4.21E+11
-5,Count of Parcels owned by a US Resident (not PA),5.004,4.21E+11
-6,Count of Parcels owned by a US Resident (not PA),6.001,4.21E+11
-11,Count of Parcels owned by a US Resident (not PA),6.002,4.21E+11
-9,Count of Parcels owned by a US Resident (not PA),6.003,4.21E+11
-20,Count of Parcels owned by a US Resident (not PA),6.004,4.21E+11
-4,Count of Parcels owned by a US Resident (not PA),7.001,4.21E+11
-7,Count of Parcels owned by a US Resident (not PA),7.002,4.21E+11
-17,Count of Parcels owned by a US Resident (not PA),7.003,4.21E+11
-9,Count of Parcels owned by a US Resident (not PA),8.001,4.21E+11
-3,Count of Parcels owned by a US Resident (not PA),8.002,4.21E+11
-2,Count of Parcels owned by a US Resident (not PA),8.003,4.21E+11
-6,Count of Parcels owned by a US Resident (not PA),8.004,4.21E+11
-3,Count of Parcels owned by a US Resident (not PA),9.001,4.21E+11
-15,Count of Parcels owned by a US Resident (not PA),9.002,4.21E+11
-5,Count of Parcels owned by a US Resident (not PA),9.003,4.21E+11
-8,Count of Parcels owned by a US Resident (not PA),9.004,4.21E+11
-17,Count of Parcels owned by a US Resident (not PA),10.001,4.21E+11
-11,Count of Parcels owned by a US Resident (not PA),10.002,4.21E+11
-14,Count of Parcels owned by a US Resident (not PA),10.003,4.21E+11
-10,Count of Parcels owned by a US Resident (not PA),10.004,4.21E+11
-11,Count of Parcels owned by a US Resident (not PA),11.001,4.21E+11
-15,Count of Parcels owned by a US Resident (not PA),11.002,4.21E+11
-7,Count of Parcels owned by a US Resident (not PA),11.003,4.21E+11
-8,Count of Parcels owned by a US Resident (not PA),12.001,4.21E+11
-5,Count of Parcels owned by a US Resident (not PA),12.002,4.21E+11
-9,Count of Parcels owned by a US Resident (not PA),12.003,4.21E+11
-7,Count of Parcels owned by a US Resident (not PA),12.004,4.21E+11
-9,Count of Parcels owned by a US Resident (not PA),14.001,4.21E+11
-21,Count of Parcels owned by a US Resident (not PA),14.002,4.21E+11
-12,Count of Parcels owned by a US Resident (not PA),14.003,4.21E+11
-13,Count of Parcels owned by a US Resident (not PA),14.004,4.21E+11
-6,Count of Parcels owned by a US Resident (not PA),118.052,4.21E+11
-15,Count of Parcels owned by a US Resident (not PA),147.001,4.21E+11
-11,Count of Parcels owned by a US Resident (not PA),147.002,4.21E+11
-20,Count of Parcels owned by a US Resident (not PA),147.003,4.21E+11
+0.69,Arms Length Sales/All Sales (1-Fams),1.001,4.21E+11
+0.63,Arms Length Sales/All Sales (1-Fams),1.002,4.21E+11
+0.67,Arms Length Sales/All Sales (1-Fams),1.003,4.21E+11
+0.61,Arms Length Sales/All Sales (1-Fams),2.001,4.21E+11
+0.73,Arms Length Sales/All Sales (1-Fams),2.002,4.21E+11
+0.64,Arms Length Sales/All Sales (1-Fams),3.001,4.21E+11
+0.74,Arms Length Sales/All Sales (1-Fams),3.002,4.21E+11
+0.64,Arms Length Sales/All Sales (1-Fams),3.003,4.21E+11
+0.67,Arms Length Sales/All Sales (1-Fams),3.004,4.21E+11
+0.61,Arms Length Sales/All Sales (1-Fams),4.001,4.21E+11
+0.65,Arms Length Sales/All Sales (1-Fams),4.002,4.21E+11
+0.55,Arms Length Sales/All Sales (1-Fams),4.003,4.21E+11
+0.71,Arms Length Sales/All Sales (1-Fams),4.004,4.21E+11
+0.69,Arms Length Sales/All Sales (1-Fams),5.001,4.21E+11
+0.65,Arms Length Sales/All Sales (1-Fams),5.002,4.21E+11
+0.64,Arms Length Sales/All Sales (1-Fams),5.003,4.21E+11
+0.71,Arms Length Sales/All Sales (1-Fams),5.004,4.21E+11
+0.68,Arms Length Sales/All Sales (1-Fams),6.001,4.21E+11
+0.38,Arms Length Sales/All Sales (1-Fams),6.002,4.21E+11
+0.72,Arms Length Sales/All Sales (1-Fams),6.003,4.21E+11
+0.62,Arms Length Sales/All Sales (1-Fams),6.004,4.21E+11
+0.68,Arms Length Sales/All Sales (1-Fams),7.001,4.21E+11
+0.71,Arms Length Sales/All Sales (1-Fams),7.002,4.21E+11
+0.69,Arms Length Sales/All Sales (1-Fams),7.003,4.21E+11
+0.46,Arms Length Sales/All Sales (1-Fams),8.001,4.21E+11
+0.59,Arms Length Sales/All Sales (1-Fams),8.002,4.21E+11
+0.60,Arms Length Sales/All Sales (1-Fams),8.003,4.21E+11
+0.30,Arms Length Sales/All Sales (1-Fams),8.004,4.21E+11
+0.59,Arms Length Sales/All Sales (1-Fams),9.001,4.21E+11
+0.47,Arms Length Sales/All Sales (1-Fams),9.002,4.21E+11
+0.27,Arms Length Sales/All Sales (1-Fams),9.003,4.21E+11
+0.59,Arms Length Sales/All Sales (1-Fams),9.004,4.21E+11
+0.38,Arms Length Sales/All Sales (1-Fams),10.001,4.21E+11
+0.40,Arms Length Sales/All Sales (1-Fams),10.002,4.21E+11
+0.50,Arms Length Sales/All Sales (1-Fams),10.003,4.21E+11
+0.52,Arms Length Sales/All Sales (1-Fams),10.004,4.21E+11
+0.69,Arms Length Sales/All Sales (1-Fams),11.001,4.21E+11
+0.72,Arms Length Sales/All Sales (1-Fams),11.002,4.21E+11
+0.60,Arms Length Sales/All Sales (1-Fams),11.003,4.21E+11
+0.68,Arms Length Sales/All Sales (1-Fams),12.001,4.21E+11
+0.72,Arms Length Sales/All Sales (1-Fams),12.002,4.21E+11
+0.71,Arms Length Sales/All Sales (1-Fams),12.003,4.21E+11
+0.72,Arms Length Sales/All Sales (1-Fams),12.004,4.21E+11
+0.41,Arms Length Sales/All Sales (1-Fams),14.001,4.21E+11
+0.57,Arms Length Sales/All Sales (1-Fams),14.002,4.21E+11
+0.60,Arms Length Sales/All Sales (1-Fams),14.003,4.21E+11
+0.69,Arms Length Sales/All Sales (1-Fams),14.004,4.21E+11
+0.56,Arms Length Sales/All Sales (1-Fams),118.052,4.21E+11
+0.55,Arms Length Sales/All Sales (1-Fams),147.001,4.21E+11
+0.39,Arms Length Sales/All Sales (1-Fams),147.002,4.21E+11
+0.41,Arms Length Sales/All Sales (1-Fams),147.003,4.21E+11
 28,Count of Single Family Properties,1.001,4.21E+11
 18,Count of Single Family Properties,1.002,4.21E+11
 108,Count of Single Family Properties,1.003,4.21E+11
